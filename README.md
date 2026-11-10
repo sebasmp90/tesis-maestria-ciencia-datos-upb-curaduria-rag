@@ -29,9 +29,9 @@ La base curada del caso se construyó en 3 segundos, con reglas y sin modelos de
 |---|---|
 | `informe/` | El informe final en Word y en Markdown, y sus 14 figuras en `figuras/` |
 | `resumen/` | `resumen_del_proyecto.html`: una página que explica el trabajo para quien no lo conoce, con un ejemplo real y la línea de tiempo del caso de estudio. Se abre con doble clic en cualquier navegador |
-| `anexos/` | Los archivos de soporte, en una subcarpeta por anexo (ver abajo) |
+| `Anexo_A/` a `Anexo_I/` | Los archivos de soporte, en una carpeta por anexo (ver abajo) |
 
-| Subcarpeta de `anexos/` | Anexo | Contenido |
+| Carpeta | Anexo | Contenido |
 |---|---|---|
 | `Anexo_A/` | Protocolo y exportación de la búsqueda | Protocolo de la revisión y los tres archivos exportados de Dimensions el 1 de agosto de 2026 (734 registros) |
 | `Anexo_B/` | Registro completo del cribado | Los 692 registros con su decisión y su razón, el flujo PRISMA y los 107 elegibles |
@@ -45,13 +45,13 @@ Los anexos E y H están dentro del informe.
 
 ## Reproducir los resultados
 
-Desde la carpeta `anexos/Anexo_I/`:
+Desde la carpeta `Anexo_I/`:
 
 1. `python codigo/curar.py` reconstruye la base curada (9.529 registros) en `curaduria/`, idéntica byte a byte a la publicada en `base_curada/unidades.jsonl.zip`, que va comprimida porque GitHub no admite archivos tan grandes desde el navegador.
 2. `python codigo/validar_curaduria.py ../Anexo_F/banco_agente_D.csv` ejecuta el control de salida contra el banco de prueba.
 3. `python codigo/analisis.py` reproduce las pruebas estadísticas y las tablas de la sección 7.1.3.7 del informe a partir de la calificación del Anexo G.
 
-Los tres pasos corren con Python 3.12, `numpy`, `scipy` y `openpyxl`, sin tarjeta gráfica ni modelos de lenguaje. Para indexar y consultar se necesitan además LangChain, Chroma y Ollama con `qwen3:8b` y `nomic-embed-text`. Las instrucciones completas están en `anexos/Anexo_I/LEEME.md`.
+Los tres pasos corren con Python 3.12, `numpy`, `scipy` y `openpyxl`, sin tarjeta gráfica ni modelos de lenguaje. Para indexar y consultar se necesitan además LangChain, Chroma y Ollama con `qwen3:8b` y `nomic-embed-text`. Las instrucciones completas están en `Anexo_I/LEEME.md`.
 
 ## Notas
 
