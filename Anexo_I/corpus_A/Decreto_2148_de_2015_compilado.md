@@ -1,0 +1,2333 @@
+
+
+<!-- página 1 -->
+
+DECRETO 2148 DE 2015
+(diciembre 30)
+GACETA OFICIAL. AÑO XXII. N. 4355. 08, ENERO, 2016. PÁG. 832.
+ALCALDÍA DE MEDELLÍN
+Por medio del cual, se reglamenta el aprovechamiento económico del espacio público, se fijan
+las retribuciones por su utilización, se crean la Comisión Intersectorial Asesora del Espacio
+Público y el Comité Técnico.
+Resumen de Notas de Vigencia
+NOTAS DE VIGENCIA:
+- Modificado por el Decreto 522 de 2018 de la Alcaldía de Medellín, 'por medio del cual se
+modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta Oficial No. 4536 de 23
+de julio de 2018.
+EL ALCALDE DE MEDELLÍN
+En uso de las atribuciones que le confieren los numerales 1 y 3 del artículo 315 de la
+Constitución Política, las legales conferidas en los numerales 1 y 14 del literal D del artículo 29
+de la Ley 1551 de 2012 y de conformidad con lo establecido en las leyes 9 de 1989, Ley 388 de
+1997, el Decreto Nacional 1077 de 2015, el Acuerdo Municipal 48 de 2014, y,
+Concordancias MEDELLIN
+2017:
+Decreto 400 de 2017, por el cual se reglamenta el funcionamiento, proceso contractual,
+registro e instalación de los relojes públicos e informadores electrónicos y digitales en el
+Municipio de Medellín y se dictan otras disposiciones
+2016:
+Resolución 1925 de 2016, por medio de la cual se convoca a participar del sorteo, para la
+adjudicación de las ventas transitorias y ocasionales con motivo de los alumbrados navideños
+del año 2016, y se fijan los requisitos de cumplimiento para su realización y se dictan otras
+disposiciones
+Doctrina Concordante MEDELLIN
+
+
+<!-- página 2 -->
+
+2016:
+Concepto SGMED 125 de 2016 - Viabilidad del proyecto de acuerdo 'Por medio del cual se
+regula la Publicidad Exterior Visual en el Municipio de Medellin y se dictan otras
+disposiciones'
+Concepto SGMED 85 de 2016 - Competencias de la Agencia APP
+Concepto SGMED 55 de 2016 - Competencia para Aprovechamiento Económico del Espacio
+Público
+CONSIDERANDO QUE:
+**1.** “Es deber del Estado velar por la protección de la integridad del Espacio Público y por su
+destinación al uso común, el cual prevalece sobre el interés particular”, de conformidad con lo
+establecido en el Artículo 82 de la Constitución Política de Colombia.
+2. La Ley 388 de 1997, que modificó la Ley 9ª de 1989, puntualiza que el ordenamiento del
+territorio municipal y distrital tiene por objeto complementar la planificación económica y social
+con la dimensión territorial, racionalizar las intervenciones sobre el territorio y orientar su
+desarrollo y aprovechamiento sostenible, mediante la definición de las estrategias territoriales de
+uso, ocupación y manejo del suelo, en función de los objetivos económicos, sociales,
+urbanísticos y ambientales.
+3. El artículo 29 de la Ley 1551 de 2012, que modifica el artículo 91 de la Ley 136 de 1994,
+establece que el Alcalde, puede coordinar las actividades y servicios de los establecimientos
+públicos, empresas industriales y comerciales, sociedades de economía mixta, fondos rotatorios y
+unidades administrativas especiales del municipio.
+4. El Decreto Nacional 1077 de 2015, reglamenta el manejo del espacio público en los planes de
+ordenamiento territorial en el capítulo tercero; entre otras, determina como potestativo de los
+municipios, la creación de entidades responsables de la administración, desarrollo,
+mantenimiento y apoyo financiero del espacio público; contratar con entidades privadas la
+administración, mantenimiento y el aprovechamiento económico para el municipio o distrito del
+espacio público, sin que impida a la ciudadanía de su uso, goce, disfrute visual y libre tránsito;
+dispone además, que, en el caso de áreas públicas de uso activo o pasivo, en especial, parques,
+plazas y plazoletas, los municipios y distritos podrán autorizar su uso por parte de entidades
+privadas para usos compatibles con la condición del espacio público mediante contratos, los
+cuales, en ningún caso, generarán derechos reales para las entidades privadas y deberán dar
+estricto cumplimiento a la prevalencia del interés general sobre el particular.
+5. Por la Sentencia SU 360 de 1999, se establece a las autoridades locales y distritales, la
+obligación de propender por otorgar a las personas de escasos recursos que pretenden explotar el
+espacio público, a través de las ventas informales, los medios necesarios para que se equilibren
+las cargas de los derechos fundamentales de carácter general y los de carácter particular y
+concreto, que se encuentran y contraponen en el tema de la venta informal.
+6. La Ordenanza 18 de 2002, por la cual se expide el Código de Convivencia Ciudadana para el
+Departamento de Antioquia, en el Capítulo I del Título II, establece las directrices aplicables a
+las ventas ambulantes y estacionarias, entre las que se encuentran los requisitos de ubicación para
+
+
+<!-- página 3 -->
+
+la entrega de permisos y las causales de cancelación.
+**7.** El Acuerdo Municipal 48 de 2014, por medio del cual se adopta la revisión y ajuste de largo
+plazo del Plan de Ordenamiento territorial del Municipio de Medellín y se dictan otras
+disposiciones, establece en el Artículo 544: “Dentro de los doce (12) meses siguientes a la
+entrada en vigencia del presente Acuerdo, la Administración Municipal expedirá la
+reglamentación específica sobre la administración, mantenimiento y aprovechamiento económico
+del espacio público, que acogerá en lo pertinente la reglamentación que para el efecto expida el
+Concejo Municipal y contendrá disposiciones sobre los siguientes temas:
+1. Los espacios susceptibles de ser aprovechados económicamente.
+2. Las actividades permitidas en el espacio público, de conformidad con la norma general de usos
+del suelo del presente Acuerdo, tanto para bienes objeto de aprovechamiento transitorio, como
+para los de aprovechamiento temporal.
+3. Los sitios prohibidos para el aprovechamiento económico.
+4. Las actividades prohibidas en el espacio público.
+5. Las modalidades, criterios y valoración para los contratos de administración, mantenimiento
+y/o aprovechamiento económico del espacio público.
+6. El procedimiento general contractual para la administración, mantenimiento y
+aprovechamiento económico del espacio público.
+7. Las obligaciones y prohibiciones contractuales.
+8. El manejo contable y presupuestal. La creación de una cuenta bancaria y fondo presupuestal
+donde se lleven los recursos obtenidos por efecto del aprovechamiento económico del espacio
+público, u otras formas contractuales, que tendrán como destinación el mantenimiento,
+mejoramiento, recuperación y restitución del espacio público.
+9. Programas de reubicación de actividades económicas informales en el espacio público.
+10. Los esquemas de mejoramiento de los centros comerciales populares.”
+8. El Acuerdo 48 de 2014 establece las restricciones con respecto con las zonas de preservación
+urbanística y edificaciones de valor patrimonial y las compensaciones a que haya lugar por
+detrimento del componente verde.
+Actualmente, la utilización del espacio público no representa una retribución económica
+significativa al Municipio de Medellín, con la cual se garantice su recuperación y mantenimiento;
+por tanto, se hace necesario, en concordancia con las normas precitadas, ajustar la
+reglamentación vigente estableciendo las herramientas y procedimientos que aseguren la
+cualificación y sostenibilidad de los espacios públicos y el paisaje urbano, a partir de una
+explotación ordenada y racional, definiendo una retribución económica derivada de su
+aprovechamiento o utilización.
+9. El Decreto Municipal 883 de 2015, establece la estructura municipal, competencias y
+funciones relacionadas con el tema en cuestión, y en su artículo 66o, establece que, el Alcalde
+podrá crear comisiones intersectoriales para la coordinación y orientación de la ejecución de
+
+
+<!-- página 4 -->
+
+ciertas funciones y servicios públicos, en razón de sus características, que están a cargo de dos o
+más secretarias, departamentos administrativos o entidades descentralizadas, sin perjuicio de las
+competencias específicas de cada uno de ellos.
+**10.** El Concejo de Medellín, mediante el Acuerdo Municipal No 50 de 2015, estableció la
+Política Pública para la Administración, Mantenimiento y Aprovechamiento Económico del
+Espacio Público en el municipio de Medellín, y encargó de su reglamentación específica, al
+Alcalde Municipal, estableciendo en su artículo 8o un plazo de apremio a 31 de diciembre de
+2015.
+11. El Decreto que se adopta cuenta con la viabilidad técnica y financiera del Departamento
+Administrativo de Planeación y de la Secretaría de Hacienda (radicado 201500664536 de
+diciembre 28 de 2015) respectivamente, de conformidad con el artículo 538 del Acuerdo 48 de
+2014, para lo cual se realizaron mesas de estudio interdisciplinarias e interinstitucionales, con la
+participación de los actores públicos y privados que tienen injerencia en el espacio público.
+En razón de lo anterior,
+DECRETA:
+CAPITULO I.
+GENERALIDADES.
+ARTÍCULO 1o. OBJETO Y ALCANCE. Reglamentar el aprovechamiento económico del
+espacio público, ordenando su utilización y definiendo mecanismos para la obtención de
+retribuciones económicas que garanticen su cualificación y sostenibilidad, en aplicación de lo
+establecido en el Plan de Ordenamiento Territorial, con el fin de facilitar la coordinación
+interinstitucional para la implementación de este instrumento, lo cual garantizará a corto,
+mediano y largo plazo, su cualificación y sostenibilidad de los inmuebles destinados al espacio
+público y la seguridad de las actividades o los eventos que allí se permitan.
+ARTÍCULO 2o. ÁMBITO DE APLICACIÓN. <Artículo modificado por el artículo 2 del
+Decreto 522 de 2018 de la Alcaldía de Medellín. El nuevo texto es el siguiente:> Esta
+reglamentación rige para la jurisdicción del Municipio de Medellín y será aplicable en todo el
+territorio, sobre las áreas constitutivas del espacio público y sus elementos complementarios,
+definidos en el artículo 2.2.3.1.5 del Decreto Único Nacional 1077 de 2015, el Decreto 2148 de
+2015 y las normas que los modifiquen, complementen o sustituyan, y de conformidad con las
+normas establecidas en el Plan de Ordenamiento Territorial
+- Acuerdo 048 de 2014, en el Manual del Espacio Público Decreto Municipal 113 de 2017, en el
+presente decreto y demás normas complementarias.
+El instrumento de financiación del Plan de Ordenamiento Territorial se aplicará a cualquier
+persona que utilice, uno o varios elementos constitutivos del espacio público, con alguno de los
+siguientes fines:
+1. Para la cualificación y sostenibilidad planificada y sistémica del espacio público y del paisaje
+urbano, en concordancia con el artículo 74 del Acuerdo 48 de 2014 o la norma que lo modifique,
+
+
+<!-- página 5 -->
+
+adicione o sustituya.
+2. Para la administración con la posibilidad de realizar mejoras.
+3. Para su mantenimiento y preservación.
+4. Para la realización de actividades en el espacio público con fines lucrativos, ya sea en dinero o
+en especie.
+PARÁGRAFO 1. El instrumento tendrá efectos a partir de la expedición del respectivo acto
+administrativo que autorice la realización de una actividad o de la legalización del contrato,
+según el caso.
+PARÁGRAFO 2. La utilización e intervención en los elementos arquitectónicos, espaciales y
+naturales de los inmuebles de propiedad privada, que por su localización y condiciones
+ambientales y paisajísticas, sean incorporadas como tales en los planes de ordenamiento
+territorial y los instrumentos que lo desarrollen, tales como, cubiertas, fachadas, paramentos,
+pórticos, antejardines, cerramientos de edificaciones y demás, se rigen por las disposiciones antes
+mencionadas, así como por contratos, convenios y alianzas público privadas celebrados con el
+propietario del bien.
+PARÁGRAFO 3. Las intervenciones en los elementos de los subsistemas de espacio público de
+esparcimiento y encuentro, de movilidad y de Patrimonio Cultural Inmueble y la estructura
+ecológica principal acogerán las disposiciones normativas antes mencionadas. Asimismo, en las
+áreas protegidas o de reserva natural, prevalecerán las normas que regulen la materia.
+PARÁGRAFO 4. Para el funcionamiento de las ventas informales en el espacio público, se debe
+cumplir con los requisitos establecidos en las normas que regulan la materia.
+Notas de Vigencia
+- Artículo modificado por el artículo 2 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+
+
+<!-- página 6 -->
+
+Texto original del artículo 2 del Decreto 522 de 2018:
+ARTÍCULO 2o. ÁMBITO DE APLICACIÓN. Esta reglamentación rige para la jurisdicción
+del Municipio de Medellín y será aplicable en todo el territorio, sobre las áreas constitutivas
+del espacio público y sus elementos complementarios, definidos en el artículo 2.2.3.1.5 del
+Decreto Único Nacional 1077 de 2015 o la norma que lo modifique o sustituya.
+El presente instrumento de gestión financiera se aplicará a cualquier persona que utilice, uno
+o varios elementos constitutivos del espacio público, con los siguientes fines:
+- Para la cualificación y sostenibilidad planificada y sistémica del espacio público y del
+paisaje urbano.
+- Para la administración con la posibilidad de realiza mejoras.
+- Para su mantenimiento y preservación.
+- Para la realización de actividades con o sin uso lucrativo.
+El presente instrumento de gestión financiera tiene efectos a partir de la expedición del
+respectivo permiso, o de la suscripción y legalización del contrato, según el caso.
+PARÁGRAFO 1o. La utilización e intervención en los elementos arquitectónicos, espaciales
+y naturales de los inmuebles de propiedad privada que por su naturaleza, uso o afectación
+satisfacen necesidades de uso público, tales como, fachadas, cerramientos, antejardines,
+cubiertas de edificaciones y demás, se rigen por las disposiciones respectivas, así como por
+contratos, convenios y alianzas público privadas celebrados con el propietario del bien.
+PARÁGRAFO 2o. Las modalidades, exigencias, requisitos y procedimientos para la
+expedición de la licencia de intervención y ocupación del espacio público, son las definidas
+en el artículo 2.2.6.1.1.13 del Decreto Único Nacional 1077 de 2015, o la norma que lo
+modifique o sustituya.
+PARÁGRAFO 3o. Las intervenciones en los elementos del Subsistema de Patrimonio
+Cultural Inmueble y la estructura ecológica principal acogerá la normativa del Acuerdo
+Municipal 48 de 2014 o la norma que lo modifique o sustituya, y las normas de orden
+nacional que le sean aplicables. Para su utilización, deberá agotar los procedimientos
+establecidos en dicho Acuerdo y en las normas que lo reglamenten. Asimismo, en las áreas
+protegidas o de reserva natural, prevalecen las normas que regulen la materia.
+PARÁGRAFO 4o. Para el funcionamiento de las ventas informales reguladas en el espacio
+público, se debe cumplir con los requisitos establecidos en el Capítulo I del Título II de la
+Ordenanza 018 de 2002, o las normas que la modifiquen, complementen o sustituyan y
+demás normas que regulan la materia.
+ARTÍCULO 3o. ALCANCE DEL APROVECHAMIENTO ECONÓMICO. <Artículo
+derogado por el artículo 31 del Decreto 522 de 2018 de la Alcaldía de Medellín. El nuevo texto
+es el siguiente:>
+Notas de Vigencia
+
+
+<!-- página 7 -->
+
+- Artículo derogado por el artículo 31 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 10 del Decreto 522 de 2018:
+ARTÍCULO 3o. ALCANCE DEL APROVECHAMIENTO ECONÓMICO. Se entiende por
+aprovechamiento económico del espacio público, el instrumento de gestión financiera del
+espacio público y las acciones tendientes a garantizar su cualificación y sostenibilidad,
+elementos complementarios y paisaje urbano, y el disfrute colectivo del mismo, realizadas
+por la Administración Municipal en cumplimiento de su deber constitucional, las cuales,
+pueden ser desarrolladas por personas naturales o jurídicas, mediante la suscripción de un
+contrato de administración, mantenimiento y/o aprovechamiento económico, conforme a lo
+establecido en el artículo 539 del Acuerdo 48 de 2014, o la norma que lo adicione, modifique
+o sustituya.
+Doctrina Concordante MEDELLIN
+2017:
+Concepto SGMED 80 de 2017 - Aprovechamiento Económico del Espacio Público en
+ciclovías y en zonas aledañas a la infraestructura del Metro de Medellín
+ARTICULO 4o. MANEJO DE LOS INGRESOS GENERADOS POR EL
+APROVECHAMIENTO ECONÓMICO DEL ESPACIO PÚBLICO. <Artículo modificado por
+el artículo 3 del Decreto 522 de 2018 de la Alcaldía de Medellín. El nuevo texto es el siguiente:>
+En ejercicio de las competencias asignadas por el Decreto Municipal 883 de 2015 y por el
+Acuerdo Municipal 01 de 2016, para las distintas dependencias del Municipio de Medellín, las
+funciones estarán distribuidas así:
+1. Dependencia gestora del ingreso. La Secretaría de Seguridad y Convivencia del Municipio de
+Medellín, a través de la Subsecretaría de Espacio público, será la dependencia gestora del
+ingreso, encargada de autorizar el aprovechamiento económico transitorio del espacio público y
+suscribir los contratos del aprovechamiento económico temporal del espacio público, liquidar el
+valor del aprovechamiento económico del espacio público, expedir el documento de cobro,
+efectuar la validación del pago. En caso de incumplimiento y devoluciones, se adelantará el
+trámite respectivo ante la dependencia responsable.
+Esta dependencia podrá celebrar convenios o contratos interadministrativos con la Agencia para
+la Gestión del Paisaje, el Patrimonio y las Alianzas Público Privadas, con miras a la operación
+del presente instrumento.
+2. Recaudo. La Secretaría de Hacienda, a través de la Subsecretaría de Tesorería, será la
+responsable del recaudo de los recursos generados por concepto de aprovechamiento económico
+del espacio público.
+3. Direccionamiento y priorización para la aplicación de los recursos por concepto del
+aprovechamiento económico del espacio público. De conformidad con el Decreto Municipal
+
+
+<!-- página 8 -->
+
+1569 de 2016, modificado por los decretos 621 de 2017 y 127 de 2017, y las normas que los
+modifiquen, adicionen o sustituyan, el direccionamiento de los recursos provenientes de la
+aplicación de cualquiera de las modalidades de aprovechamiento económico destinado a la
+cualificación y sostenibilidad del espacio público, estará a cargo del Consejo de
+Direccionamiento Estratégico del Plan de Ordenamiento Territorial, con el apoyo de su Comité
+Técnico.
+4. Ordenador del gasto. El ordenador del gasto de los proyectos financiados con estos recursos,
+será quién tenga incorporadas las apropiaciones presupuestales de acuerdo al objeto y a las
+funciones propias de la dependencia a su cargo.
+5. Control y seguimiento sobre el aprovechamiento económico del espacio público. La
+Subsecretaría de Espacio Público adscrita a la Secretaría de Seguridad y Convivencia, será la
+responsable de ejercer control y regulación del cumplimiento de los requisitos establecidos para
+las personas naturales y jurídicas que hagan uso del espacio público.
+La Secretaría de Hacienda deberá suministrar a requerimiento de la Comisión Intersectorial
+Asesora del Espacio Público la información pertinente y oportuna sobre el recaudo y el gasto de
+los recursos provenientes de cada una de las modalidades de aprovechamiento económico del
+espacio público.
+Notas de Vigencia
+- Artículo modificado por el artículo 3 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 4 del Decreto 522 de 2018:
+ARTICULO 4o. COMPETENCIAS PARA EL MANEJO DE LOS INGRESOS
+GENERADOS POR EL APROVECHAMIENTO ECONÓMICO DEL ESPACIO
+PÚBLICO. En ejercicio de las competencias asignadas por el Decreto Municipal 883 de 2015
+para las distintas dependencias del Municipio de Medellín, las funciones estarán distribuidas
+así:
+Dependencia gestora del ingreso. La Agencia para la Gestión del Paisaje, el Patrimonio y las
+Alianzas Publico Privadas, mediante la celebración de convenios o contratos con la
+dependencia competente, podrá realizar la contratación, la liquidación del valor del
+aprovechamiento económico del espacio público, la expedición del documento de cobro,
+efectuar la validación del pago y en caso de incumplimiento, adelantar los cobros a que haya
+lugar. Si hay lugar a devolución, la dependencia gestora es la responsable de reconocer y/o
+autorizar la devolución del pago de más o de lo no debido.
+1. Recaudo. La Secretaría de Hacienda a través de la Subsecretaría de Tesorería será la
+responsable del recaudo de los recursos generados por concepto de aprovechamiento
+económico del espacio público, para lo cual se dará apertura a una cuenta bancaria específica
+para su administración.
+2. Direccionamiento estratégico para la priorización y la aplicación de los recursos por
+concepto del aprovechamiento económico del espacio público. Hasta tanto la Administración
+
+
+<!-- página 9 -->
+
+Municipal expida la reglamentación general aplicable a los instrumentos del subsistema de
+financiación, el direccionamiento estratégico estará a cargo del Departamento Administrativo
+de Planeación con corresponsabilidad de la Agencia para la Gestión del Paisaje, el
+Patrimonio y las Alianzas Publico Privadas.
+3. Ordenador del gasto. El ordenador del gasto de los proyectos financiados con estos
+recursos, será quién tenga incorporadas las apropiaciones de acuerdo al objeto y a las
+funciones propias de la dependencia a su cargo.
+4. Control sobre la administración, mantenimiento y aprovechamiento económico del espacio
+público, la Subsecretaria de Espacio Público de la Secretaría de Gobierno, será la responsable
+de ejercer control de los permisos, ubicación y cumplimiento de los requisitos establecidos
+para las personas naturales y jurídicas que hagan uso del espacio público.
+Las dependencias y entidades responsables del aprovechamiento económico del espacio
+público, deberán suministrar periódicamente la información pertinente y oportuna, para que
+la Subsecretaria de Espacio Público pueda ejercer la función de control.
+Doctrina Concordante MEDELLIN
+2017:
+Concepto SGMED 80 de 2017 - Aprovechamiento Económico del Espacio Público en
+ciclovías y en zonas aledañas a la infraestructura del Metro de Medellín
+ARTICULO 5o. DESTINACIÓN. <Artículo modificado por el artículo 4 del Decreto 522 de
+2018 de la Alcaldía de Medellín. El nuevo texto es el siguiente:> De acuerdo a la destinación
+específica dada por el Plan de Ordenamiento Territorial en el numeral 8, del artículo 544 y el
+artículo 6o del Acuerdo Municipal 50 del 2015, los recursos que se recauden por concepto del
+aprovechamiento económico del espacio público, así como sus rendimientos financieros se
+direccionarán en coherencia con los tipos de actuación 1, 2 y 3, establecidos en el artículo 74 del
+Acuerdo Municipal 48 de 2014 y acorde a los criterios de priorización determinados por los
+Planes de Acción y el Plan de Desarrollo vigentes.
+PARÁGRAFO. Los proyectos de inversión correspondientes a la ejecución de estos recursos,
+deberán atender a los principios presupuestales de planificación y de programación integral del
+gasto, de conformidad con el Decreto Municipal 006 de 1998 “Estatuto orgánico del presupuesto
+municipal” o el que lo adicione, modifique o sustituya.
+Notas de Vigencia
+- Artículo modificado por el artículo 4 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+
+
+<!-- página 10 -->
+
+Texto original del artículo 5 del Decreto 522 de 2018:
+ARTICULO 5o. DESTINACIÓN. Los recursos que se recauden por concepto del
+aprovechamiento económico del espacio público, así como sus rendimientos financieros,
+tendrán destinación específica según los criterios de priorización establecidos en el Acuerdo
+Municipal 48 de 2014 y en el artículo 6o del Acuerdo Municipal 50 del 2015 “Por medio del
+cual se establece la política pública para la administración, mantenimiento y
+aprovechamiento económico del espacio público en el Municipio de Medellín”, para lo cual
+se creará una cuenta bancaria y fondo presupuestal, donde se lleven los recursos obtenidos.
+PARÁGRAFO. El proyecto de inversión correspondiente a la ejecución de estos recursos,
+debe atender a los principios presupuestales de planificación y de programación integral del
+gasto, de conformidad con el Decreto Municipal 006 de 1998 “Estatuto orgánico del
+presupuesto municipal” o el que lo adicione o modifique.
+CAPÍTULO II.
+APROVECHAMIENTO ECONÓMICO DEL ESPACIO PÚBLICO.
+ARTÍCULO 6o. TEMPORALIDADES DE LAS FORMAS DE APROVECHAMIENTO
+DEL ESPACIO PÚBLICO. <Artículo modificado por el artículo 5 del Decreto 522 de 2018 de la
+Alcaldía de Medellín. El nuevo texto es el siguiente:> Las formas del aprovechamiento
+económico del espacio público establecidas en el artículo 542 del Acuerdo 48 de 2014 o la
+norma que lo adicione, modifique o sustituya, se sujetan a los siguientes plazos:
+1. Aprovechamiento económico transitorio del espacio público: Para estos casos, la autorización
+de ocupación y aprovechamiento económico del espacio público se otorgará por un lapso no
+mayor a 30 días calendario.
+La ocupación transitoria asociada a las actividades de la temporada Decembrina podrá extenderse
+por un plazo mayor a 30 días calendario, sin superar los 90 días calendario, conservando su
+carácter de transitorio.
+2. Aprovechamiento económico temporal del espacio público: Para estos casos, se podrá
+autorizar el aprovechamiento por un lapso superior a 30 días calendario e inferior a un año, sin
+perjuicio de que el contrato pueda renovarse, previo análisis y ajustes a nuevos valores.
+En caso que el aprovechamiento económico del espacio público involucre administración,
+mantenimiento o intervención del mismo, la Comisión Intersectorial del Espacio Público,
+viabilizará la estructuración técnica, jurídica y financiera donde se podrá establecer un plazo
+mayor. En estos eventos la formalización del aprovechamiento se hará de conformidad con las
+normas que regulan la contratación estatal, y su selección se llevará a cabo mediante
+convocatoria pública y abierta, con fundamento en los aspectos técnicos, jurídicos y financieros
+de cada proyecto.
+Notas de Vigencia
+
+
+<!-- página 11 -->
+
+- Artículo modificado por el artículo 5 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 6 del Decreto 522 de 2018:
+ARTÍCULO 6o. FORMAS DE APROVECHAMIENTO DEL ESPACIO PÚBLICO. Las
+formas de aprovechamiento establecidos en el artículo 542 del Acuerdo 48 de 2014 o la
+norma que lo adicione, modifique o sustituya, se definen los siguientes plazos:
+1. Aprovechamiento económico transitorio del espacio público: Se entiende como el uso con
+fines lucrativos del espacio público; para estos casos, el permiso de ocupación del espacio
+público se otorgará por un lapso no mayor a 30 días calendario.
+2. Aprovechamiento económico temporal del espacio público: Se entiende como el uso con
+fines lucrativos del espacio público por un lapso superior a 30 días calendario e inferior a un
+año, sin perjuicio de que el contrato suscrito pueda renovarse, previos análisis y ajustes a
+nuevos valores, entre otros aspectos que establezca la comisión intersectorial reglamentada
+por el presente Decreto.
+PARÁGRAFO. Las actividades transitorias asociadas a la temporada Decembrina, de Feria
+de Flores, entre otros eventos de ciudad que determine la Administración Municipal, podrán
+extenderse por un plazo no mayor a 90 días, sin que cambie su carácter de transitorio.
+ARTÍCULO 6A. MODALIDADES DE APROVECHAMIENTO ECONÓMICO DEL
+ESPACIO PÚBLICO: <Artículo adicionado por el artículo 6 del Decreto 522 de 2018 de la
+Alcaldía de Medellín. El nuevo texto es el siguiente:> Las modalidades se definen por la
+instalación o permanencia en el espacio público y su utilización con fines económicos, estas son:
+Tabla 1: Relación de las formas con las modalidades de aprovechamiento económico del espacio
+público:
+FORMAS MODALIDADES
+Temporal Amoblamiento urbano e infraestructura de servicios públicos, (I)
+Parqueaderos con o sin actividad económica (II)
+Temporal y Mesas y sillas (III)
+transitorio
+Avisos publicitarios (IV)
+Eventos ocasionales (V)
+Parques de diversiones no permanentes (VI)
+Notas de la tabla 1 concerniente a la relación de las formas con las modalidades de
+aprovechamiento económico del espacio público:
+(I) Se incluyen las Unidades Sanitarias Públicas – USP, los objetos para acceso y señal de
+internet, los paraderos, las basureras, los surtidores de agua, los postes con antenas de telefonía
+
+
+<!-- página 12 -->
+
+celular privadas, postes de energía, entre otros. Adicionalmente, las actividades económicas que
+se desarrollen en enlaces aéreos o bajo superficie.
+(II) Se incluyen las Unidades Económicas Móviles – UEM, los centros logísticos de transporte de
+pasajeros bajo superficie, los parqueaderos públicos bajo superficie y en vías vehiculares, entre
+otros. Se entienden por parqueaderos sin actividad económica aquellos que solo incluyan su
+administración y que no generen tarifas por su utilización al público en general.
+(III) Se incluyen mesas y sillas no fijas. Se permite como extensión del negocio, conforme al
+Manual del Espacio Público.
+(IV) Se incluyen los avisos publicitarios por ser menores a 8m2 y los informadores electrónicos y
+digitales, según la normativa nacional y municipal vigente.
+(V) Se incluyen algunos eventos transitorios que tienen actividades económicas y de activación
+de marca, en cuyo caso se podrá requerir la ocupación del espacio público con mesas y sillas,
+entre otros elementos transitorios asociados al evento.
+(VI) Se refiere a los juegos mecánicos, de conformidad con lo establecido en la Ley 1225 de
+2008, Decreto Municipal 1199 de 2011, y las normas que las modifiquen, adicionen o sustituyan.
+PARÁGRAFO. El Manual de procedimientos para el Aprovechamiento Económico del espacio
+público, determinará la reglamentación y el procedimiento aplicable a las distintas modalidades
+de que trata el presente artículo. Este, deberá contener como mínimo la definición de la
+modalidad, su alcance, ámbito de aplicación, las normas técnicas específicas y los requerimientos
+propios para cada modalidad.
+Para mayor comprensión de la comunidad, dicho manual adicionalmente se complementará con
+una guía para el usuario, la cual contendrá como mínimo un glosario, una tabla con los valores
+diferenciales de cobro del aprovechamiento económico del espacio público y lo necesario, para
+permitir de manera pedagógica, la difusión, conocimiento y aplicación del instrumento, según la
+modalidad de aprovechamiento económico del espacio público.
+Notas de Vigencia
+- Artículo adicionado por el artículo 6 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+ARTÍCULO 7o. PROHIBICIONES GENERALES PARA EL APROVECHAMIENTO
+ECONÓMICO DEL ESPACIO PÚBLICO. <Artículo modificado por el artículo 7 del Decreto
+522 de 2018 de la Alcaldía de Medellín. El nuevo texto es el siguiente:> Las siguientes
+prohibiciones deberán ser tenidas en cuenta al momento de permitir o rechazar la solicitud de
+aprovechamiento económico del espacio público, sin perjuicio de las normas nacionales,
+departamentales y municipales que se encuentren vigentes.
+A. PROHIBICIONES RELACIONADAS A LA LOCALIZACIÓN DEL
+APROVECHAMIENTO ECONÓMICO EN EL ESPACIO PÚBLICO
+Se prohíbe el aprovechamiento económico en los sitios descritos a continuación:
+
+
+<!-- página 13 -->
+
+1. En espacios públicos inmersos o inmediatamente contiguos al límite de las áreas de baja
+mixtura (áreas predominantemente residenciales) establecidas en el Mapa 23 de Usos Generales
+del Suelo Urbano protocolizado en el Acuerdo 48 de 2014 o la norma que lo modifique, sustituye
+o complemente, sin perjuicio de lo establecido en las especificaciones que se definan para cada
+modalidad en el Manual de Procedimiento para el aprovechamiento económico del espacio
+público.
+2. En las franjas de circulación peatonal, ciclo rutas y en los senderos peatonales ubicados al
+interior de espacio público de esparcimiento y encuentro.
+3. Frente a los accesos principales a edificaciones o a espacios públicos de cualquier índole, y
+especialmente, donde se concentran personas y actividades, tales como equipamientos colectivos,
+entidades bancarias y afines, supermercados y afines, y a otros sitios de alta densidad
+poblacional.
+4. En las esquinas (proyección de las líneas de paramento hacia la calzada vehicular), cruce de
+vías, rampas de rebaje, franjas táctiles de guía o alerta para personas en situación de discapacidad
+o movilidad reducida y pasos cebras y demás lugares en que se obstaculice la visibilidad
+vehicular o la movilidad peatonal continua y segura.
+5. Donde se obstaculice la visibilidad de vitrinas y locales.
+6. En todos los espacios que presenten cobertura vegetal de piso, alcorques y especies arbóreas.
+Si por la licencia de intervención que se otorgue, se admite la eliminación de cobertura vegetal o
+especie arbórea, ésta deberá ser compensada de acuerdo a la normativa vigente.
+B. PROHIBICIONES RELACIONADAS AL DESARROLLO DE ACTIVIDADES EN EL
+ESPACIO PÚBLICO.
+Se prohíben las siguientes actividades comerciales, de servicios o industriales en el espacio
+público:
+1. Las actividades de metalmecánica, mecánica automotriz, pintura, arreglo de cualquier tipo de
+maquinaria u objeto, industria mayor, pesada, mediana o menor. De manera transitoria se
+permitirá la actividad de arreglo de vehículos no motorizados (bicicletas, triciclos, monopatines,
+etc.) en los eventos transitorios de Ciclovías.
+2. La venta y consumo de bebidas alcohólicas, sustancias psicoactivas o prohibidas con
+excepción de aquellos casos que estén expresamente permitidos, en consonancia con lo señalado
+en la Ley 1801 de 2016, por la cual se expide el Código Nacional de Policía y Convivencia, o la
+norma que la modifique, complemente o sustituya.
+3. El estacionamiento de vehículos con fines de explotación o aprovechamiento económico, con
+excepción de las Unidades
+Económicas Móviles, conforme a la reglamentación que se expida.
+4. La venta y exhibición de vehículos automotores nuevos o usados, o partes de éstos, salvo que
+se trate de comercio ocasional o transitorio en el marco de eventos, debidamente autorizados.
+5. La venta de especies animales.
+
+
+<!-- página 14 -->
+
+6. La venta de artículos de contrabando y piratería, de objetos producto de un ilícito, de
+estupefacientes, de elementos corto punzantes o armas de todo tipo y juguetes bélicos.
+7. Los juegos de suerte y azar.
+PARÁGRAFO. En relación con las ventas informales reguladas, aplicarán los requisitos,
+actividades, obligaciones y sitios prohibidos y demás normativa establecida en los Decretos
+Municipales 327 de 1997 y 680 de 1999, en la Ley 1801 de 2016, Código Nacional de Policía y
+Convivencia, o las normas que los modifiquen, complementen o sustituyan.
+Notas de Vigencia
+- Artículo modificado por el artículo 7 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 7 del Decreto 522 de 2018:
+ARTÍCULO 7o. ESPACIOS PÚBLICOS SUSCEPTIBLES DE SER APROVECHADOS
+ECONÓMICAMENTE. El aprovechamiento económico se podrá realizar en los
+componentes del Subsistema de Espacio Público de Esparcimiento y Encuentro, y en el
+Subsistema de Movilidad, en particular sobre los siguientes componentes:
+1. En bajos de los puentes peatonales, vehiculares y pasos a desnivel, siempre que cuenten
+con la licencia de intervención respectiva y obedezcan a un proyecto específico, sujeto a las
+restricciones normativas de orden público, urbanístico, constructivo y de movilidad; que
+cumplan con los estudios de movilidad y de impacto urbano, el diseño para la disposición de
+los espacios, sin ir en detrimento de la movilidad vehicular y peatonal, los cuáles deben ser
+viabilizados por la autoridad competente, sin perjuicio de la normatividad de nivel nacional.
+2. En las franjas de amoblamiento de los andenes definidas en el Manual de Espacio Público-
+MEP, las cuales hacen parte de los elementos del Subsistema de Movilidad y en proyectos
+integrales, determinados en el Plan de Ordenamiento Territorial, en los instrumentos de
+planificación y demás normas complementarias al mismo, en los planes desarrollo
+respectivos, siempre que cumplan con los siguientes parámetros:
+- El andén tenga una sección mínima de cinco (5) metros, donde la franja de amoblamiento
+posea una sección mínima de tres (3) metros y la franja de circulación, una sección mínima
+de dos (2) metros. La franja de amoblamiento deberá estar localizada adyacente a la calzada o
+zona verde de la vía, en todo caso, respetando una distancia mínima al paramento o lindero
+del predio privado de (2) dos metros, cumpliendo con las directrices establecidas por el
+Manual del Espacio Público. Adicionalmente, que el perfil vial no posea antejardín.
+- Las dimensiones de los módulos tanto en piso, como en cubierta, no deberán superar la
+sección de la franja de amoblamiento, sin obstaculizar la circulación peatonal de 2.00 metros
+mínimo, garantizando la movilidad continua y segura de la ciudadanía.
+- Salvo que se trate de un proyecto integral de la Administración Municipal, avalado por la
+Comisión Intersectorial de que trata el presente Decreto, la disposición de los módulos de
+ventas o mobiliario a utilizar, deberá respetar la ubicación de la infraestructura de redes para
+
+
+<!-- página 15 -->
+
+servicios públicos, tales como, hidrantes, rejas de transformadores, medidores, tapas de cajas
+de inspección, entre otros. No se podrá modificar la ubicación original de las cajas, ya que
+estas corresponden a un diseño de detalle realizado con anterioridad.
+Adicionalmente, las zonas verdes y la arborización no podrán ser utilizadas para ningún fin
+económico, estacionamiento de vehículos, bodegaje y similares, salvo la localización de
+vallas y avisos según la normativa vigente.
+- La instalación de mesas y sillas dentro de esta franja de amoblamiento para extender los
+servicios del local comercial al cual da frente, se permitirá siempre que cumpla con la
+normativa de usos del suelo y los estándares definidos en los protocolos ambientales
+urbanísticos (PAU).
+Las mesas y sillas deberán ser removibles y sólo permanecerán en la franja de amoblamiento
+en el horario permitido a la actividad del local comercial y en ningún caso ocuparán la franja
+de circulación, sin perjuicio de las restricciones establecidas por normas de carácter policivo,
+ambiental, sanitarias, entre otras. Sólo se permite la instalación de una sombrilla por mesa.
+No se permite la colocación de carpas ni cerramientos.
+3. Si se trata de un pasaje peatonal al aire libre y de carácter público y siempre que cumpla
+con la normativa de usos del suelo y los estándares definidos en los protocolos ambientales
+urbanísticos, se podrá permitir que las mesas y sillas se instalen adyacentes a los paramentos
+de los locales, sin ir en detrimento de la circulación peatonal, libre, segura y continua,
+siguiendo los lineamientos que para el caso se establezcan en el Manual de Espacio Público.
+4. En las franjas de aprovechamiento transitorio sobre calzadas vehiculares, previo análisis de
+la Comisión Intersectorial, se podrán establecer franjas de aprovechamiento económico
+transitorio sobre las calzadas como extensión de la actividad comercial a la cual está dando
+frente, en todo caso, cumpliendo con las determinantes de seguridad, funcionalidad,
+movilidad y los estándares definidos en los protocolos ambientales urbanísticos (PAU).
+5. En los componentes del Subsistema de Espacios Públicos de esparcimiento y encuentro,
+siempre y cuando la instalación o colocación de cualquier elemento o mobiliario sea
+removible y el diseño de éstos, su localización, dimensiones y especificaciones técnicas,
+cumplan con lo establecido en el MEP.
+La ocupación de estos espacios susceptibles de aprovechamiento económico deberá cumplir
+con la normativa definida en el Plan de Ordenamiento Territorial y los instrumentos de
+planificación que lo complementen, modifiquen o sustituyan, garantizando en particular lo
+siguiente:
+- La permanencia del ornato urbano, las zonas verdes o cobertura vegetal de piso y masa
+arbórea, la protección de los recursos naturales y las áreas o inmuebles de protección
+patrimonial.
+- El flujo vehicular motorizado y no motorizado y peatonal libre, cómodo, continuo y seguro.
+- Las áreas requeridas para la señalización urbana, semaforización y el amoblamiento urbano
+en general.
+- La tranquilidad de los habitantes en las áreas residenciales y la responsable mezcla de usos.
+
+
+<!-- página 16 -->
+
+- Facilitar el encuentro ciudadano, el uso efectivo, goce y disfrute del espacio público por
+parte de la comunidad en general.
+- El libre acceso y respetar los espacios propios dispuestos para el desarrollo de las
+actividades recreativas, deportivas o lúdicas del espacio público.
+- El diseño y la ubicación específica del mobiliario deberán cumplir con lo establecido en el
+Manual de Espacio Público, tales como; módulos de venta, aseo, seguridad, mesas, sillas,
+otros mobiliarios, y atendiendo criterios de saturación, ordenamiento o planteamiento
+urbanístico del bien, el entorno y características del área de influencia.
+- Se cumpla con lo establecido en los artículos 25 al 31 del Acuerdo 48 de 2014, en lo que se
+refiere al recurso hídrico, su manejo, respeto, cuidado, protección y restricciones de uso por
+vulnerabilidad ecológica y de amenaza por inundación, avenidas torrenciales, deslizamientos,
+entre otros.
+La ocupación, intervención y cualificación del espacio público deberá acoger las
+determinantes establecidas en el Manual de Silvicultura Urbana, y en los demás instrumentos
+que lo implementen o desarrollen, así mismo las directrices metropolitanas, tales como, los
+“Lineamientos de Política Pública de Construcción Sostenible” (AMVA & UPB, 2015b) y
+respectivas guías, las cuales reúnen los siguientes criterios para la intervención y
+cualificación de los espacios abiertos, y para el caso de esta reglamentación de los espacios
+públicos y del paisaje urbano:
+1. Criterios de sostenibilidad urbana,
+2. Criterios de habitabilidad,
+3. Criterios de eco eficiencia,
+4. Criterios de integralidad: entendida como las articulaciones entre los sistemas y procesos
+naturales y los sistemas y procesos de la vida urbana colectiva.
+5. Criterios de Resiliencia: la Bioingeniería aplicada en la reducción de riesgos, la
+recuperación de espacios del agua y la adaptación al cambio climático.
+6. Criterios de viabilidad: entendida esta, como la cuantificación de beneficios medidos que
+incluyen la reducción de la contaminación del aire, la regulación de la escorrentía urbana, la
+captura de carbono, la reducción de emisiones indirectas de Gases Efecto Invernadero (GEI),
+debidas a la regulación microclimática, así como el incremento en el valor económico de
+bienes inmuebles y actividades comerciales en zonas arborizadas.
+La Administración Municipal elaborará el Código de Construcción Sostenible, no obstante
+hasta que este se apruebe, la Administración velará por que la política de construcción
+sostenible se aplique.
+PARÁGRAFO 1. Se deberá cumplir con las demás normas urbanísticas y de construcción,
+especificaciones técnicas, pólizas de responsabilidad civil en caso de requerirlas, permisos y
+disposiciones sanitarias, de salud, de seguridad, de movilidad, protocolos urbanísticos y
+ambientales, que le sean aplicables, según la actividad y su localización, y los criterios del
+Manual de Silvicultura Urbana.
+
+
+<!-- página 17 -->
+
+PARÁGRAFO 2. Como aprovechamiento temporal del espacio público se entiende, también,
+la ocupación de los antejardines con mesas y sillas como extensión de las actividades de los
+locales comerciales, a los cuales les es permitido, de acuerdo con su localización dentro del
+sistema estructurante del espacio público, los usos establecidos en el Plan de Ordenamiento
+Territorial, cumpliendo con la normativa vigente o aquella que la modifique o sustituya.
+PARÁGRAFO 3. Ventas motorizadas estacionarias y no estacionarias. A las ventas
+motorizadas se les aplicará, en lo pertinente, la normativa nacional. A nivel municipal, se
+adelantarán los estudios pertinentes que definan las condiciones específicas y los lugares
+autorizados para el desarrollo de la actividad, sus impactos y las respectivas retribuciones.
+ARTICULO 8o. ESPACIOS PÚBLICOS SUSCEPTIBLES DE SER APROVECHADOS
+ECONÓMICAMENTE, ACORDE A LAS MODALIDADES. <Artículo modificado por el
+artículo 8 del Decreto 522 de 2018 de la Alcaldía de Medellín. El nuevo texto es el siguiente:>
+Se permite el aprovechamiento económico en espacios públicos inmersos a las áreas y corredores
+de alta y media mixtura, establecidas en el Mapa 23 de Usos Generales del Suelo Urbano
+protocolizado con el Acuerdo 48 de 2014 o la norma que lo modifique, complemente o sustituya,
+y en todo caso acorde a la reglamentación que se defina para cada modalidad de conformidad con
+lo siguiente:
+Tabla 2: Sitios permitidos para el aprovechamiento económico del espacio público, acorde a las
+modalidades:
+
+
+<!-- página 18 -->
+
+Notas de la tabla 2, relacionadas a los sitios permitidos:
+(1) Aplica para Unidades Económicas Móviles – UEM
+(2) Para el desarrollo de la modalidad de parqueaderos con y sin actividad económica, se
+permitirá el estacionamiento de vehículos bajos aquellos puentes peatonales, vehiculares y pasos
+a desnivel que se localicen en zonas deficitadas en celdas de parqueo identificadas por la
+administración municipal. Lo anterior sujeto además a la formulación por parte del interesado de
+un proyecto integral que contemple la realización de los estudios requeridos y las restricciones
+normativas de orden ambiental, de movilidad, urbanístico y constructivo.
+Para el desarrollo de la modalidad de avisos publicitarios se podrá utilizar el amoblamiento
+urbano localizado en bajos de puentes vehiculares y pasos soterrados, en todo caso fuera de las
+áreas correspondientes a las calzadas y andenes, los avisos deberán instalarse sobre pisos duros y
+no podrán interrumpir la visibilidad vehicular, todo lo anterior para preservación de las
+condiciones de seguridad requeridas para el tránsito vehicular.
+Para ambas modalidades antes enunciadas en este numeral, previamente se deberá contar con la
+licencia de intervención del espacio público.
+(3) Tanto en los antejardines como en la franja de amoblamiento, se instalarán mesas y sillas no
+fijas. Acorde al artículo 145 del POT, numeral 2, las edificaciones que hacen parte del
+Subsistema de Patrimonio cultural Inmuebles, que presenten antejardines como parte de su
+tipología original, deberán conservarlos; no obstante, los inmuebles que tengan autorización para
+ocupar antejardín con mesas y sillas, por estar en áreas de alta mixtura según la norma específica,
+y de conformidad con las normas municipales, podrán adecuar los antejardines hasta en un
+sesenta por ciento (60%). Para la autorización de estas adecuaciones deberán presentar a la
+administración municipal o la entidad que se delegue un proyecto que incluya la propuesta
+específica de intervención. En todo caso cumpliendo con los numerales 3 y 4 del mismo artículo
+en mención.
+(4) Estos avisos solo podrán instalarse en el amoblamiento urbano y en Informadores y relojes
+digitales.
+(5) Esta modalidad se podrá desarrollar de forma transitoria en el marco de eventos, siempre que
+el antejardín se encuentre en piso duro previamente autorizado por el Curador Urbano, en todo
+caso, en concordancia con el artículo 195 numeral 4, del POT - Acuerdo 48 de 2015, o la norma
+que lo modifique o sustituya.
+(6) De conformidad con lo establecido en la Ley 1225 de 2008 y el Decreto Municipal 1199 de
+2011, en el Acuerdo 48 de 2014 y el Manual de Espacio Público, adoptado mediante el Decreto
+113 de 2017 o las normas que las modifiquen, adicionen o sustituyan, en el marco de eventos
+transitorios se podrán ocupar las calzadas con esta modalidad de aprovechamiento económico, en
+todo caso cumpliendo con la norma vigente que la regula, entre estos con todos los permisos de
+las autoridades competentes.
+(7) De conformidad con lo establecido en la Ley 1225 de 2008 y el Decreto Municipal 1199 de
+2011, en el Acuerdo 48 de 2014 y el Manual de Espacio Público, adoptado mediante el Decreto
+113 de 2017 o las normas que las modifiquen, adicionen o sustituyan, esta modalidad podrá
+instalarse en los parques recreativos sin ocupación indebida de zonas verdes y circulaciones
+peatonales.
+(8) Las modalidades que figuran en esta columna podrán desarrollarse en las áreas libres de
+
+
+<!-- página 19 -->
+
+equipamientos públicos, clasificados en el artículo 96 del POT, como básicos sociales, básicos
+comunitarios e institucionales; aplican también para dichos equipamientos que cuenten con
+declaratoria como Bienes de Interés Cultural – BIC o que sean de valor patrimonial,
+adicionalmente que se encuentren clasificados, según el Artículo 136 del POT - literal a), como
+BIC del grupo arquitectónico. De igual manera dichas modalidades aplican para los Bienes de
+Interés Cultural – BIC del tipo urbanístico según el artículo 136 del POT, literal b), puesto que
+corresponden a los Espacios Públicos de Esparcimiento y Encuentro, de carácter permanente para
+el esparcimiento y el encuentro que tienen declaratoria como Bienes de Interés Cultural - BIC.
+La ocupación de los espacios públicos susceptibles de aprovechamiento económico relacionados
+con el Subsistema de Movilidad y el Subsistema de Espacio Público y de Esparcimiento y
+Encuentro, deberá cumplir con la normativa definida en el Plan de Ordenamiento Territorial y los
+instrumentos de planificación que lo complementen, modifiquen o sustituyan, garantizando en
+particular lo siguiente:
+- La permanencia del ornato urbano, las zonas verdes o cobertura vegetal de piso y masa arbórea,
+la protección de los recursos naturales y las áreas o inmuebles de protección patrimonial.
+- El flujo vehicular motorizado y no motorizado y flujo peatonal libre, cómodo, continúo y
+seguro.
+- Las áreas requeridas para la señalización urbana, semaforización y el amoblamiento urbano en
+general.
+- La tranquilidad de los habitantes en las áreas residenciales y la responsable mezcla de usos.
+- Facilitar el encuentro ciudadano, el uso efectivo, goce y disfrute del espacio público por parte
+de la comunidad en general.
+- El libre acceso respetando los espacios propios dispuestos para el desarrollo de las actividades
+recreativas, deportivas o lúdicas en el espacio público.
+- El diseño y la ubicación específica del amoblamiento deberán cumplir con lo establecido en el
+Manual de Espacio Público, tales como; módulos de venta, aseo, seguridad, mesas, sillas, entre
+otros, atendiendo criterios de saturación, ordenamiento o planteamiento urbanístico del bien, el
+entorno y características del área de influencia.
+- Se cumpla con lo establecido en los artículos 25 al 31 del Acuerdo 48 de 2014, en lo que se
+refiere al recurso hídrico, su manejo, respeto, cuidado, protección y restricciones de uso por
+vulnerabilidad ecológica y de amenaza por inundación, avenidas torrenciales, deslizamientos,
+entre otros.
+- La ocupación, intervención y cualificación del espacio público deberá acoger las determinantes
+establecidas en el Decreto 113 de 2017 - Manual de Espacio PúblicoMEP, en el Manual de
+Silvicultura Urbana y en los demás instrumentos que lo implementen o desarrollen, así mismo
+las directrices metropolitanas, tales como, los “Lineamientos de Política Pública de Construcción
+Sostenible” (AMVA & UPB, 2015b) y respectivas guías, las cuales reúnen los siguientes
+criterios para la intervención y cualificación de los espacios abiertos, y para el caso de esta
+reglamentación de los espacios públicos y del paisaje urbano:
+1. Criterios de sostenibilidad urbana,
+
+
+<!-- página 20 -->
+
+2. Criterios de habitabilidad,
+3. Criterios de eco eficiencia,
+4. Criterios de integralidad: entendida como la articulación entre los sistemas y procesos
+naturales y los sistemas y procesos de la vida urbana colectiva.
+5. Criterios de resiliencia: referidos a la Bioingeniería aplicada en la reducción de riesgos, la
+recuperación de espacios del agua y la adaptación al cambio climático.
+6. Criterios de viabilidad: entendida esta, como la cuantificación de beneficios medidos que
+incluyen la reducción de la contaminación del aire, la regulación de la escorrentía urbana, la
+captura de carbono, la reducción de emisiones indirectas de Gases Efecto Invernadero (GEI),
+debidas a la regulación micro climática, así como el incremento en el valor económico de bienes
+inmuebles y actividades comerciales en zonas arborizadas. La Administración Municipal
+elaborará el Código de Construcción Sostenible, no obstante, hasta que este se apruebe, la
+Administración velará por que la política de construcción sostenible se aplique.
+PARÁGRAFO. Se deberá cumplir con las demás normas urbanísticas y de construcción,
+especificaciones técnicas, pólizas de responsabilidad civil en caso de requerirlas, permisos y
+disposiciones sanitarias, de salud, de seguridad, de movilidad, protocolos urbanísticos y
+ambientales, que le sean aplicables, según la actividad y su localización, y los criterios del
+Manual de Silvicultura Urbana.”
+Notas de Vigencia
+- Artículo modificado por el artículo 8 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 8 del Decreto 522 de 2018:
+ARTICULO 8o. ACTIVIDADES PERMITIDAS. Para efectos del aprovechamiento
+económico del espacio público, las actividades permitidas, acorde con la normativa particular
+de los sitios donde se desarrollará y las demás referidas a la actividad, son las siguientes:
+Comerciales y de servicios relacionadas venta y consumo de bebidas y alimentos, venta de
+flores, frutas, plantas aromáticas y medicinales, venta de periódicos y revistas, picaduras y
+dulces, servicios de fotografías instantáneas, venta de loterías, todas ellas condicionadas a las
+disposiciones que las regulen.
+Servicios de acopio de taxis, motos, zonas de estacionamiento regulado (parquímetros), entre
+otros; siempre y cuando, existan sitios específicamente diseñados y construidos para ello,
+dentro o alrededor de tales espacios, y cuenten con la licencia o el permiso respectivo y el
+aval de la autoridad competente.
+Servicios de Cultura, Recreación y Deportes: Bazares, ferias de productos regionales,
+artesanales y antigüedades, juegos infantiles, teatros al aire libre, eventos culturales y
+recreativos, juegos de habilidad y destreza, tales como el ajedrez, a excepción de juegos de
+azar, siempre y cuando, estas actividades impliquen la comercialización de productos y
+
+
+<!-- página 21 -->
+
+servicios en el espacio público
+Servicios de Educación no formal: Talleres, semilleros, enseñanza, música y teatro, artes
+marciales y de defensa personal, danzas y bailes, siempre y cuando estas actividades
+impliquen la comercialización de productos y servicios en el espacio público.
+Comerciales y de servicios relacionadas con la exhibición y venta de ropa, herramientas,
+juguetes, adornos en general, bisutería, marroquinería, zapatos, juegos y atracciones
+mecánicas.
+Industria artesanal o artística itinerante, sin perjuicio de actividades de carácter oficial.
+PARÁGRAFO 1. La realización de cualquier actividad sobre el espacio público deberá
+acogerse a las normas establecidas en los Códigos de Policía Nacional, Departamental y
+Municipal; adicionalmente, deberán cumplir con las demás actividades contempladas dentro
+de las normas urbanísticas, permisos y disposiciones sanitarias, de salud, de seguridad, de
+movilidad, Protocolos Ambientales y Urbanísticos - PAU-, que le sean aplicables, según su
+localización, y los criterios del Manual de Silvicultura Urbana; estarán sujetos al control y
+vigilancia de las autoridades respectivas.
+PARÁGRAFO 2. En relación con las ventas informales reguladas, aplicarán los requisitos,
+actividades, obligaciones y prohibiciones y demás normativa establecida en el Decreto
+Municipal 327 de 1997 y en la Ordenanza 018 de 2002, o las que los modifiquen,
+complementen o sustituyan.
+ARTÍCULO 9o. ACTIVIDADES PERMITIDAS PARA EL APROVECHAMIENTO
+ECONÓMICO DEL ESPACIO PÚBLICO, ACORDE A LAS FORMAS Y LAS
+MODALIDADES. <Artículo modificado por el artículo 9 del Decreto 522 de 2018 de la Alcaldía
+de Medellín. El nuevo texto es el siguiente:> Para efectos del aprovechamiento económico del
+espacio público, las siguientes actividades serán permitidas, acorde con la normativa particular
+de los sitios donde se desarrollará y las demás referidas a la actividad, supeditadas además a lo
+dispuesto en el Manual del Aprovechamiento Económico del Espacio Público y las disposiciones
+específicas de las modalidades.
+Tabla 3: Actividades permitidas para el aprovechamiento económico del espacio público, acorde
+a las formas y las modalidades:
+
+
+<!-- página 22 -->
+
+Notas de la tabla 3, relacionadas a las actividades permitidas:
+(1): Descripción de las actividades comerciales y de servicio de menor impacto: Reúne la venta y
+consumo de alimentos y bebidas no alcohólicas, venta de flores, plantas aromáticas y
+medicinales, venta de periódicos y revistas, servicios de fotografías instantáneas, venta de
+souvenirs, artesanías y similares, comercio de bienes y servicios menores, promoción de bienes y
+servicios, activaciones de marca, todas ellas condicionadas a las disposiciones que las regulen.
+Para la modalidad de mesas y sillas solo se podrán desarrollar la venta y consumo de alimentos y
+bebidas no alcohólicas. De conformidad a las modalidades de aprovechamiento económico del
+espacio público, se determinarán en el manual las actividades permitidas.
+(2) Descripción de las actividades comerciales y de servicios de mayor impacto: Reúne la
+exhibición y venta de ropa, herramientas, juguetes, adornos en general, marroquinería, zapatos,
+juegos y atracciones mecánicas. Con la modalidad de eventos ocasionales con fines económicos,
+se podrán desarrollar las siguientes actividades: Venta y consumo de alimentos y bebidas no
+alcohólicas.: la exhibición y venta de ropa, herramientas, juguetes, adornos en general,
+marroquinería, zapatos. Con la implementación de la modalidad de Parques de diversiones no
+permanentes, se podrán desarrollar las siguientes actividades: juegos y atracciones mecánicas. De
+conformidad a las modalidades de aprovechamiento económico del espacio público, se
+determinarán en el manual las actividades permitidas.
+(3) Descripción de los Servicios de acopio: Reúne los acopios de taxis, motos, zonas de
+estacionamiento regulado (parquímetros), entre otros; siempre y cuando, existan sitios
+específicamente diseñados y construidos para ello, dentro o alrededor de tales espacios, y cuenten
+con la licencia o el permiso respectivo y el aval de la autoridad competente. Con la
+implementación de la modalidad Parqueaderos con o sin actividad económica, se podrán
+desarrollar todas las actividades mencionadas en este numeral. Con la implementación de la
+modalidad Eventos ocasionales con fines económicos se podrá transitoriamente y para tal fin
+ocupar las calzadas con las actividades antes mencionadas, en todo caso cumpliendo con la
+
+
+<!-- página 23 -->
+
+norma vigente que la regula, entre estos con todos los permisos de las autoridades competentes.
+(4) Descripción de los Servicios de Cultura, Recreación y Deportes: Reúne los Bazares, ferias de
+productos regionales, artesanales y antigüedades, juegos infantiles, teatros al aire libre, eventos
+culturales y recreativos, juegos de habilidad y destreza, tales como el ajedrez, a excepción de
+juegos de azar, siempre y cuando, estas actividades impliquen la comercialización, promoción o
+activación de productos y servicios en el espacio público.
+(5) Descripción de los Servicios de Educación no formal: Reúne los talleres, semilleros,
+enseñanza, entrenamiento y adiestramiento, música y teatro, artes marciales y de defensa
+personal, danzas y bailes, siempre y cuando estas actividades impliquen la comercialización,
+promoción o activación de productos y servicios en el espacio público. Con la implementación
+de la modalidad Eventos ocasionales con fines económicos se podrá transitoriamente desarrollar
+las actividades antes mencionadas en este numeral, en todo caso cumpliendo con la norma
+vigente que la regula, entre estos con todos los permisos de las autoridades competentes. (6) Con
+la implementación de la modalidad Eventos ocasionales con fines económicos se podrá
+transitoriamente desarrollar en calzadas las actividades de parqueo de vehículos particulares por
+horas o fracción, acopios de taxis, motos, en todo caso cumpliendo con la norma vigente que la
+regula, entre estos con todos los permisos de las autoridades competentes.
+PARÁGRAFO 1. Por regla general, el desarrollo de las actividades constitutivas de
+aprovechamiento económico del espacio público se regulará por lo establecido en la presente
+reglamentación, salvo que se disponga de una reglamentación específica en el marco de la
+Política Pública para la administración, mantenimiento y aprovechamiento económico del
+espacio público en el municipio de Medellín.”
+PARÁGRAFO 2. Las demás actividades no incluidas en el presente artículo deberán ser
+revisadas, por parte de la Agencia para la Gestión del Paisaje, el Patrimonio y las Alianzas
+Publico Privadas y convalidada por la dependencia de la Administración Municipal competente,
+según el Decreto Municipal 883 de 2015.
+Notas de Vigencia
+- Artículo modificado por el artículo 9 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+
+
+<!-- página 24 -->
+
+Texto original del artículo 9 del Decreto 522 de 2018:
+ARTÍCULO 9o. SITIOS PROHIBIDOS PARA EL APROVECHAMIENTO ECONÓMICO.
+Se prohíbe el aprovechamiento económico en los sitios a continuación descritos, sin perjuicio
+de lo que la normatividad Nacional, Departamental y Municipal determine:
+- En los senderos peatonales que no contemplen franjas de amoblamiento que hagan parte de
+las zonas verdes, parques, plazas y plazoletas destinadas a la lúdica, descanso, recreación
+pasiva o activa y encuentro ciudadano; en franjas de circulación peatonal o ciclorutas.
+- En accesos principales a edificaciones o a espacios públicos de cualquier índole, y
+especialmente, donde se concentran personas y actividades, tales como: plazas de mercado,
+teatros o auditorios, centros de culto, establecimientos educativos, deportivos, de salud,
+institucionales, equipamientos públicos o privados en general y similares.
+- En las esquinas, cruce de vías, separadores viales centrales de vías de alto flujo vehicular o
+de servicio, calzadas, rampas de rebaje, franjas táctiles de guía o alerta para personas con
+limitaciones físicas y pasos cebras y demás lugares en que se obstaculice la visibilidad
+vehicular o la movilidad peatonal continua y segura.
+- Donde se obstaculice la visibilidad de vitrinas y locales.
+- A menos de diez metros (10.00 mts) de monumentos históricos y accesos a edificios
+públicos y templos.
+- Franjas de amoblamiento en zonas de baja mixtura.
+- Todos los espacios que presenten cobertura vegetal de piso, alcorques y especies arbóreas.
+Si por la licencia de intervención que se otorgue, se admite la eliminación de cobertura
+vegetal o especie arbórea, ésta deberá ser compensada de acuerdo a la normativa vigente.
+- En zona residencial o de baja mixtura, sólo se permitirá la actividad si existe consenso de la
+comunidad, debidamente acreditados y representados y no se presenten quejas de vecinos.
+PARÁGRAFO. En relación con las ventas informales reguladas, aplicarán los requisitos,
+actividades, obligaciones y sitios prohibidos y demás normativa establecida en el Decreto
+Municipal 327 de 1997 y en la Ordenanza 018 de 2002, o las que los modifiquen,
+complementen o sustituyan.
+ARTÍCULO 10. ACTIVIDADES PROHIBIDAS EN EL ESPACIO PÚBLICO. <Artículo
+derogado por el artículo 31 del Decreto 522 de 2018 de la Alcaldía de Medellín>
+Notas de Vigencia
+- Artículo derogado por el artículo 31 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+
+
+<!-- página 25 -->
+
+Texto original del artículo 10 del Decreto 522 de 2018:
+ARTÍCULO 10. ACTIVIDADES PROHIBIDAS EN EL ESPACIO PÚBLICO. Se prohíben
+en el espacio público las siguientes actividades comerciales, de servicios o industriales:
+- Las actividades de metalmecánica, mecánica automotriz, pintura, arreglo de cualquier tipo
+de maquinaria u objeto, industria mayor, pesada, mediana o menor.
+- La venta y consumo de bebidas alcohólicas, con excepción de aquellos casos que estén
+expresamente autorizados, en particular lo señalado en el artículo 278 de la Ordenanza 018
+de 2002, o las que la modifique, complemente o sustituya.
+- El estacionamiento de vehículos con fines de explotación o aprovechamiento económico,
+con excepción del que se realice en sitios autorizados por la Comisión Intersectorial.
+- La venta y exhibición de vehículos automotores nuevos o usados o partes de éstos.
+- La venta de especies animales
+- La venta de artículos de contrabando y piratería, de objetos producto de un ilícito, de
+estupefacientes, de elementos corto punzantes o armas de todo tipo y juguetes bélicos.
+- Los juegos de suerte y azar.
+PARÁGRAFO: Lo anterior sin perjuicio de las normas nacionales, departamentales y
+municipales que se encuentren vigentes.
+CAPÍTULO III.
+MODALIDADES, CRITERIOS Y VALORACIÓN PARA LOS CONTRATOS DE
+ADMINISTRACIÓN Y MANTENIMIENTO PARA EL APROVECHAMIENTO
+ECONÓMICO DEL ESPACIO PÚBLICO.
+ARTÍCULO 11. MODALIDADES DE CONTRATACION. La Administración,
+mantenimiento y el aprovechamiento económico del espacio público, se regirá por las
+modalidades contractuales establecidas en los artículos 540 al 543 del Acuerdo 48 de 2014, o la
+norma que los adicione, modifique o sustituya.
+PARÁGRAFO 1. Sin perjuicio de lo establecido en el Plan de Ordenamiento Territorial, para el
+aprovechamiento económico del espacio público, las entidades y dependencias competentes,
+podrán implementar alianzas público privadas y demás modalidades contractuales que viabilicen
+la sostenibilidad y cualificación del espacio público y del paisaje urbano.
+PARÁGRAFO 2. En los contratos que materialicen Alianzas Público Privadas y demás
+modalidades contractuales que viabilicen la administración, mantenimiento, sostenibilidad y
+cualificación del espacio público y el paisaje urbano, se deberán incorporar sus correspondientes
+especificaciones y procedimientos para el recaudo, cobro, facturación y/o las retribuciones a que
+haya lugar.
+ARTÍCULO 12. DE LAS VARIABLES PARA LA VALORACIÓN ECONÓMICA DEL
+
+
+<!-- página 26 -->
+
+APROVECHAMIENTO ECONÓMICO DEL ESPACIO PÚBLICO. <Artículo modificado por
+el artículo 10 del Decreto 522 de 2018 de la Alcaldía de Medellín. El nuevo texto es el
+siguiente:> Las variables que se tienen en cuenta para la valoración económica del
+aprovechamiento económico del espacio público son:
+1. El área objeto de aprovechamiento económico
+2. El costo mínimo de sostenimiento del espacio público.
+3. La zona geoeconómica homogénea a la que pertenece el espacio público a aprovechar.
+4. Porcentaje de cobro sobre la zona geoeconómica.
+5. Los usos del suelo preponderantes aledaños a la zona donde se ubica el espacio público a
+aprovechar.
+6. La administración por actividad específica a desarrollar en el espacio público.
+7. El uso de servicios públicos durante la actividad de aprovechamiento.
+8. El uso del mobiliario público durante la actividad de aprovechamiento económico del espacio
+público. Esta variable se llevará a cero en la aplicación de la fórmula para la población
+vulnerable que ejerce ventas informales en el espacio público, certificada por la dependencia
+competente.
+Para el caso del aprovechamiento económico de carácter transitorio, se adicionarán las siguientes
+variables:
+9. Temporada.
+10. Externalidades de la actividad sobre el territorio según la clasificación del Artículo 2 del
+Decreto 1199 de 2011 o la norma que lo modifique, desarrolle o sustituya.
+PARÁGRAFO. Conforme a los avances metodológicos, se podrán complementar o adicionar de
+manera justificada otras variables, previo estudio de la Comisión Intersectorial asesora del
+espacio público.
+Notas de Vigencia
+- Artículo modificado por el artículo 10 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+
+
+<!-- página 27 -->
+
+Texto original del artículo 13 del Decreto 522 de 2018:
+ARTÍCULO 13. DE LOS CRITERIOS PARA LA VALORACIÓN ECONÓMICA DEL
+APROVECHAMIENTO ECONÓMICO DEL ESPACIO PÚBLICO. Los criterios que se
+tienen en cuenta para la valoración económica del aprovechamiento económico del espacio
+público son:
+1. El área objeto de Aprovechamiento Económico
+2. El costo mínimo de sostenimiento del espacio público.
+3. La zona geoeconómica homogénea donde se ubica el espacio público a aprovechar.
+4. Porcentaje de cobro sobre la zona geoeconómica.
+5. Los usos del suelo preponderantes aledaños a la zona donde se ubica el espacio público a
+aprovechar.
+6. La administración por actividad específica a desarrollar en el espacio público.
+7. El uso de servicios públicos durante la actividad de aprovechamiento.
+8. El uso del mobiliario público durante la actividad de aprovechamiento.
+Para el caso del aprovechamiento económico de carácter transitorio, se adicionarán las
+siguientes variables:
+1. Temporada.
+2. Externalidades de la actividad sobre el territorio.
+PARÁGRAFO: Conforme a los avances metodológicos, se podrán complementar o adicionar
+de manera justificada otras variables, previo estudio de la Comisión Intersectorial.
+ARTÍCULO 13. CONTRATOS DE ADMINISTRACIÓN Y MANTENIMIENTO DEL
+ESPACIO PÚBLICO CON APROVECHAMIENTO ECONÓMICO. <Artículo modificado por
+el artículo 11 del Decreto 522 de 2018 de la Alcaldía de Medellín. El nuevo texto es el
+siguiente:>
+Los contratos de administración del espacio público, pueden ser compatibles con el
+aprovechamiento económico del mismo. Estos contratos podrán celebrarse con entidades
+públicas y/o con participación pública o entidades privadas con o sin ánimo de lucro o personas
+naturales en las cuales no haya participación estatal. Su celebración se sujetará a lo siguiente:
+1. Contratos con entidades públicas y/o con participación pública:
+a) La entidad pública interesada en la celebración del contrato de administración con
+aprovechamiento económico del espacio público deberá presentar una propuesta que incluya la
+determinación del área susceptible de contrato de administración y mantenimiento del espacio
+público, en la cual se indiquen las áreas a ocupar para el aprovechamiento económico y los
+costos de sostenimiento de los espacios objeto del contrato de administración.
+
+
+<!-- página 28 -->
+
+b) La retribución a favor del Municipio de Medellín podrá ser en especie y/o en dinero, en todo
+caso en concordancia con el área ocupada, objeto de aprovechamiento económico del espacio
+público; no obstante, para efectos de estipular el valor de la retribución, se considerará la
+equivalencia en dinero, relacionada a los costos de administración, mantenimiento, sostenimiento
+y aprovechamiento económico del espacio público.
+c) Este contrato se rige por lo dispuesto en el la Ley 80 de 1993, Ley 1150 de 2007 y sus decretos
+reglamentarios, o las normas que los complementen, modifiquen o sustituyan.
+d) En el evento de existir superávit en el valor del aprovechamiento económico, después de
+descontar en el ejercicio financiero, los gastos de administración, mantenimiento y sostenimiento
+del espacio público, la entidad pública o de participación pública, podrá proponer al Consejo de
+Direccionamiento Estratégico, la reinversión de hasta un 50% del superávit generado en alguno
+de los siguientes tipos de proyecto:
+- De cualificación del espacio público objeto del contrato, previa presentación de un proyecto de
+inversión ante la Agencia para la Gestión del Paisaje, el Patrimonio y las Alianzas Público
+Privadas- APP-.
+- De cualificación de otros espacios públicos diferentes a los del objeto del contrato, previa
+presentación del proyecto ante la Agencia para la Gestión del Paisaje, el Patrimonio y las
+Alianzas Público Privadas- APP-.
+En todos los casos, el 50% restante deberá ser retribuido al Municipio de Medellín, el cual será
+destinado conforme lo determine el Consejo de Direccionamiento Estratégico, según las
+recomendaciones de la Comisión Intersectorial Asesora del Espacio Público.
+Si no se presentan los proyectos antes descritos para la cualificación de espacios públicos, estos
+recursos ingresarán a la cuenta dispuesta para el aprovechamiento económico en el Municipio de
+Medellín.
+2. Contratos con entidades privadas con o sin ánimo de lucro, en las cuales no haya participación
+estatal, o personas naturales:
+a) La entidad privada o personas naturales interesada en la celebración del contrato de
+administración con aprovechamiento económico del espacio público deberá presentar una
+propuesta que incluya la determinación del área susceptible de contrato de administración y
+mantenimiento del espacio público, en la cual se indiquen las áreas a ocupar para el
+aprovechamiento económico y los costos de sostenimiento de los espacios objeto del contrato de
+administración. La retribución a favor del Municipio de Medellín podrá ser en especie y/o en
+dinero, en todo caso en concordancia con el área ocupada, objeto de aprovechamiento económico
+del espacio público, no obstante, para efectos de estipular el respectivo valor de la retribución, se
+considerará la equivalencia en dinero, relacionada a los costos de administración, mantenimiento,
+sostenimiento y aprovechamiento económico del espacio público.
+b) Para la celebración de estos contratos se deberá respetar los principios de la contratación y la
+selección objetiva conforme a lo dispuesto en el la Ley 80 de 1993, Ley 1150 de 2007 y sus
+decretos reglamentarios o la norma que lo modifique, complemente o sustituya.
+c) Previa a la celebración del contrato el interesado deberá presentar el proyecto de ocupación
+con los costos de administración, sostenimiento y mantenimiento mensual, así mismo, las áreas a
+
+
+<!-- página 29 -->
+
+ocupar con las diferentes modalidades del aprovechamiento económico, tanto temporal como
+transitorio que se proyectan realizar en la vigencia del contrato con el fin de determinar el valor
+correspondiente a dicho aprovechamiento.
+Notas de Vigencia
+- Artículo modificado por el artículo 11 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 12 del Decreto 522 de 2018:
+ARTÍCULO 12. CRITERIO PARA LA VALORACIÓN ECONÓMICA DE LOS
+CONTRATOS DE ADMINISTRACIÓN Y/O MANTENIMIENTO DEL ESPACIO
+PÚBLICO. El criterio para la valoración económica de los contratos de administración y/o
+mantenimiento estará determinado por la ponderación del costo mínimo de sostenimiento y el
+área de intervención presentado en la propuesta económica del proyecto de ocupación,
+suministrado por la persona interesada, la cual deberá contener la valoración de cada una de
+las actuaciones a realizar en los elementos constitutivos del espacio público que se
+entregarán; actuaciones que estarán enmarcadas siempre, en la sostenibilidad y cualificación
+del espacio público y el paisaje urbano.
+ARTÍCULO 14. VALORACIÓN ECONÓMICA PARA EL APROVECHAMIENTO
+ECONÓMICO DEL ESPACIO PÚBLICO. <Artículo modificado por el artículo 12 del Decreto
+522 de 2018 de la Alcaldía de Medellín. El nuevo texto es el siguiente:> La retribución por la
+utilización de los espacios públicos con los tipos de aprovechamiento económico señalados en el
+presente Decreto, se calculará con base en los parámetros establecidos en la siguiente fórmula:
+Temporal:
+A. La retribución económica establecida por la utilización temporal de los espacios públicos aquí
+permitidos, acorde con las modalidades de aprovechamiento económico señalados en el presente
+Decreto, será calculada con base en los siguientes parámetros de valoración, cuyo cobro se
+
+
+<!-- página 30 -->
+
+efectuará por mensualidades durante el tiempo que se fije en el contrato:
+1. PC - Porcentaje sobre el valor del metro cuadrado de la zona geoeconómica: esta variable
+podrá oscilar entre 0,6 y 1,5 por ciento sobre el valor de la zona geoeconómica según el análisis
+de viabilidad de la propuesta presentada
+Para las ventas informales reguladas, el porcentaje sobre el valor del metro cuadrado por
+concepto de zona geoeconómica podrá oscilar entre 0,1% y 0,5%. El porcentaje se definirá de
+acuerdo al grado de vulnerabilidad que arroje el estudio socio económico realizado por la
+Subsecretaría de Espacio Público como dependencia de la Secretaría de Seguridad y
+Convivencia.
+De acuerdo con la naturaleza de los antejardines, el valor de la variable costo de sostenimiento
+será de cero (0) pesos y así mismo, la variable de porcentaje de cobro se ajustará exclusivamente
+al 0.3%.
+El valor del rango correspondiente a la variable porcentaje de cobro de las fórmulas de
+aprovechamiento económico temporal del espacio público para ventas formales, se determinará
+de conformidad con los siguientes criterios:
+– Área del aprovechamiento económico. Este criterio se tendrá en cuenta para permitir el
+desarrollo de eventos integrales con una buena y completa disposición de servicios asociados.
+Bajo este criterio, a mayor área, es posible una mayor disminución en el porcentaje de cobro.
+– Duración de la actividad. Este criterio permitirá considerar para un menor valor de cobro el
+desarrollo de actividades que, preservando su carácter transitorio, requieren de la ocupación por
+un número plural de días. Bajo este criterio, a mayor número de días, mayor posibilidad de
+disminución del porcentaje de cobro.
+– Fomento de proyectos ambientales, sociales, culturales, paisajísticos o patrimoniales que
+agregan valor a la ciudad o que complementan la oferta institucional. Se podrá aplicar un menor
+porcentaje de cobro para el desarrollo de actividades que se ubiquen dentro de los campos antes
+referidos.
+2. CS - Costo de sostenimiento del espacio público: Se entiende como el costo por metro
+cuadrado mínimo para atender el sostenimiento de los espacios públicos en concordancia con los
+planteamientos del Plan de Ordenamiento Territorial, en el cual se argumenta que el
+aprovechamiento genera una retribución económica, la cual deberá ser reinvertida con fines de
+sostenibilidad y cualificación del espacio público y el paisaje urbano.
+3. VA1 - Usos de suelo: Se establecen unos factores de incremento en el valor de la ocupación
+del espacio público con base en el plano de uso del suelo estipulado en el Acuerdo 048 de 2014 y
+conforme al lugar donde se desarrollará el aprovechamiento:
+– Alta mixtura 15%
+– Media mixtura 40%
+– Baja mixtura 65%
+Cuando el aprovechamiento económico se desarrolle en un lugar en el cual confluyen varios
+usos, se tomará el mayor valor.
+
+
+<!-- página 31 -->
+
+4. VA2 - Administración por actividad específica: Se establecen unos factores de incremento a la
+actividad desarrollada en el espacio público:
+– Venta y comercialización de bienes y servicios: 15% de ajuste.
+– Venta y consumo de alimentos: 40% de ajuste.
+– Venta y consumo de licor: 70% de ajuste se acoge a los lugares en los cuales se pueda
+desarrollar la actividad.
+Cuando el aprovechamiento económico se vaya a desarrollar en el mismo lugar con 2 o más de
+las tipologías anteriormente mencionadas, el ajuste se realizará sumando el porcentaje de las
+tipologías aplicadas.
+5. VA3 - Servicios públicos: está relacionada con la disponibilidad de servicios públicos en el
+lugar donde se desarrollara el aprovechamiento económico del espacio público, generando un
+porcentaje de ajuste sobre el valor de la variable constante de cobro. Estos son:
+Un servicio 5%
+Dos servicios 10%
+Tres o más servicios 15%
+7. MOB - Mobiliario: hace referencia específica al uso de una infraestructura física propiedad del
+Municipio de Medellín en el desarrollo de la actividad económica aquí considerada. En caso de
+haber presencia de mobiliario propiedad del Municipio de Medellín dentro de la actividad
+económica desarrollada en el espacio público, se procederá a incluir dentro del valor del
+aprovechamiento el uno por ciento (1%) del valor comercial del mismo, excluyendo la
+correspondiente depreciación del mueble.
+Transitoria:
+B. Retribución económica por la utilización transitoria de los espacios públicos. Para
+promocionar eventos y sitios turísticos, difundir propaganda, productos, servicios, marcas,
+
+
+<!-- página 32 -->
+
+empresas, lemas, recordar fechas y actividades, entre otros, se establece como retribución, un
+precio fijo por evento y por mes, calculado con base en los siguientes parámetros de valoración:
+1. PC - Porcentaje de cobro sobre la zona geoeconómica: Los valores para esta variable podrán
+oscilar entre 0,6 y 1,5 por ciento sobre el valor de la zona geoeconómica según el análisis de
+viabilidad de la propuesta presentada.
+El valor del rango correspondiente a la variable porcentaje de cobro de las fórmulas de
+aprovechamiento económico transitorio del espacio público, se determinará de conformidad con
+los siguientes criterios:
+– Área del aprovechamiento económico. Este criterio se tendrá en cuenta para permitir el
+desarrollo de eventos integrales con una buena y completa disposición de servicios asociados.
+Bajo este criterio, a mayor área, es posible una mayor disminución en el porcentaje de cobro.
+– Duración de la actividad. Este criterio permitirá considerar para un menor valor de cobro el
+desarrollo de actividades que, preservando su carácter transitorio, requieren de la ocupación por
+un número plural de días. Bajo este criterio, a mayor número de días, mayor posibilidad de
+disminución del porcentaje de cobro.
+– Fomento de proyectos ambientales, sociales, culturales, paisajísticos o patrimoniales que
+agregan valor a la ciudad o que complementan la oferta institucional. Se podrá aplicar un menor
+porcentaje de cobro para el desarrollo de actividades que se ubiquen dentro de los campos antes
+referidos.
+2. CS - Costo de sostenimiento del espacio público: Se entiende como el costo por metro
+cuadrado mínimo para atender el sostenimiento de los espacios públicos en concordancia con los
+planteamientos del Plan de Ordenamiento Territorial, en el cual se argumenta que el
+aprovechamiento genera una retribución económica, la cual deberá ser reinvertida con fines de
+sostenibilidad y cualificación del espacio público y el paisaje urbano.
+3. VA1 - Usos de suelo: Se establecen unos factores de incremento en el valor de la ocupación
+del espacio público con base en el plano de uso del suelo estipulado en el Acuerdo 048 de 2014 y
+conforme al lugar donde se desarrollará el aprovechamiento:
+– Alta mixtura 15%
+– Media mixtura 40%
+– Baja mixtura 65%
+4. VA2 - Administración por actividad específica: Se establecen unos factores de incremento a la
+actividad desarrollada en el espacio público:
+- Venta alimentos y bienes: 15% de ajuste
+- Servicios y eventos 40% de ajuste
+- Licores 70% de ajuste de acuerdo a los lugares donde se permiten
+Cuando el aprovechamiento económico se vaya a desarrollar en el mismo lugar con 2 o más de
+las tipologías anteriormente mencionadas, el ajuste se realizará sumando el porcentaje de las
+tipologías aplicadas.
+
+
+<!-- página 33 -->
+
+5. VA3 - Servicios públicos: está relacionada con la disponibilidad de servicios públicos en el
+lugar donde se desarrollará el aprovechamiento económico del espacio público, generando un
+porcentaje de ajuste sobre el valor de la variable constante de cobro. Estos son:
+Un servicio 5%
+Dos servicios 10%
+Tres o más servicios 15%
+6. MOB - Mobiliario: hace referencia específica al uso de una infraestructura física propiedad del
+Municipio de Medellín en el desarrollo de la actividad económica aquí considerada. En caso de
+haber presencia de mobiliario propiedad del Municipio de Medellín dentro de la actividad
+económica desarrollada en el espacio público, se procederá a incluir dentro del valor del
+aprovechamiento el uno por ciento del valor comercial del mismo, excluyendo la correspondiente
+depreciación del mueble
+7. VA4 - Temporada: Se entiende como el periodo del año durante el cual se desarrollará el
+aprovechamiento transitorio. Dicho periodo se toma en consideración dentro del cálculo de la
+retribución a razón de la mayor o menor disponibilidad de espacios para el desarrollo
+aprovechamientos transitorios, cuya referencia son las temporadas indicativas de mayor actividad
+comercial y de eventos en la ciudad:
+Alta: Julio, Agosto, Octubre y Diciembre
+Media: Marzo, Abril, Mayo, Junio, Noviembre, Septiembre
+Baja: Enero, Febrero
+Estas temporadas implican un mayor valor sobre la contraprestacion:
+Alta: aumento del 10%
+Media: aumento del 5%
+Baja: sin incremento
+8. VA5 - Externalidades de la actividad sobre el territorio: Se entiende como el grado de
+afectación negativa, causado por el desarrollo del aprovechamiento económico sobre los
+habitantes en el entorno inmediato del espacio público donde se desarrollará dicha actividad. La
+inclusión de esta variable está sustentada en la necesidad de proteger el medio ambiente y la
+calidad de vida de los habitantes, desincentivando las actividades que puedan generar mayores
+externalidades negativas sobre pobladores y entorno a través de un incremento en la retribución,
+en consonancia con el Decreto Municipal 1199 de 2011:
+Externalidad negativa Alta: 25%
+Externalidad negativa Baja: 10%
+PARÁGRAFO 1o. Cuando el aprovechamiento económico se desarrolle en un lugar en el cual
+confluyen varios usos, se tomará el mayor valor de la zona geoeconómica.
+PARÁGRAFO 2o. La valoración económica del aprovechamiento económico del espacio
+
+
+<!-- página 34 -->
+
+público temporal superior a un año se soportará en los documentos pre-contractuales pertinentes,
+que garanticen la viabilidad económica y técnica del aprovechamiento, y para el efecto se podrán
+utilizar las variables de valoración contempladas en este decreto.
+PARÁGRAFO 3o. En todo caso, a partir de los análisis económicos que se realicen al momento
+de estudiar las solicitudes de aprovechamiento económico del espacio público, se podrán acudir a
+consideraciones técnicas y económicas, que deberán asentarse en los respectivos documentos
+(actas o estudios previos), y que permitirán establecer el porcentaje de cobro definitivo. Estas
+variables darán lugar a la disminución del porcentaje de cobro, o a su cobro pleno con tarifa
+máxima.
+PARÁGRAFO 4. Para la retribución por la utilización de los espacios públicos con avisos
+publicitarios, tipo pasacalles no se aplicarán las variables: costo de sostenimiento (CS), actividad
+específica (VA2), servicios públicos (VA3) y mobiliario (MOB).
+Para la aplicación de la fórmula correspondiente, se tendrán en cuenta las siguientes variables:
+1. Porcentaje de cobro: Se aplica el 0.5%.
+2. Uso del suelo: De acuerdo a la mixtura del punto de ubicación.
+3. Temporada: De acuerdo a la temporada según lo determinado en el Decreto 2148 de 2015.
+4. Externalidades de la actividad sobre el territorio: Para sectores cuyo uso del suelo es de baja y
+media mixtura, se aplica el porcentaje del 25% determinado para externalidad negativa alta y
+para sectores con uso del suelo de alta mixtura, se aplica el porcentaje del 10% determinado para
+externalidad negativa baja.
+Si la pre-liquidación de la fórmula para el cobro del aprovechamiento económico por la
+instalación de pasacalles, da igual o menor a 1.3 salarios mínimos legales mensuales vigentes, la
+retribución mínima será equivalente a dichos salarios, en caso contrario, la retribución será la
+resultante de la aplicación de las fórmulas establecidas en el presente Decreto.
+Notas de Vigencia
+- Artículo modificado por el artículo 12 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 14 del Decreto 522 de 2018:
+ARTÍCULO 14. VALORACIÓN ECONÓMICA PARA EL APROVECHAMIENTO
+ECONÓMICO DEL ESPACIO PÚBLICO. La retribución por la utilización de los espacios
+públicos con los tipos de aprovechamiento económico señalados en el presente decreto, se
+calculará con base en los parámetros establecidos en la siguiente fórmula:
+Temporal:
+
+
+<!-- página 35 -->
+
+A. La retribución económica establecida por la utilización temporal de los espacios públicos
+aquí permitidos, acorde con los tipos de aprovechamiento económico señalados en el
+presente Decreto, será calculada con base en los siguientes parámetros de valoración, cuyo
+cobro se efectuará por mensualidades durante el tiempo que se fije en el contrato:
+1. PC - Porcentaje sobre el valor del metro cuadrado de la zona geoeconómica: esta variable
+podrá oscilar entre 0,5 y 1,5 por ciento sobre el valor de la zona geoeconómica, dependiendo
+de: los criterios de negocio, la caracterización social y demás consideraciones contempladas
+en el proyecto de ocupación.
+Para las ventas informales reguladas, el porcentaje sobre el valor del metro cuadrado por
+concepto de zona geoeconómica será de 0,5%. La Secretaría de Gobierno y Derechos
+Humanos, según el grado de vulnerabilidad que arroje el estudio socioeconómico, aplicarán
+las disposiciones contenidas en el Decreto 726 de 1999 y la Resolución 008 de 2011, o
+aquellas reglamentaciones que las modifiquen o sustituyan; para lo cual actuará en
+coordinación con la Secretaría de Inclusión Social y Familia o quien haga sus veces.
+2. CS - Costo de sostenimiento del espacio público: Se entiende como el costo por metro
+cuadrado mínimo para atender el sostenimiento de los espacios públicos en concordancia con
+los planteamientos del Plan de Ordenamiento Territorial, en el cual se argumenta que el
+aprovechamiento genera una retribución económica, la cual deberá ser reinvertida con fines
+de sostenibilidad y cualificación del espacio público y el paisaje urbano.
+3. VA1 - Usos de suelo: Se establecen unos factores de incremento en el valor de la
+ocupación del espacio público con base en el plano de uso del suelo estipulado en el Acuerdo
+048 de 2014 y conforme al lugar donde se desarrollará el aprovechamiento:
+- Alta mixtura 25%
+- Media mixtura 50%
+- Baja mixtura 75%
+Cuando el aprovechamiento económico se desarrolle en un lugar en el cual confluyen varios
+usos, se tomara el mayor valor.
+4. VA2 - Administración por actividad específica: Se establecen unos factores de incremento
+
+
+<!-- página 36 -->
+
+a la actividad desarrollada en el espacio público:
+- Venta y comercialización de bienes y servicios: 25% de ajuste.
+- Venta y consumo de alimentos: 50% de ajuste.
+- Venta y consumo de licor: 100% de ajuste se acoge a los lugares en los cuales se pueda
+desarrollar la actividad.
+Cuando el aprovechamiento económico se vaya a desarrollar en el mismo lugar con 2 o más
+de las tipologías anteriormente mencionadas, el ajuste se realizará con base en la siguiente
+tabla:
+- Venta y comercialización de bienes y servicios, adicionalmente la venta y consumo de
+alimentos, el ajuste será del 75%.
+- Venta y comercialización de bienes y servicios, adicionalmente la venta y consumo de
+bebidas alcohólicas, el ajuste será del 125%. se acoge a los lugares en los cuales se pueda
+desarrollar la actividad.
+- Venta y consumo de alimentos, adicionalmente la venta y consumo de bebidas alcohólicas,
+el ajuste será del 150%. Se acoge a los lugares en los cuales se pueda desarrollar la actividad.
+- Venta y comercialización de bienes y servicios, adicionalmente la venta y consumo de
+bebidas alcohólicas, sumado a la venta y consumo de alimentos, el ajuste será del 175%. Se
+acoge a los lugares en los cuales se pueda desarrollar la actividad.
+5. VA3 - Servicios públicos: está relacionada con la disponibilidad de servicios públicos en
+el lugar donde se desarrollara el aprovechamiento económico del espacio público, generando
+un porcentaje de ajuste sobre el valor de la variable constante de cobro. Estos son:
+Un servicio 5%
+Dos servicios 10%
+Tres o más servicios 15%
+6. MOB - Mobiliario: hace referencia específica al uso de una infraestructura física propiedad
+del Municipio de Medellín en el desarrollo de la actividad económica aquí considerada. En
+caso de haber presencia de mobiliario propiedad del Municipio de Medellín dentro de la
+actividad económica desarrollada en el espacio público, se procederá a incluir dentro del
+valor del aprovechamiento el uno por ciento (1%) del valor comercial del mismo, excluyendo
+la correspondiente depreciación del mueble.
+Transitoria:
+
+
+<!-- página 37 -->
+
+B. Retribución económica por la utilización transitoria de los espacios públicos. Para
+promocionar eventos y sitios turísticos, difundir propaganda, productos, servicios, marcas,
+empresas, lemas, recordar fechas y actividades, entre otros, se establece como retribución, un
+precio fijo por evento y por mes, calculado con base en los siguientes parámetros de
+valoración:
+1. PC - Porcentaje de cobro sobre la zona geoeconómica: Los valores para esta variables
+podrán oscilar entre 0,5 y 1,5 por ciento sobre el valor de la zona geoeconómica,
+dependiendo de: los criterios de negocio, la caracterización social y demás consideraciones
+contempladas en el proyecto de ocupación.
+2. CS - Costo de sostenimiento del espacio público: Se entiende como el costo por metro
+cuadrado mínimo para atender el sostenimiento de los espacios públicos en concordancia con
+los planteamientos del Plan de Ordenamiento Territorial, en el cual se argumenta que el
+aprovechamiento genera una retribución económica, la cual deberá ser reinvertida con fines
+de sostenibilidad y cualificación del espacio público y el paisaje urbano.
+3. VA1 - Usos de suelo: Se establecen unos factores de incremento en el valor de la
+ocupación del espacio público con base en el plano de uso del suelo estipulado en el Acuerdo
+048 de 2014 y conforme al lugar donde se desarrollará el aprovechamiento:
+- Alta mixtura 25%
+- Media mixtura 50%
+- Baja mixtura 75%
+PARÁGRAFO. Cuando el aprovechamiento económico se desarrolle en un lugar en el cual
+confluyen varios usos, se tomara el mayor valor.
+4. VA2 - Administración por actividad específica: Se establecen unos factores de incremento
+a la actividad desarrollada en el espacio público:
+- Venta alimentos y bienes: 25% de ajuste
+
+
+<!-- página 38 -->
+
+- Servicios y eventos 50% de ajuste
+- Licores 100% de ajuste de acuerdo a los lugares donde se permiten Cuando el
+aprovechamiento económico se vaya a desarrollar en el mismo lugar con 2 o más de las
+tipologías anteriormente mencionadas, el ajuste se realizará con base en la siguiente tabla:
+- Venta y comercialización de bienes y alimentos, adicionalmente servicios y eventos, el
+ajuste será del 75%.
+- Venta y comercialización de bienes y alimentos, adicionalmente la venta y consumo de
+bebidas alcohólicas, el ajuste será del 125% se acoge a los lugares en los cuales se pueda
+desarrollar la actividad.
+- Servicios y eventos, adicionalmente la venta y consumo de bebidas alcohólicas, el ajuste
+será del 150%. Se acoge a los lugares en los cuales se pueda desarrollar la actividad.
+- Venta y comercialización de bienes y alimentos, adicionalmente la venta y consumo de
+bebidas alcohólicas, sumado a Servicios y eventos, el ajuste será del 175%. Se acoge a los
+lugares en los cuales se pueda desarrollar la actividad.
+5. VA3 - Servicios públicos: está relacionada con la disponibilidad de servicios públicos en
+el lugar donde se desarrollará el aprovechamiento económico del espacio público, generando
+un porcentaje de ajuste sobre el valor de la variable constante de cobro. Estos son:
+Un servicio 5%
+Dos servicios 10%
+Tres o más servicios 15%
+6. MOB - Mobiliario: hace referencia específica al uso de una infraestructura física propiedad
+del Municipio de Medellín en el desarrollo de la actividad económica aquí considerada. En
+caso de haber presencia de mobiliario propiedad del Municipio de Medellín dentro de la
+actividad económica desarrollada en el espacio público, se procederá a incluir dentro del
+valor del aprovechamiento el uno por ciento del valor comercial del mismo, excluyendo la
+correspondiente depreciación del mueble
+7. VA4 - Temporada: Se entiende como el periodo del año durante el cual se desarrollará el
+aprovechamiento transitorio. Dicho periodo se toma en consideración dentro del cálculo de la
+retribución a razón de la mayor o menor disponibilidad de espacios para el desarrollo
+aprovechamientos transitorios, cuya referencia son las temporadas indicativas de mayor
+actividad comercial y de eventos en la ciudad:
+Alta: Julio, Agosto, Octubre y Diciembre
+Media: Marzo, Abril, Mayo, Junio, Noviembre, Septiembre
+Baja: Enero, Febrero
+Estas temporadas implican un mayor valor sobre la contraprestación:
+Alta: aumento del 20%
+
+
+<!-- página 39 -->
+
+Media: aumento del 10%
+Baja: sin incremento
+8. VA5 - Externalidades de la actividad sobre el territorio: Se entiende como el grado de
+afectación negativa, causado por el desarrollo del aprovechamiento económico sobre los
+habitantes en el entorno inmediato del espacio público donde se desarrollará dicha actividad.
+La inclusión de esta variable está sustentada en la necesidad de proteger el medio ambiente y
+la calidad de vida de los habitantes, desincentivando las actividades que puedan generar
+mayores externalidades negativas sobre pobladores y entorno a través de un incremento en la
+retribución.
+Alta: 50%
+Media: 25%
+Baja: 10%
+ARTÍCULO 14A. DESCUENTO POR BUENAS PRÁCTICAS AMBIENTALES: <Artículo
+adicionado por el artículo 13 del Decreto 522 de 2018 de la Alcaldía de Medellín. El nuevo texto
+es el siguiente:> A la liquidación mensual del aprovechamiento económico temporal del espacio
+público, de que trata el artículo anterior, se le aplicará un descuento equivalente al 10% antes de
+IVA, a los solicitantes que se encuentren vinculados a programas y acciones de preservación,
+conservación y sostenibilidad ambiental y paisajística del espacio público, tales como:
+1. El manejo de la silvicultura urbana, con énfasis en la planeación, gestión y/o el mantenimiento
+de la infraestructura verde.
+2. La generación o aumento en la prestación de servicios ambientales y ecosistémicos.
+3. El manejo del cambio climático y la construcción sostenible en el espacio público.
+4. La prevención y mitigación de riesgos naturales.
+5. El manejo y disposición final de residuos (reciclaje, separación de grasas y de residuos sólidos,
+entre otros).
+El Manual de procedimientos que desarrollará las modalidades de aprovechamiento económico
+del espacio público, determinará la aplicación de este descuento según la modalidad de
+aprovechamiento económico del espacio público.
+Criterios para la aplicación del descuento:
+Para efectos de la aplicación del descuento antes descrito, cuando se planifique, gestione y/o
+intervenga el espacio público, con miras a su mantenimiento, restitución, mejoramiento y
+recuperación, se tendrán en cuenta algunos de los criterios y acciones contenidos en la doctrina
+ambiental, específicamente aquellos aspectos que propendan por la cualificación ambiental y
+paisajística del espacio público:
+1. Criterios de manejo y acciones determinados por el Acuerdo Metropolitano 05 de 2014 –
+“Lineamientos de Política Pública de Construcción Sostenible” (AMVA & UPB, 2015b), que se
+encuentran consignados en:
+
+
+<!-- página 40 -->
+
+a) La Guía III, para la inclusión de criterios de Sostenibilidad en el Diseño de Espacios Abiertos.
+b) El Anexo 1 de la Guía III - Objetivos de sostenibilidad para el desarrollo urbanístico y la
+actividad constructiva en el Valle de Aburrá.
+2. Objetivos del Acuerdo 47 de 2015: Por medio del cual se institucionaliza la “estrategia para la
+generación y mantenimiento de espacios públicos que propicien la compensación arbórea y de
+suelo verde en el municipio de Medellín”.
+3. Criterios de manejo y acciones determinados en el Acuerdo 48 de 2015 - Plan de
+Ordenamiento Territorial, ubicados en los artículos del 73 al 93 y del 176 al 198.
+4. Los Criterios de manejo y actuaciones determinados en el Manual de Espacio Público - MEP,
+que se encuentren consignados en:
+a) Premisas para el diseño, construcción y sostenibilidad del espacio público (Numeral 1.6).
+b) Vegetación del espacio público (Numeral 1.7).
+c) Criterios para la interacción de la vegetación en los componentes de los subsistemas de
+espacio público de esparcimiento y encuentro y el Subsistema de Movilidad (Numerales 2.4. y
+2.4.1 y 3.3).
+d) Criterios de construcción sostenible y seguridad en el espacio público e Implementación de
+sistemas para la sostenibilidad del espacio público (Numeral 2.5 y 2.5.1).
+e) Lineamientos de diseño del espacio público de esparcimiento y encuentro y de sus
+componentes (Numerales 3.2 y 3.3).
+f) Lineamientos generales y específicos para la conformación de vías públicas e intervenciones
+sobre las existentes (Numerales 4.4 y 4.5.
+g) Lineamientos o criterios ambientales para el subsistema de servicios públicos (Numerales 6.5
+y 6.5.1.1.3).
+h) Lineamientos para el manejo de superficies viales – título: sostenibilidad ambiental
+(Numerales 7.4 y 7.4.1.1).
+i) Las demás normas relacionadas a la materia, que modifiquen o sustituyan las anteriores.
+5. Los Criterios de manejo y actuaciones determinados en el Manual de Silvicultura Urbana, que
+se encuentran consignados en:
+a) Criterios de actuación (Numeral 2.4.5.).
+b) Capítulo 3 - Gestión de la infraestructura Verde
+c) Establecimiento de zonas verdes (Numeral 4.2.).
+d) Programas de mantenimiento y manejo de zonas verdes (Numeral 4.3.).
+e) Manejo e intervención de árboles adultos (Numeral 4.4.).
+f) Otras formas de reverdecer la ciudad en ausencia de zonas verdes (Numeral 4.6.).
+
+
+<!-- página 41 -->
+
+6. Criterios de manejo para el reciclaje y la disposición final de residuos. Estos criterios serán
+determinados con Empresas Varias de Medellín, en el marco de formulación del manual del
+aprovechamiento económico del espacio público, dado el caso para cada una de las modalidades
+de aprovechamiento económico del espacio público.”
+Notas de Vigencia
+- Artículo adicionado por el artículo 13 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+ARTÍCULO 15. DE LAS EXCEPCIONES RESPECTO A LA APLICACIÓN DE LA
+RETRIBUCIÓN ECONÓMICA ESTABLECIDA POR LA UTILIZACIÓN DEL ESPACIO
+PÚBLICO. <Artículo adicionado por el artículo 14 del Decreto 522 de 2018 de la Alcaldía de
+Medellín. El nuevo texto es el siguiente:> No habrá retribución económica en dinero para el
+Municipio de Medellín, en los siguientes casos:
+1. Los eventos culturales, deportivos, recreativos, mercados transitorios o de comercialización de
+bienes y servicios organizados por las entidades públicas, para lo cual se deberá adjuntar
+certificación del funcionario competente.
+2. Los eventos culturales, religiosos, deportivos, recreativos y de mercados transitorios o de
+comercialización de bienes y servicios que no tengan fines lucrativos.
+3. Las ventas informales ambulantes por parte de personas naturales en condición de
+vulnerabilidad.
+Notas de Vigencia
+- Artículo modificado por el artículo 14 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 15 del Decreto 522 de 2018:
+ARTÍCULO 15. DE LAS EXCEPCIONES RESPECTO A LA APLICACIÓN DE LA
+RETRIBUCIÓN ECONÓMICA ESTABLECIDA POR LA UTILIZACIÓN DEL ESPACIO
+PÚBLICO. No habrá retribución económica en dinero para el Municipio de Medellín, por
+parte de las empresas privadas que patrocinen al menos el 85% del costo total de los eventos
+organizados por el Municipio de Medellín, que se enuncian a continuación:
+- Los eventos culturales, deportivos, recreativos, mercados transitorios o de comercialización
+de bienes y servicios organizados por las entidades públicas.
+- Los eventos culturales, deportivos, recreativos y de mercados transitorios o de
+comercialización de bienes y servicios que no tengan fines lucrativos o se realicen con fines
+benéficos.
+CAPÍTULO IV.
+
+
+<!-- página 42 -->
+
+PROCEDIMIENTO GENERAL PARA EL APROVECHAMIENTO ECONÓMICO DEL
+ESPACIO PÚBLICO.
+ARTÍCULO 16. ACOMPAÑAMIENTO. <Artículo adicionado por el artículo 15 del Decreto
+522 de 2018 de la Alcaldía de Medellín. El nuevo texto es el siguiente:> La Agencia para la
+Gestión del Paisaje, el Patrimonio y las Alianzas Publico Privadas, realizará el acompañamiento
+al interesado en todas las etapas del proceso de la solicitud del aprovechamiento económico del
+espacio público.
+El interesado en el proyecto para el aprovechamiento económico del espacio público previo a la
+radicación, podrá consultar sin costo a la Agencia para la Gestión del Paisaje, el Patrimonio y las
+Alianzas Público Privadas –APP-, frente a la propuesta.”
+Notas de Vigencia
+- Artículo modificado por el artículo 15 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 16 del Decreto 522 de 2018:
+ARTÍCULO 16. ACOMPAÑAMIENTO. La Agencia para la Gestión del Paisaje, el
+Patrimonio y las Alianzas Publico Privadas, previo convenio o contrato con las dependencias
+competentes, realizará el acompañamiento en todas las etapas del proceso a la solicitud del
+aprovechamiento económico del espacio público.
+ARTÍCULO 17. SOLICITUD PARA EL APROVECHAMIENTO ECONÓMICO
+TEMPORAL O TRANSITORIO DEL ESPACIO PÚBLICO. <Artículo modificado por el
+artículo 16 del Decreto 522 de 2018 de la Alcaldía de Medellín. El nuevo texto es el siguiente:>
+Para adelantar esta solicitud, se deberá presentar un proyecto de ocupación que contemple los
+aspectos físicos, técnicos, sociales, jurídicos, económicos, entre otros y en todo caso, con
+especial énfasis, en la sostenibilidad ambiental y la puesta en valor del paisaje urbano y el
+patrimonio.
+El análisis del proyecto de ocupación, permite conceder el aprovechamiento económico del
+espacio público de forma temporal o transitoria, sin que con ello, se llegare a afectar el interés
+colectivo a cambio de una retribución económica, en dinero o en especie, a favor de la
+Administración Municipal.
+En caso de presentarse más de una solicitud para la utilización de un mismo espacio público, el
+Comité Técnico procederá a autorizar aquella que genere menos impacto sobre el espacio
+público, acorde a las metodologías para la valoración establecidas por esta reglamentación; en
+caso de paridad en la valoración, se autorizará la solicitud que se haya radicado primero.
+Para resolver las solicitudes según la forma, se tendrán en cuenta los siguientes términos:
+A. PARA LA FORMA TEMPORAL:
+
+
+<!-- página 43 -->
+
+El interesado radicará la solicitud, la cual será estudiada y resuelta en un plazo no menor a
+cuarenta y cinco días (45) hábiles, previa verificación del cumplimiento de requisitos de orden
+municipal, departamental y nacional, que le sean aplicables según el tipo de proyecto para tal fin.
+B. PARA LA FORMA TRANSITORIA:
+El interesado radicará la solicitud, la cual será estudiada y resuelta en un plazo no mayor a quince
+días (15) hábiles, previa verificación del cumplimiento de requisitos de orden municipal,
+departamental y nacional, que le sean aplicables según el tipo de proyecto para tal fin.
+PARÁGRAFO 1. La recepción y estudio de las solicitudes de aprovechamiento económico del
+espacio público temporales por término superior a un año, no alterarán la forma de aprobación
+del aprovechamiento establecida por este Decreto.
+PARÁGRAFO 2. Sin perjuicio de lo consignado en el presente decreto, en el Manual del Espacio
+Público y en el Plan de Ordenamiento Territorial y demás normas complementarias, para efectos
+de la selección de las ventas informales estacionarias y semi-estacionarias (persona y tipología de
+venta), se acogerán las determinantes establecidas por la Subsecretaría de Espacio Público de la
+Secretaría de Seguridad y Convivencia del Municipio de Medellín.
+Notas de Vigencia
+- Artículo modificado por el artículo 16 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 18 del Decreto 522 de 2018:
+ARTÍCULO 18. SOLICITUD PARA EL APROVECHAMIENTO ECONÓMICO
+TEMPORAL O TRANSITORIO DEL ESPACIO PÚBLICO. El interesado radicará la
+solicitud, la cual será estudiada y resuelta en un plazo no menor a cuarenta y cinco días (45)
+hábiles, previa verificación del cumplimiento de requisitos de orden municipal,
+departamental y nacional, que le sean aplicables según el tipo de proyecto para tal fin.
+Para adelantar esta solicitud, se deberá presentar un proyecto de ocupación que contemple los
+aspectos físicos, técnicos, sociales, jurídicos, económicos, entre otros y en todo caso, con
+especial énfasis, en la sostenibilidad ambiental y la puesta en valor del paisaje urbano y el
+patrimonio.
+El análisis del proyecto de ocupación, permite conceder el aprovechamiento económico del
+espacio público de forma temporal o transitoria, sin que con ello, se llegare a afectar el
+interés colectivo a cambio de una retribución económica, en dinero o en especie, a favor de la
+Administración Municipal.
+En caso de presentarse más de una solicitud para la utilización de un mismo espacio público,
+el Comité Técnico procederá a autorizar aquella que genere menos impacto sobre el espacio
+público, acorde a las metodologías para la valoración establecidas por esta reglamentación;
+en caso de paridad en la valoración, se autorizará la solicitud que se haya radicado primero.
+PARÁGRAFO. El proyecto de ocupación deberá cumplir con los requisitos contemplados en
+
+
+<!-- página 44 -->
+
+el Manual de Procedimiento para el Aprovechamiento Económico del Espacio Público que
+será complementario a este Decreto.
+ARTICULO 18. VIABILIDAD TÉCNICA PARA EL APROVECHAMIENTO
+ECONOMICO DEL ESPACIO PÚBLICO. <Artículo modificado por el artículo 17 del Decreto
+522 de 2018 de la Alcaldía de Medellín. El nuevo texto es el siguiente:> La Agencia del Paisaje,
+el Patrimonio y las Alianzas Público Privadas – APP-, previo al otorgamiento de la autorización
+o permiso excepcional y/o contrato, emitirá concepto de viabilidad técnica, jurídica y financiera
+del proyecto respectivo, el cual se enviará a la Subsecretaría de Espacio Público para que emita la
+resolución motivada contra la cual procede el recurso de reposición.
+Notas de Vigencia
+- Artículo modificado por el artículo 17 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 17 del Decreto 522 de 2018:
+ARTICULO 17. VIABILIDAD TÉCNICA PARA EL APROVECHAMIENTO
+ECONOMICO DEL ESPACIO PÚBLICO. El interesado en el proyecto para el
+aprovechamiento económico del espacio público consultará a la Agencia para la Gestión del
+Paisaje, el Patrimonio y las Alianzas Público Privadas APP, para que otorgue viabilidad
+técnica al proyecto respectivo previo a la radicación de la solicitud ante la entidad
+competente. En el evento de existir convenio o contrato para la aprobación del proyecto, una
+vez se cuente con la viabilidad, se continuará con el trámite respectivo.
+ARTICULO 19. PERMISO EXCEPCIONAL O AUTORIZACIÓN DE LICENCIA DE
+INTERVENCIÓN Y OCUPACIÓN PARA EL APROVECHAMIENTO ECONÓMICO DEL
+ESPACIO PÚBLICO. <Artículo modificado por el artículo 18 del Decreto 522 de 2018 de la
+Alcaldía de Medellín. El nuevo texto es el siguiente:> La Subsecretaría de Espacio Público
+otorgará el permiso excepcional o autorización de ocupación del espacio público, conforme a la
+Ley 1801 de 2016 -Código Nacional de Policía y Convivencia, artículos 151 y 153
+respectivamente.
+Cuando esta ocupación implique la intervención del mismo deberá expedirse licencia de
+intervención y ocupación del espacio público, por parte del Departamento Administrativo de
+Planeación, o la entidad que haga sus veces según el Decreto Nacional 1077 de 2015 y el Decreto
+Municipal 2109 de 2015 o la norma que la modifique, complemente o sustituya.
+La persona natural o jurídica que desee realizar aprovechamiento económico del espacio público
+de propiedad privada, deberá contar con autorización escrita del propietario o del poseedor
+debidamente acreditado, salvo que en el solicitante se reúnan ambas calidades. En los casos en
+que la propiedad se encuentre sometida al régimen de propiedad horizontal, será requisito contar
+con el permiso de la copropiedad en los términos de la Ley 675 de 2011 o la norma que lo
+complemente, modifique o sustituya.
+
+
+<!-- página 45 -->
+
+Notas de Vigencia
+- Artículo modificado por el artículo 18 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 19 del Decreto 522 de 2018:
+ARTICULO 19. SOLICITUD DE LICENCIA DE OCUPACION E INTERVENCION DEL
+ESPACIO PÚBLICO Y LA SOLICITUD PARA SU APROVECHAMIENTO
+ECONOMICO. Cuando un proyecto lo requiera, el interesado en intervenir, ocupar, y/o
+aprovechar económicamente el espacio público, deberá presentar la solicitud de licencia ante
+la entidad a la que se asigne esta función o ante la Agencia para la Gestión del Paisaje, el
+Patrimonio y las Alianzas Publico Privadas APP, si media el convenio o contrato que la
+faculte para ello, cumpliendo con los requisitos establecidos en el Decreto Único Nacional
+1077 de 2015, las demás determinantes establecidas para su trámite y los consignados en este
+Decreto para la solicitud del aprovechamiento económico del espacio público.
+ARTÍCULO 20. CONTRATO DE APROVECHAMIENTO ECONÓMICO DEL ESPACIO
+PÚBLICO. <Artículo modificado por el artículo 19 del Decreto 522 de 2018 de la Alcaldía de
+Medellín. El nuevo texto es el siguiente:> Para el caso de aprovechamiento económico temporal
+se suscribirá el respectivo contrato, de conformidad con lo dispuesto en las normas contractuales
+vigentes y las demás que las modifiquen, complementen o sustituyan. En los contratos o
+convenios se determinará a cargo de quien estará la supervisión o interventoría.
+Estos actos serán suscritos por la Secretaría de Seguridad y Convivencia.
+Notas de Vigencia
+- Artículo modificado por el artículo 19 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 20 del Decreto 522 de 2018:
+ARTÍCULO 20. REQUISITOS PARA LA CELEBRACIÓN DEL CONTRATO DE
+ADMINISTRACIÓN, MANTENIMIENTO Y/O APROVECHAMIENTO ECONÓMICO
+DEL ESPACIO PÚBLICO. Una vez aprobada la solicitud para el aprovechamiento
+económico temporal del espacio público, se solicitará al interesado, la documentación
+requerida para la suscripción del respectivo contrato, de conformidad con las normas
+contractuales vigentes.
+ARTÍCULO 21. AUTORIZACIÓN O PERMISO EXCEPCIONAL PARA EL
+APROVECHAMIENTO ECONÓMICO DEL ESPACIO PÚBLICO. <Artículo modificado por
+el artículo 20 del Decreto 522 de 2018 de la Alcaldía de Medellín. El nuevo texto es el
+
+
+<!-- página 46 -->
+
+siguiente:> Para los casos de aprovechamiento económico transitorio, se expedirá la respectiva
+autorización o permiso excepcional mediante acto administrativo motivado.
+Estos actos serán suscritos por la Subsecretaría del Espacio Público de la Secretaría de Seguridad
+y Convivencia.
+Notas de Vigencia
+- Artículo modificado por el artículo 20 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 21 del Decreto 522 de 2018:
+ARTÍCULO 21. CONTRATO O PERMISO DE ADMINISTRACIÓN, MANTENIMIENTO
+Y/O APROVECHAMIENTO ECONÓMICO DEL ESPACIO PÚBLICO. Para el caso del
+aprovechamiento económico transitorio, se expedirá el respectivo permiso mediante acto
+administrativo motivado. Para el caso de aprovechamiento económico temporal, se suscribirá
+el respectivo contrato, de conformidad con lo dispuesto en las normas contractuales vigentes
+y las demás que las modifiquen, complementen o sustituyan.
+En los contratos o convenios se determinará a cargo de quien estará la supervisión o
+interventoría.
+ARTÍCULO 22. ACTA DE INVENTARIO DEL ESPACIO PÚBLICO OBJETO DE
+APROVECHAMIENTO ECONÓMICO TEMPORAL Y TRANSITORIO. Se suscribirá un acta
+de inventario inicial, donde conste el estado y entrega física de los elementos constitutivos del
+espacio público, dejando registro fotográfico de estos; dicha acta, servirá de fundamento para
+efectuar el control, vigilancia y entrega de los mismos al terminarse el contrato o el permiso, al
+cabo del cual, se levantará un acta de inventario final del espacio público objeto de devolución,
+en la cual conste que se recibe en las mismas condiciones que se entregó.
+ARTICULO 23. EXPEDICIÓN DE DOCUMENTO DE COBRO. <Artículo modificado por el
+artículo 21 del Decreto 522 de 2018 de la Alcaldía de Medellín. El nuevo texto es el siguiente:>
+La Subsecretaría del Espacio Público de la Secretaría de Seguridad y Convivencia, expedirá el
+documento de cobro de acuerdo con la retribución respectiva, los parámetros presupuestales y
+contables del Municipio de Medellín y bajo el sistema SAP.
+Para el caso de aprovechamiento económico temporal, la expedición del documento de cobro
+será los cinco (5) primeros días hábiles de cada mes, con fecha límite de pago del penúltimo día
+hábil del mes. En el aprovechamiento económico temporal superior a un año, el contrato
+establecerá la forma de pago.
+En las actividades transitorias la facturación y el pago del aprovechamiento económico del
+espacio público, se realizará de manera anticipada.
+Previo al otorgamiento de la viabilidad técnica, financiera y jurídica del proyecto de ocupación
+para cualquier forma de aprovechamiento económico del espacio público, se deberá verificar que
+el solicitante se encuentre a paz y salvo por aprovechamientos anteriores. Validado lo anterior, se
+
+
+<!-- página 47 -->
+
+expedirá el documento de cobro para la realización del pago conforme lo determine la
+Administración Municipal.”
+Notas de Vigencia
+- Artículo modificado por el artículo 21 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 23 del Decreto 522 de 2018:
+ARTICULO 23. EXPEDICIÓN DE DOCUMENTO DE COBRO. Se expedirá el documento
+de cobro de acuerdo con la retribución respectiva, los parámetros presupuestales y contables
+del Municipio de Medellín y bajo el sistema SAP. En el contrato que se celebre se pactará de
+la siguiente forma:
+Para el caso de aprovechamiento económico temporal, la expedición del documento de cobro
+será los cinco (5) primeros días hábiles de cada mes, con fecha límite de pago del penúltimo
+día hábil del mes.
+Para el caso del aprovechamiento económico transitorio, la expedición y el pago del
+documento de cobro, deberá realizarse una vez aprobada la solicitud; siendo prerrequisito el
+pago para el otorgamiento del permiso de aprovechamiento económico del espacio público.
+En las actividades transitorias la facturación y el pago del aprovechamiento económico del
+espacio público, se realizará de manera anticipada. En el evento, en que el interesado solicite
+uno o varios permisos para aprovechamiento económico transitorio, con las especificaciones
+inicialmente aprobadas, la expedición de la facturación deberá ser una vez por mes.
+ARTÍCULO 24. INTERESES POR MORA. <Artículo modificado por el artículo 22 del
+Decreto 522 de 2018 de la Alcaldía de Medellín. El nuevo texto es el siguiente:> Los intereses de
+mora por concepto de aprovechamiento económico temporal del espacio público se liquidan a
+una tasa equivalente al doble del interés legal civil sobre el valor histórico de la deuda
+actualizada al IPC, de conformidad con el numeral 8, del artículo 4 de la Ley 80 de 1993, o la
+norma que la modifique, complemente o sustituya.
+Sin perjuicio de la sanción establecida en el Código Nacional de Policía y Convivencia, aquellas
+ocupaciones transitorias que no hayan sido debidamente formalizadas, generarán la retribución
+por el aprovechamiento económico transitorio del espacio público más los intereses de mora aquí
+establecidos.
+Notas de Vigencia
+- Artículo modificado por el artículo 22 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+
+
+<!-- página 48 -->
+
+Texto original del artículo 24 del Decreto 522 de 2018:
+ARTÍCULO 24. INTERESES POR MORA. Los intereses de mora por concepto de
+aprovechamiento económico temporal se liquidan a una tasa equivalente al doble del interés
+legal civil sobre el valor histórico de la deuda actualizada al IPC, de conformidad con el
+numeral 8, del artículo 4 de Ley 80 de 1993, o la norma que la modifique, complemente o
+sustituya.
+CAPÍTULO V.
+COMISIÓN INTERSECTORIAL Y COMITÉ TÉCNICO.
+ARTÍCULO 25. CONFORMACIÓN DE LA COMISION INTERSECTORIAL ASESORA
+DEL ESPACIO PÚBLICO. <Artículo modificado por el artículo 23 del Decreto 522 de 2018 de
+la Alcaldía de Medellín. El nuevo texto es el siguiente:> Confórmese la Comisión Intersectorial
+Asesora del Espacio Público, que será la instancia encargada de manera general, de conocer,
+analizar, conceptuar, viabilizar y gestionar las propuestas de intervención, administración,
+mantenimiento y aprovechamiento económico del espacio público ya sean de iniciativa pública o
+privada.
+Las acciones derivadas de la Comisión deberán apuntar al conjunto de programas establecidos en
+el Acuerdo 48 de 2014 - Plan de Ordenamiento Territorial de Medellín, sus instrumentos
+complementarios y en los demás planes que para el Espacio Público se establezcan.
+Notas de Vigencia
+- Artículo modificado por el artículo 23 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 24 del Decreto 522 de 2018:
+ARTÍCULO 25. CONFORMACIÓN DE LA COMISION INTERSECTORIAL. Confórmese
+la Comisión Intersectorial Asesora del Espacio Público, que será la instancia encargada de
+manera general, de conocer, analizar, conceptuar, viabilizar y gestionar las propuestas de
+intervención, administración, mantenimiento y aprovechamiento económico del espacio
+público ya sean de iniciativa pública o privada.
+Las acciones derivadas de la Comisión deberán apuntar al conjunto de programas
+establecidos en el Acuerdo 48 de 2014 - Plan de Ordenamiento Territorial de Medellín, sus
+instrumentos complementarios y en los demás planes que para el Espacio Público se
+establezcan.
+ARTÍCULO 26. INTEGRANTES. <Artículo modificado por el artículo 24 del Decreto 522
+de 2018 de la Alcaldía de Medellín. El nuevo texto es el siguiente:> La Comisión Intersectorial
+Asesora del Espacio Público estará integrada de manera permanente por:
+
+
+<!-- página 49 -->
+
+1. El Director(a) General de la Agencia para la Gestión del Paisaje, el Patrimonio y las Alianzas
+Público Privadas – APP, o su delegado, quien la presidirá.
+2. El Director(a) del Departamento Administrativo de Planeación Municipal, o su delegado.
+3. El Secretario(a) de Hacienda, o su delegado.
+4. El Secretario(a) de Medio Ambiente, o su delegado.
+5. El Secretario(a) de Seguridad y Convivencia, o su delegado.
+6. El Secretario(a) de Infraestructura Física, o su delegado.
+El Secretario(a) de Suministros y Servicios, o su delegado.
+Serán invitados permanentes a la Comisión:
+5. El Secretario(a) de Desarrollo Económico o su delegado.
+6. El Secretario(a) de Movilidad o su delegado.
+7. El Secretario(a) de Salud o su delegado.
+Se podrán invitar ocasionalmente las instituciones o entidades públicas o privadas según los
+temas o proyectos a analizar que la Comisión requiera.
+Notas de Vigencia
+- Artículo modificado por el artículo 24 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 26 del Decreto 522 de 2018:
+ARTÍCULO 26. INTEGRANTES. La Comisión Intersectorial Asesora del Espacio Público
+estará integrada de manera permanente por:
+1. El Director General de la Agencia para la Gestión del Paisaje, el Patrimonio y las Alianzas
+Público Privadas – APP, o su delegado
+2. El Director del Departamento Administrativo de Planeación Municipal, o su delegado.
+3. El Secretario de la Secretaría de Hacienda, o su delegado.
+4. El Secretario de la Secretaría de Desarrollo Económico, o su delegado
+5. El Secretario de la Secretaría de Gobierno y Derechos Humanos, o su delegado.
+6. El Secretario de la Secretaria de Suministros y Servicios, o su delegado.
+7. El Secretario de la Secretaría de Movilidad, o su delegado.
+8. El Secretario de la Secretaría de Infraestructura Física, o su delegado.
+
+
+<!-- página 50 -->
+
+9. El Secretario de la Secretaría de Medio Ambiente, o su delegado
+10. El Secretario de la Secretaria de Salud, o su delegado.
+Serán invitados ocasionales a la Comisión, según los temas o proyectos a analizar, las
+entidades públicas o privadas que la Comisión requiera.
+ARTÍCULO 27. FUNCIONES. <Artículo modificado por el artículo 25 del Decreto 522 de
+2018 de la Alcaldía de Medellín. El nuevo texto es el siguiente:> La Comisión Intersectorial
+Asesora del Espacio Público tendrá las funciones de analizar, conceptuar, avalar y emitir
+recomendaciones, sobre:
+1. Las propuestas que se pongan a su consideración, previamente definidas por el Director de la
+Agencia para la Gestión del Paisaje, el Patrimonio y las Alianzas Público Privadas para su
+discusión en la Comisión.
+2. La proyección, cualificación y sostenibilidad del espacio público y el paisaje urbano de la
+Ciudad.
+3. Las propuestas de proyectos de aprovechamiento económico del espacio público.
+4. Las propuestas de intervención, ocupación, administración y mantenimiento del espacio
+público.
+5. Las propuestas de localización de elementos muebles e inmuebles sobre el espacio público, así
+como su uso y aprovechamiento.
+6. La priorización de proyectos para la cualificación y sostenibilidad del espacio público que será
+presentada ante el Consejo de Direccionamiento Estratégico del Plan de Ordenamiento
+Territorial, para la orientación de los recursos provenientes de todas las modalidades de
+aprovechamiento económico del espacio público.
+7. Las propuestas de generación de nuevos elementos que pueden ayudar a cualificar el espacio
+público y el paisaje urbano, con criterios de sostenibilidad ambiental y el uso de construcciones
+sostenibles.
+8. La modalidad contractual acorde a los proyectos de cualificación y sostenibilidad del espacio
+público y el paisaje urbano.
+Notas de Vigencia
+- Artículo modificado por el artículo 25 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+
+
+<!-- página 51 -->
+
+Texto original del artículo 27 del Decreto 522 de 2018:
+ARTÍCULO 27. FUNCIONES. La Comisión Intersectorial Asesora del Espacio Público
+tendrá las funciones de analizar, conceptuar, avalar y emitir recomendaciones, sobre:
+1. Las propuestas que se pongan a su consideración, previamente definidas por el Director de
+la Agencia para la Gestión del Paisaje, el Patrimonio y las Alianzas Público Privadas para su
+discusión en la Comisión.
+2. La proyección, cualificación y sostenibilidad del espacio público y el paisaje urbano de la
+Ciudad.
+3. Las propuestas de proyectos de aprovechamiento económico del espacio público.
+4. Las propuestas de intervención, ocupación, administración y mantenimiento del espacio
+público.
+5. Las propuestas de localización de elementos muebles e inmuebles sobre el espacio público,
+así como su uso y aprovechamiento.
+6. La priorización de proyectos para la cualificación, sostenibilidad, mantenimiento y
+aprovechamiento económico del espacio público y direccionamiento de recursos.
+7. Las propuestas de generación de nuevos elementos que pueden ayudar a cualificar el
+espacio público y el paisaje urbano, con criterios de sostenibilidad ambiental y el uso de
+construcciones sostenibles.
+8. La modalidad contractual acorde a los proyectos de cualificación y sostenibilidad del
+espacio público y el paisaje urbano.
+ARTÍCULO 28. REUNIONES DE LA COMISIÓN INTERSECTORIAL ASESORA DEL
+ESPACIO PÚBLICO. <Artículo modificado por el artículo 26 del Decreto 522 de 2018 de la
+Alcaldía de Medellín. El nuevo texto es el siguiente:> El Director(a) de la Agencia para la
+Gestión del Paisaje, el Patrimonio y las Alianzas Publico Privadas –APP-, convocará a reuniones
+cuando lo considere necesario con una antelación no inferior a cinco (5) días hábiles y deberá ir
+acompañada de un resumen ejecutivo de las propuestas que serán analizadas en la reunión.
+Las conclusiones y decisiones de la Comisión, se asentarán en un acta de recomendación al
+presidente. Para la deliberación y generación de recomendaciones, deberá verificarse la asistencia
+de al menos la mitad más uno de los integrantes permanentes de la Comisión. Cuando la decisión
+deba tomarse de manera virtual se requerirá de la manifestación expresa y escrita de la mitad más
+uno de los miembros permanentes según el plazo determinado en la citación. El Secretario de la
+Comisión podrá ser alguno de los Subdirectores de la Agencia para la Gestión del Paisaje, el
+Patrimonio y de las Alianzas Publico Privadas –APP-, o su delegado.”
+Notas de Vigencia
+- Artículo modificado por el artículo 26 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+
+
+<!-- página 52 -->
+
+Legislación Anterior
+Texto original del artículo 28 del Decreto 522 de 2018:
+ARTÍCULO 28. REUNIONES. El Director de la Agencia para la Gestión del Paisaje, el
+Patrimonio y las Alianzas Publico Privadas, quien actúa como presidente de la Comisión,
+convocará a las reuniones cuando lo considere necesario. En todo caso, la convocatoria
+deberá llevarse a cabo con una antelación no inferior a siete (7) días. Esta convocatoria
+deberá ir acompañada de un resumen ejecutivo de las propuestas que serán analizadas en la
+reunión. Las conclusiones y decisiones de la Comisión, se asentarán en un acta de
+recomendación al presidente.
+Para la deliberación y generación de recomendaciones, deberá verificarse la asistencia de al
+menos la mitad más uno de los integrantes permanentes de la Comisión.
+El Secretario de la Comisión podrá ser alguno de los Subdirectores de la Agencia para la
+Gestión del Paisaje, el Patrimonio y de las Alianzas Publico Privadas APP, o su delegado.
+ARTÍCULO 29. COMITÉ TÉCNICO DE LA COMISIÓN INTERSECTORIAL ASESORA
+DEL ESPACIO PÚBLICO. <Artículo modificado por el artículo 27 del Decreto 522 de 2018 de
+la Alcaldía de Medellín. El nuevo texto es el siguiente:> Confórmese el Comité Técnico el cual
+estará integrado por un equipo técnico, jurídico y financiero designado por la Agencia para la
+Gestión del Paisaje, el Patrimonio y las Alianzas Público Privadas –APP- y demás entidades y
+dependencias de la Administración Municipal que se requieran, de acuerdo al alcance de los
+proyectos de administración, mantenimiento, ocupación e intervención para el aprovechamiento
+económico del espacio público.
+Se reunirá cuando lo estime pertinente y deberá presentar ante la Comisión Intersectorial Asesora
+del Espacio Público, las propuestas y proyectos con sus respectivos insumos técnicos, jurídicos,
+socio-económico y financieros, cuando el proyecto así lo requiera.
+Este Comité tendrá las siguientes funciones:
+1. Analizar, gestionar y viabilizar las solicitudes de administración, mantenimiento, ocupación e
+intervención para el aprovechamiento económico del espacio público.
+2. Proyectar el informe que se presentará a la Comisión Intersectorial de Asesora del Espacio
+Público.
+3. Elaborar los insumos que requieran ser presentados ante el Consejo de Direccionamiento
+Estratégico del Plan de Ordenamiento Territorial, relacionados a la priorización de proyectos de
+cualificación y sostenibilidad del espacio público y de direccionamiento hacia dichos proyectos,
+de los recursos provenientes de todas las modalidades de aprovechamiento económico del
+espacio público.
+4. Definir los criterios para la selección de solicitudes de aprovechamiento Económico temporal
+que superen un año y hasta por diez.
+Notas de Vigencia
+
+
+<!-- página 53 -->
+
+- Artículo modificado por el artículo 27 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 29 del Decreto 522 de 2018:
+ARTÍCULO 29. COMITÉ TÉCNICO. Confórmese el Comité Técnico, como primera
+instancia encargada de estudiar, analizar y gestionar las solicitudes de ocupación,
+intervención y/o aprovechamiento económico del espacio público y proyectar el informe que
+se presentará a la Comisión Intersectorial.
+Estará conformado por un equipo técnico, jurídico y financiero designado por la Agencia
+para la Gestión del Paisaje, el Patrimonio y las Alianzas Público Privadas APP y demás
+entidades y dependencias de la Administración Municipal que se requieran de acuerdo al
+alcance del proyecto.
+El Comité Técnico deberá presentar ante la Comisión Intersectorial, las propuestas y
+proyectos de ocupación, intervención y/o aprovechamiento económico del espacio público,
+con sus respectivos insumos técnicos, jurídicos, socio-económico y financieros, cuando el
+proyecto así lo requiera para su análisis, y se reunirá cuando lo estime pertinente. Este
+Comité podrá resolver sobre las solicitudes que no sean evaluadas por la Comisión
+Intersectorial.
+CAPÍTULO VI.
+PROGRAMAS Y PROYECTOS.
+ARTÍCULO 30. PROGRAMAS Y PROYECTOS. Estos se clasifican de la siguiente manera:
+A. Programas para el aprovechamiento económico del espacio público:
+1. Programa de creación y actualización de la plataforma tecnológica y de la respectiva Geo
+Data base, para la gestión y administración del aprovechamiento económico del espacio público
+del municipio de Medellín.
+2. Programa de fortalecimiento institucional de la Agencia para la Gestión del Paisaje, el
+Patrimonio y las Alianzas Publico Privadas APP.
+B. Programas relacionados con los venteros informales regulados:
+3. Programa de reubicación de venteros informales regulados de la ciudad de Medellín.
+4. Actualización del Programa de Comerciantes con Oportunidades.
+5. Programas de atención a los venteros informales.
+6. Programa de creación e implementación de esquemas de mejoramiento de los centros
+comerciales populares.
+
+
+<!-- página 54 -->
+
+ARTÍCULO 31 ASPECTOS GENERALES PARA LA IMPLEMENTACIÓN DE
+PROGRAMAS Y PROYECTOS PARA LA ADMINISTRACIÓN, MANTENIMIENTO Y
+APROVECHAMIENTO ECONÓMICO DEL ESPACIO PÚBLICO: <Artículo modificado por
+el artículo 28 del Decreto 522 de 2018 de la Alcaldía de Medellín. El nuevo texto es el
+siguiente:>
+1. Programa de Creación y Actualización de la Plataforma Tecnológica y de la respectiva geo-
+data-base, para la gestión y administración del aprovechamiento económico del espacio público
+del Municipio de Medellín. Se deberá crear e implementar la Geo Data base para el manejo del
+aprovechamiento económico del espacio público acorde con los análisis y diagnósticos que para
+tal fin se realicen.
+La creación de la geodatabase se realizará en una mesa de trabajo conjunta liderada y convocada
+por la Agencia para la Gestión del Paisaje, el Patrimonio y las Alianzas Publico Privadas, en la
+que además participará la Secretaría de Seguridad y Convivencia, la Secretaría de Gestión y
+Control Territorial, Departamento Administrativo de Planeación, Secretaría de Suministros y
+Servicios, Secretaria de Desarrollo Económico, entre otras dependencias y entidades que se
+requieran.
+La Secretaría de Seguridad y Convivencia, la Secretaria de Suministros y Servicios, el INDER, la
+Secretaria de Cultura, Metro de Medellín, entre otros, que han tenido contratos o han otorgado
+permisos para la realización de actividades que impliquen el aprovechamiento económico del
+espacio público, actualizarán y unificarán sus respectivas bases de datos para ser entregadas a la
+mesa conjunta, acorde a los criterios de la arquitectura de datos establecidos por ésta.
+2. Programa de reubicación de venteros informales regulados de la ciudad de Medellín. La cual
+tendrá lugar en los siguientes casos:
+- Por reubicación en Centros Comerciales Populares existentes como lo son el Bulevar Artesanal
+a Cielo Abierto San Antonio, Centro Comercial a Cielo Abierto Tejelo, Bazar de los Puentes
+Plataforma C, Libro y la Cultura, el Pescado y la Cosecha, Los Bolsos, Juanambú, Bolívar Prado,
+Medellín, Quincalla 1 y 2, así como en los que la Administración Municipal llegare a crear.
+- Reubicación fuera del centro de la ciudad, cerca al domicilio del ventero, en aras de mejorar su
+calidad de vida y la de su familia.
+- Reubicación por proyectos, obras públicas y privadas.
+- Reubicación por problemas de orden público.
+- Reubicación por eventos de ciudad.
+- Reubicaciones priorizadas por Presupuesto Participativo.
+- Reubicación por recuperación del espacio público.
+- Reubicación por orden de autoridad judicial.
+2.1 Procedimiento para la reubicación. En caso de proceder la reubicación, sea esta transitoria o
+definitiva, se analizarán las condiciones espaciales, sociales y económicas concernientes a la
+reubicación, propendiendo que la misma se realice en condiciones similares o mejores a aquellas
+
+
+<!-- página 55 -->
+
+en las que el ventero se encontraba antes de la intervención.
+En desarrollo de lo anterior, el procedimiento para la reubicación tendrá los siguientes
+componentes:
+a) Diagnóstico de la situación: Se determinarán las razones de la reubicación y para ello se
+realizará un diagnóstico de las dinámicas y elementos característicos del sector a intervenir, que
+incluirá pero no se limitará, según el caso, a la identificación geográfica; la revisión de aspectos
+por los cuales se hace necesaria la reubicación (obra o situación específica); el diagnóstico de
+actores que intervienen en el espacio público; la identificación de líderes, asociaciones y vecinos
+del sector; y la identificación de aspectos de seguridad.
+b) Identificación de la población intervenida: Se identificará la situación de los venteros que
+serán reubicados, por medio de una revisión de las bases de datos que se encuentren a
+disposición de la entidad o dependencia encargada de regular las ventas informales, con el fin de
+verificar el historial y las condiciones específicas del ventero, al igual que se verificará su
+situación socioeconómica y sus condiciones de vulnerabilidad.
+c) Verificación de condiciones de reubicación en territorio: El personal designado por la entidad
+o dependencia responsable de coordinar las reubicaciones, se desplazará para realizar la
+verificación visual y registro de las condiciones de los posibles lugares que cumplan con los
+requisitos para llevar a cabo la reubicación del ventero informal.
+Una vez recopilada la información necesaria, se determinará la forma de realizar la reubicación
+del ventero informal regulado, analizando las condiciones geográficas, sociales y económicas que
+permitan verificar que el punto de reubicación ofrece similares o mejores condiciones a las que
+tenía el ventero con anterioridad a la intervención.
+d) Reubicación de ventero informal regulado. Una vez verificado el cumplimiento de los
+requisitos existentes, se llevará a cabo el traslado del ventero según las condiciones que se hayan
+estipulado a lo largo del proceso, efectuando los ajustes administrativos y contractuales a que
+haya lugar.
+Notas de Vigencia
+- Artículo modificado por el artículo 28 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 31 del Decreto 522 de 2018:
+ARTICULO 31. ASPECTOS GENERALES PARA LA IMPLEMENTACION DE
+PROGRAMAS Y PROYECTOS.
+1. Programa de Creación y Actualización de la Plataforma Tecnológica y de La Respectiva
+Geo Data base, para la Gestión y Administración del Aprovechamiento Económico del
+Espacio Público del Municipio De Medellín. Se deberá crear e implementar la Geo Data base
+para el manejo del aprovechamiento económico del espacio público acorde con los análisis y
+diagnósticos que para tal fin se realicen.
+
+
+<!-- página 56 -->
+
+La creación de la Geo Data base se realizará en una mesa de trabajo conjunta liderada y
+convocada por la Agencia para la Gestión del Paisaje, el Patrimonio y las Alianzas Publico
+Privadas, en la que además participará la Secretaría de Gobierno y Derechos Humanos, la
+Secretaría de Gestión y Control Territorial, Departamento Administrativo de Planeación,
+Secretaría de Suministros y Servicios, Secretaria de Desarrollo Económico, entre otras
+dependencias y entidades que se requieran.
+La Secretaría de Gobierno, la Secretaria de Suministros y Servicios, el Inder, la Secretaria de
+Cultura, entre otros, que han tenido contratos o han otorgado permisos para la realización de
+actividades que impliquen el aprovechamiento económico del espacio público, actualizarán y
+unificarán sus respectivas bases de datos para ser entregadas a la mesa conjunta, acorde a los
+criterios de la arquitectura de datos establecidos por ésta.
+2. Programa de fortalecimiento institucional de la Agencia para la Gestión del Paisaje, el
+Patrimonio y las Alianzas Público Privadas APP. El efecto de este programa, es la
+formulación de los programas y proyectos requeridos que permitan la celebración de
+convenios y contratos para desarrollar todas las actividades descritas en el presente Decreto a
+cargo de la Agencia para la Gestión del Paisaje, el Patrimonio y las Alianzas Público
+Privadas APP y las que le sean delegadas para este fin, mediante dichos convenios o
+contratos.
+3. Programa de reubicación de venteros informales regulados de la ciudad de Medellín. La
+reubicación de venteros informales regulados tendrá lugar en los siguientes casos:
+- Por reubicación en Centros Comerciales Populares existentes como lo son el Bulevar
+Artesanal a Cielo Abierto San Antonio, Centro Comercial a Cielo Abierto Tejelo, Bazar de
+los Puentes Plataforma
+C, Libro y la Cultura, el Pescado y la Cosecha, Los Bolsos, Centro Comercial San Antonio,
+Juanambú, Bolívar Prado, Medellín, Quincalla 1 y 2, así como en los que la Administración
+Municipal llegare a crear.
+- Reubicación fuera del centro de la ciudad, cerca al domicilio del ventero, en aras de mejorar
+su calidad de vida y la de su familia.
+- Reubicación por obras públicas y privadas.
+- Reubicación por problemas de orden público.
+- Reubicación por eventos de ciudad.
+- Reubicaciones priorizadas por Presupuesto Participativo.
+- Reubicación por recuperación del espacio público.
+3.1 Procedimiento para la reubicación. En caso de proceder la reubicación, sea esta transitoria
+o definitiva, se analizarán las condiciones espaciales, sociales y económicas concernientes a
+la reubicación, buscando garantizar que la misma se realice en condiciones similares o
+mejores a aquellas en las que el ventero se encontraba antes de la intervención.
+En desarrollo de lo anterior, el procedimiento para la reubicación tendrá los siguientes
+componentes:
+
+
+<!-- página 57 -->
+
+a) Diagnóstico de la situación: Se determinarán las razones de la reubicación y para ello se
+realizará un diagnóstico de las dinámicas y elementos característicos del sector a intervenir,
+que incluirá pero no se limitará, según el caso, a la identificación geográfica; la revisión de
+aspectos por los cuales se hace necesaria la reubicación (obra o situación específica); el
+diagnóstico de actores que intervienen en el espacio; la identificación de líderes, asociaciones
+y vecinos del sector; y la identificación de aspectos de seguridad.
+b) Identificación de la población intervenida: Se identificará la situación de los venteros que
+serán reubicados, por medio de una revisión de las bases de datos que se encuentren
+a disposición de la entidad o dependencia encargada de regular las ventas informales, con el
+fin de verificar el historial y las condiciones específicas del ventero, al igual que se verificará
+su situación socioeconómica y sus condiciones de vulnerabilidad.
+c) Verificación en territorio: El personal designado por la entidad o dependencia responsable
+de coordinar las reubicaciones, se desplazará para realizar la verificación visual y registro de
+las condiciones de los posibles lugares que cumplan con los requisitos para llevar a cabo la
+reubicación del ventero informal.
+d) Estudio de las condiciones de reubicación: Una vez recopilada la información necesaria, se
+determinará la forma de realizar la reubicación del ventero informal regulado, analizando las
+condiciones geográficas, sociales y económicas que permitan verificar que el punto de
+reubicación ofrece similares o mejores condiciones a las que tenía el ventero con anterioridad
+a la intervención.
+e) Reubicación de ventero informal regulado. Una vez verificado el cumplimiento de los
+requisitos existentes, se llevará a cabo la reubicación del ventero según las condiciones que
+se hayan estipulado a lo largo del proceso.
+4. Actualización del Programa de comerciantes con oportunidades. Se fortalecerá la
+estrategia “COMERCIANTES CON OPORTUNIDADES” la cual tiene como finalidad el
+ingreso al sistema financiero de los venteros informales a través de procesos de ahorro
+programado, créditos solidarios, capacitaciones en emprendimiento y elaboración de planes
+de negocio.
+Se vincularán a los programas sociales de carácter Municipal tales como: Cultura E (de
+emprendimiento) y Medellín Solidaria (Inclusión Social), convirtiendo la articulación
+interinstitucional en una herramienta expedita para la generación de desarrollo económico
+sostenible para este importante grupo poblacional, con alianzas con cooperativas financieras
+pretendiendo salir de la esfera de la informalidad y pasar al mercado formal mejorando con
+ello su calidad de vida y la de sus familias.
+Mediante Alianzas Público-Privadas, entre otras modalidades de contratación, se podrán
+fortalecer y crear unidades productivas en aras de mitigar el impacto socioeconómico que
+conlleva la reubicación de venteros.
+5. Programas de atención a los venteros informales. En desarrollo de la política pública para
+los venteros informales establecida mediante el Acuerdo 42 de 2014, la Administración
+Municipal difundirá y fortalecerá la Oferta Institucional que ha dispuesto desde sus diferentes
+entidades y dependencias, con el fin de mejorar la calidad de vida de los venteros informales
+por medio de las oportunidades ofrecidas por programas y convenios para la educación
+
+
+<!-- página 58 -->
+
+superior, atención al adulto mayor, Medellín Solidaria, subsidio de alimentación, subsidio
+económico a través de la Secretaría de Inclusión Social y Familia- Amautta-, programa Buen
+Comienzo para la atención de niños y niñas durante los primeros cinco años de vida, Plan de
+capacitación gratuita en emprendimiento empresarial y comercial y fortalecimiento de
+competencias a través de CEDEZO, entre otros.
+6. Programa de creación de esquemas de mejoramiento de los centros comerciales populares.
+La Secretaría de Desarrollo Económico en compañía de las demás dependencias que
+intervengan en los diferentes procesos atinentes a los centros comerciales populares,
+reglamentará y desarrollará estrategias orientadas al posicionamiento, fortalecimiento y
+competitividad de los centros comerciales populares del Municipio de Medellín, a través de
+la implementación de las estrategias de marketing y comunicaciones aplicando a modelos de
+emprendimiento, alianzas público privadas, formación para el desempeño y promoción de la
+asociatividad en intervenciones combinadas en infraestructura, seguridad, gobernabilidad,
+institucionalidad y social.
+Dentro de estas estrategias están la formalización empresarial, el plan de marketing y
+comunicaciones, innovación tecnológica para estrategia del marketing, cambio de imagen
+comercial, alianzas estratégicas público-privadas, ocupación locales 100%, locales ancla,
+sensibilización a la población objetivo, conversatorios, Plan padrino, Formación Aplicada,
+Agrupación por tipología.
+CAPÍTULO VII.
+DISPOSICIONES FINALES.
+ARTÍCULO 32. DISPOSICIONES FINALES. <Artículo modificado por el artículo 29 del
+Decreto 522 de 2018 de la Alcaldía de Medellín. El nuevo texto es el siguiente:> La
+Administración Municipal y las entidades responsables del instrumento, propenderán por la
+creación y/o actualización de la plataforma tecnológica y de la respectiva Geo Data base para la
+Gestión y Administración del Aprovechamiento Económico del Espacio Público del Municipio
+de Medellín.
+Igualmente, será necesario el fortalecimiento institucional tanto de la Agencia para la Gestión del
+Paisaje, el Patrimonio y las Alianzas Público Privadas-Agencia –APP-, como de los demás
+entidades y dependencias involucradas en el proceso de aplicación del instrumento de
+aprovechamiento económico del espacio público, así como la realización de las actividades
+necesarias para su óptima operatividad y la formulación de programas y proyectos que deben ser
+incorporados al respectivo Plan de Desarrollo y planes de acción de las dependencias respectivas.
+La Agencia para la Gestión del Paisaje, el Patrimonio y las Alianzas Público Privadas –APP-,
+deberá establecer una estrategia para el aprovechamiento económico del espacio público, en la
+que se contemplen áreas o zonas de la ciudad para la implementación gradual del presente
+Decreto.
+Todos los proyectos nuevos públicos y privados que generen y cualifiquen espacio público,
+deberán incorporar áreas y amoblamiento urbano para el aprovechamiento económico del espacio
+público, en coherencia con lo determinado en el POT, el Manual de Espacio Público, el presente
+decreto y el manual que se adopte. Las áreas y el amoblamiento urbano deberán estar
+
+
+<!-- página 59 -->
+
+consignados, nombrados y acotados en los planos urbanísticos y de detalle que se presenten al
+DAP, para el otorgamiento de las licencias de intervención del espacio público.
+Notas de Vigencia
+- Artículo modificado por el artículo 29 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+Legislación Anterior
+Texto original del artículo 31 del Decreto 522 de 2018:
+ARTÍCULO 32. TRANSITORIEDAD. El presente Decreto surtirá efectos condicionado a la
+Creación y/o actualización de la Plataforma Tecnológica y de La Respectiva Geo Data base,
+para la Gestión y Administración del Aprovechamiento Económico del Espacio Público del
+Municipio de Medellín, el fortalecimiento institucional de la Agencia para la Gestión del
+Paisaje, el Patrimonio y las Alianzas Público Privadas APP, y demás disposiciones
+complementarias, necesarias para su óptima operatividad, programas que deben ser
+incorporados al respectivo Plan de Desarrollo y planes de acción de las dependencias
+respectivas.
+ARTÍCULO 33A. SEGUIMIENTO Y EVALUACIÓN. <Artículo adicionado por el artículo
+30 del Decreto 522 de 2018 de la Alcaldía de Medellín. El nuevo texto es el siguiente:> Para
+cada una de las modalidades de aprovechamiento económico del espacio público, que
+posteriormente se definan, la Secretaría de Hacienda dará apertura a una o varias cuentas
+bancarias, subcuentas, códigos de asignación presupuestal de ingreso y gasto, fondos anuales de
+asignación presupuestal y/o demás insumos administrativos requeridos para el seguimiento y
+evaluación de los correspondientes recursos recaudados por este concepto
+Notas de Vigencia
+- Artículo adicionado por el artículo 30 del Decreto 522 de 2018 de la Alcaldía de Medellín,
+'por medio del cual se modifica y adiciona el Decreto 2148 de 2015', publicado en la Gaceta
+Oficial No. 4536 de 23 de julio de 2018.
+ARTICULO 33. VIGENCIA Y DEROGATORIA. El presente Decreto rige a partir de la
+fecha de su publicación en la Gaceta Oficial y la página web del Municipio de Medellín y deroga
+las disposiciones que le sean contrarias.
+PUBLÍQUESE Y CÚMPLASE
+Dado en Medellín, a los treinta (30) días del mes de diciembre del año 2015.
+ANIBAL GAVIRIA CORREA
+Alcalde
+JORGE ALBERTO PÉREZ JARAMILLO
+Director
+
+
+<!-- página 60 -->
+
+Departamento Administrativo de Planeación
+Disposiciones analizadas por Avance Jurídico Casa Editorial Ltda.
+Compilación de disposiciones aplicables al MUNICIPIO DE MEDELLÍN
+n.d.
+Última actualización: 15 de junio de 2019

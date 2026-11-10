@@ -1,0 +1,341 @@
+﻿fecha,origen,relacion,acto_destino,articulo_destino,unidad_destino,alcance,unidades_afectadas,fuente_de_la_relacion
+2017-02-15,D0127-2017:a1,modifica,D1569-2016,4,D1569-2016:a4,,1,texto del acto
+2017-02-15,D0127-2017:a2,modifica,D1569-2016,5,D1569-2016:a5,,1,texto del acto
+2017-08-08,D0621-2017:a2,modifica,D1569-2016,4,D0127-2017:a1,,1,texto del acto
+2017-08-08,D0621-2017:a3,modifica,D1569-2016,5,D0127-2017:a2,,1,texto del acto
+2017-08-08,D0621-2017:a4,modifica,D1569-2016,7,D1569-2016:a7,,1,texto del acto
+2017-08-08,D0621-2017:a5,adiciona,D1569-2016,8,,,1,texto del acto
+2018-07-23,D0522-2018:a2,modifica,D2148-2015,2,D2148-2015:a2,,1,texto del acto
+2018-07-23,D0522-2018:a3,modifica,D2148-2015,4,D2148-2015:a4,,1,texto del acto
+2018-07-23,D0522-2018:a4,modifica,D2148-2015,5,D2148-2015:a5,,1,texto del acto
+2018-07-23,D0522-2018:a5,modifica,D2148-2015,6,D2148-2015:a6,,1,texto del acto
+2018-07-23,D0522-2018:a6,adiciona,D2148-2015,6A,,,1,texto del acto
+2018-07-23,D0522-2018:a7,integra,D2148-2015,9,D2148-2015:a9,,1,texto del acto
+2018-07-23,D0522-2018:a7,integra,D2148-2015,10,D2148-2015:a10,,1,texto del acto
+2018-07-23,D0522-2018:a8,renumera,D2148-2015,7,D2148-2015:a7,,1,texto del acto
+2018-07-23,D0522-2018:a9,renumera,D2148-2015,8,D2148-2015:a8,,1,texto del acto
+2018-07-23,D0522-2018:a10,renumera,D2148-2015,13,D2148-2015:a13,,1,texto del acto
+2018-07-23,D0522-2018:a11,renumera,D2148-2015,12,D2148-2015:a12,,1,texto del acto
+2018-07-23,D0522-2018:a12,modifica,D2148-2015,14,D2148-2015:a14,,1,texto del acto
+2018-07-23,D0522-2018:a13,adiciona,D2148-2015,14A,,,1,texto del acto
+2018-07-23,D0522-2018:a14,modifica,D2148-2015,15,D2148-2015:a15,,1,texto del acto
+2018-07-23,D0522-2018:a15,modifica,D2148-2015,16,D2148-2015:a16,,1,texto del acto
+2018-07-23,D0522-2018:a16,renumera,D2148-2015,18,D2148-2015:a18,,1,texto del acto
+2018-07-23,D0522-2018:a17,renumera,D2148-2015,17,D2148-2015:a17,,1,texto del acto
+2018-07-23,D0522-2018:a18,modifica,D2148-2015,19,D2148-2015:a19,,1,texto del acto
+2018-07-23,D0522-2018:a19,modifica,D2148-2015,20,D2148-2015:a20,,1,texto del acto
+2018-07-23,D0522-2018:a20,modifica,D2148-2015,21,D2148-2015:a21,,1,texto del acto
+2018-07-23,D0522-2018:a21,modifica,D2148-2015,23,D2148-2015:a23,,1,texto del acto
+2018-07-23,D0522-2018:a22,modifica,D2148-2015,24,D2148-2015:a24,,1,texto del acto
+2018-07-23,D0522-2018:a23,modifica_parcial,D2148-2015,25,D2148-2015:a25,título,1,texto del acto
+2018-07-23,D0522-2018:a24,modifica,D2148-2015,26,D2148-2015:a26,,1,texto del acto
+2018-07-23,D0522-2018:a25,modifica_parcial,D2148-2015,27,D2148-2015:a27,enunciado y numeral 6°,1,texto del acto
+2018-07-23,D0522-2018:a26,modifica,D2148-2015,28,D2148-2015:a28,,1,texto del acto
+2018-07-23,D0522-2018:a27,modifica,D2148-2015,29,D2148-2015:a29,,1,texto del acto
+2018-07-23,D0522-2018:a28,modifica,D2148-2015,31,D2148-2015:a31,,1,texto del acto
+2018-07-23,D0522-2018:a29,modifica,D2148-2015,32,D2148-2015:a32,,1,texto del acto
+2018-07-23,D0522-2018:a30,adiciona,D2148-2015,33A,,,1,texto del acto
+2018-07-23,D0522-2018:a31,deroga,D2148-2015,3,D2148-2015:a3,,1,inventario (artículo de vigencia)
+2018-07-23,D0522-2018:a31,deroga,D2148-2015,10,D2148-2015:a10,,1,inventario (artículo de vigencia)
+2018-12-12,D1006-2018:a4,modifica,D2053-2015,43,D2053-2015:a43,,1,texto del acto
+2018-12-12,D1006-2018:a5,modifica,D2053-2015,44,D2053-2015:a44,,1,texto del acto
+2018-12-12,D1006-2018:a6,modifica,D2053-2015,45,D2053-2015:a45,,1,texto del acto
+2018-12-12,D1006-2018:a7,adiciona,D2053-2015,45A,,,1,texto del acto
+2018-12-12,D1006-2018:a8,adiciona,D2053-2015,45B,,,1,texto del acto
+2018-12-12,D1006-2018:a9,modifica,D2053-2015,58,D2053-2015:a58,,1,texto del acto
+2018-12-12,D1006-2018:a10,modifica_parcial,D2053-2015,59,D2053-2015:a59,tabla,1,texto del acto
+2018-12-12,D1006-2018:a11,modifica,D2053-2015,62,D2053-2015:a62,,1,texto del acto
+2018-12-12,D1006-2018:a12,modifica,D2053-2015,64,D2053-2015:a64,,1,texto del acto
+2018-12-12,D1006-2018:a13,modifica_parcial,D2053-2015,66,D2053-2015:a66,parágrafo,1,texto del acto
+2018-12-12,D1006-2018:a14,modifica_parcial,D2053-2015,75,D2053-2015:a75,numeral 3,1,texto del acto
+2018-12-12,D1006-2018:a15,modifica,D2053-2015,84,D2053-2015:a84,,1,texto del acto
+2018-12-12,D1006-2018:a16,adiciona,D2053-2015,87A,,,1,texto del acto
+2018-12-12,D1006-2018:a17,modifica_parcial,D2053-2015,99,D2053-2015:a99,numeral 2,1,texto del acto
+2018-12-12,D1006-2018:a18,adiciona,D2053-2015,99A,,,1,texto del acto
+2018-12-12,D1006-2018:a19,adiciona,D2053-2015,99B,,,1,texto del acto
+2018-12-12,D1006-2018:a20,adiciona,D2053-2015,111A,,,1,texto del acto
+2018-12-12,D1006-2018:a21,adiciona,D2053-2015,121A,,,1,texto del acto
+2018-12-12,D1006-2018:a22,adiciona,D2053-2015,132A,,,1,texto del acto
+2018-12-12,D1006-2018:a23,adiciona,D2053-2015,141A,,,1,texto del acto
+2018-12-12,D1006-2018:a24,modifica_parcial,D2053-2015,149,D2053-2015:a149,tabla,1,texto del acto
+2018-12-12,D1006-2018:a25,adiciona,D2053-2015,150A,,,1,texto del acto
+2018-12-12,D1006-2018:a26,adiciona,D2053-2015,160A,,,1,texto del acto
+2018-12-12,D1006-2018:a27,modifica,D2053-2015,207,D2053-2015:a207,,1,texto del acto
+2018-12-12,D1006-2018:a28,modifica,D2053-2015,208,D2053-2015:a208,,1,texto del acto
+2018-12-12,D1006-2018:a29,modifica,D2053-2015,209,D2053-2015:a209,,1,texto del acto
+2018-12-12,D1006-2018:a30,adiciona,D2053-2015,209A,,,1,texto del acto
+2018-12-12,D1006-2018:a31,adiciona,D2053-2015,209B,,,1,texto del acto
+2018-12-12,D1006-2018:a32,modifica_parcial,D2053-2015,287,D2053-2015:a287,conformación del Área de Manejo Especial JN 11 AME CN-E,1,texto del acto
+2018-12-12,D1006-2018:a33,modifica,D2053-2015,330,D2053-2015:a330,,1,texto del acto
+2018-12-12,D1006-2018:a34,modifica,D2053-2015,331,D2053-2015:a331,,1,texto del acto
+2018-12-12,D1006-2018:a35,modifica,D2053-2015,332,D2053-2015:a332,,1,texto del acto
+2018-12-12,D1006-2018:a36,adiciona,D2053-2015,332A,,,1,texto del acto
+2018-12-12,D1006-2018:a37,adiciona,D2053-2015,332B,,,1,texto del acto
+2018-12-12,D1006-2018:a38,modifica_parcial,D2053-2015,346,D2053-2015:a346,tabla,1,texto del acto
+2018-12-12,D1006-2018:a39,modifica,D2053-2015,349,D2053-2015:a349,,1,texto del acto
+2018-12-12,D1006-2018:a40,modifica,D2053-2015,351,D2053-2015:a351,,1,texto del acto
+2018-12-12,D1006-2018:a41,modifica_parcial,D2053-2015,353,D2053-2015:a353,parágrafo,1,texto del acto
+2018-12-12,D1006-2018:a42,modifica_parcial,D2053-2015,362,D2053-2015:a362,numeral 3,1,texto del acto
+2018-12-12,D1006-2018:a43,modifica_parcial,D2053-2015,386,D2053-2015:a386,numeral 2,1,texto del acto
+2018-12-12,D1006-2018:a44,adiciona,D2053-2015,386A,,,1,texto del acto
+2018-12-12,D1006-2018:a45,adiciona,D2053-2015,386B,,,1,texto del acto
+2018-12-12,D1006-2018:a46,adiciona,D2053-2015,399A,,,1,texto del acto
+2018-12-12,D1006-2018:a47,modifica_parcial,D2053-2015,408,D2053-2015:a408,conformación catastral del Área de Manejo Especial No. 24 del Plan Parcial San B,1,texto del acto
+2018-12-12,D1006-2018:a48,adiciona,D2053-2015,409A,,,1,texto del acto
+2018-12-12,D1006-2018:a49,modifica,D2053-2015,335,D2053-2015:a335,,1,texto del acto
+2018-12-12,D1006-2018:a50,modifica,D2053-2015,476,D2053-2015:a476,,1,texto del acto
+2018-12-12,D1006-2018:a51,modifica,D2053-2015,477,D2053-2015:a477,,1,texto del acto
+2018-12-12,D1006-2018:a52bis,deroga,D2053-2015,114,D2053-2015:a114,,1,inventario (artículo de vigencia)
+2018-12-12,D1006-2018:a52bis,deroga,D2053-2015,124,D2053-2015:a124,,1,inventario (artículo de vigencia)
+2018-12-12,D1006-2018:a52bis,deroga,D2053-2015,153,D2053-2015:a153,,1,inventario (artículo de vigencia)
+2018-12-12,D1006-2018:a52bis,deroga,D2053-2015,163,D2053-2015:a163,,1,inventario (artículo de vigencia)
+2018-12-12,D1006-2018:a52bis,deroga,D2053-2015,172,D2053-2015:a172,,1,inventario (artículo de vigencia)
+2019-11-13,D2195-2019:a4,modifica_parcial,D2078-2015,36,D2078-2015:a36,tabla,1,texto del acto
+2019-11-13,D2195-2019:a5,modifica,D2078-2015,43,D2078-2015:a43,,1,texto del acto
+2019-11-13,D2195-2019:a6,modifica,D2078-2015,44,D2078-2015:a44,,1,texto del acto
+2019-11-13,D2195-2019:a7,modifica,D2078-2015,45,D2078-2015:a45,,1,texto del acto
+2019-11-13,D2195-2019:a8,adiciona,D2078-2015,45A,,,1,texto del acto
+2019-11-13,D2195-2019:a9,adiciona,D2078-2015,45B,,,1,texto del acto
+2019-11-13,D2195-2019:a10,modifica_parcial,D2078-2015,55,D2078-2015:a55,parágrafo,1,texto del acto
+2019-11-13,D2195-2019:a11,modifica,D2078-2015,56,D2078-2015:a56,,1,texto del acto
+2019-11-13,D2195-2019:a12,modifica,D2078-2015,58,D2078-2015:a58,,1,texto del acto
+2019-11-13,D2195-2019:a13,modifica_parcial,D2078-2015,59,D2078-2015:a59,tabla,1,texto del acto
+2019-11-13,D2195-2019:a14,modifica,D2078-2015,62,D2078-2015:a62,,1,texto del acto
+2019-11-13,D2195-2019:a15,adiciona_subunidad,D2078-2015,68,D2078-2015:a68,parágrafo,1,texto del acto
+2019-11-13,D2195-2019:a16,modifica_parcial,D2078-2015,71,D2078-2015:a71,numeral 3,1,texto del acto
+2019-11-13,D2195-2019:a17,modifica,D2078-2015,80,D2078-2015:a80,,1,texto del acto
+2019-11-13,D2195-2019:a18,adiciona,D2078-2015,84A,,,1,texto del acto
+2019-11-13,D2195-2019:a19,modifica_parcial,D2078-2015,94,D2078-2015:a94,numeral 2,1,texto del acto
+2019-11-13,D2195-2019:a20,adiciona,D2078-2015,94A,,,1,texto del acto
+2019-11-13,D2195-2019:a21,adiciona,D2078-2015,94B,,,1,texto del acto
+2019-11-13,D2195-2019:a22,adiciona,D2078-2015,98A,,,1,texto del acto
+2019-11-13,D2195-2019:a23,modifica_parcial,D2078-2015,105,D2078-2015:a105,tabla,1,texto del acto
+2019-11-13,D2195-2019:a24,adiciona,D2078-2015,105A,,,1,texto del acto
+2019-11-13,D2195-2019:a25,modifica_parcial,D2078-2015,115,D2078-2015:a115,tabla,1,texto del acto
+2019-11-13,D2195-2019:a26,adiciona,D2078-2015,115A,,,1,texto del acto
+2019-11-13,D2195-2019:a27,modifica_parcial,D2078-2015,125,D2078-2015:a125,tabla,1,texto del acto
+2019-11-13,D2195-2019:a28,adiciona,D2078-2015,125A,,,1,texto del acto
+2019-11-13,D2195-2019:a29,modifica_parcial,D2078-2015,136,D2078-2015:a136,tabla,1,texto del acto
+2019-11-13,D2195-2019:a30,adiciona,D2078-2015,136A,,,1,texto del acto
+2019-11-13,D2195-2019:a31,adiciona,D2078-2015,147A,,,1,texto del acto
+2019-11-13,D2195-2019:a32,adiciona,D2078-2015,157A,,,1,texto del acto
+2019-11-13,D2195-2019:a33,modifica_parcial,D2078-2015,168,D2078-2015:a168,tabla,1,texto del acto
+2019-11-13,D2195-2019:a34,adiciona,D2078-2015,168A,,,1,texto del acto
+2019-11-13,D2195-2019:a35,modifica_parcial,D2078-2015,178,D2078-2015:a178,tabla,1,texto del acto
+2019-11-13,D2195-2019:a36,adiciona,D2078-2015,178A,,,1,texto del acto
+2019-11-13,D2195-2019:a37,modifica_parcial,D2078-2015,188,D2078-2015:a188,tabla,1,texto del acto
+2019-11-13,D2195-2019:a38,adiciona,D2078-2015,188A,,,1,texto del acto
+2019-11-13,D2195-2019:a39,modifica_parcial,D2078-2015,198,D2078-2015:a198,tabla,1,texto del acto
+2019-11-13,D2195-2019:a40,adiciona,D2078-2015,198A,,,1,texto del acto
+2019-11-13,D2195-2019:a41,modifica_parcial,D2078-2015,208,D2078-2015:a208,tabla,1,texto del acto
+2019-11-13,D2195-2019:a42,adiciona,D2078-2015,208A,,,1,texto del acto
+2019-11-13,D2195-2019:a43,modifica_parcial,D2078-2015,218,D2078-2015:a218,tabla,1,texto del acto
+2019-11-13,D2195-2019:a44,adiciona,D2078-2015,218A,,,1,texto del acto
+2019-11-13,D2195-2019:a45,modifica_parcial,D2078-2015,228,D2078-2015:a228,tabla,1,texto del acto
+2019-11-13,D2195-2019:a46,adiciona,D2078-2015,228A,,,1,texto del acto
+2019-11-13,D2195-2019:a47,modifica,D2078-2015,254,D2078-2015:a254,,1,texto del acto
+2019-11-13,D2195-2019:a48,modifica,D2078-2015,255,D2078-2015:a255,,1,texto del acto
+2019-11-13,D2195-2019:a49,deroga,D2078-2015,108,D2078-2015:a108,,1,inventario (artículo de vigencia)
+2019-11-13,D2195-2019:a49,deroga,D2078-2015,118,D2078-2015:a118,,1,inventario (artículo de vigencia)
+2019-11-13,D2195-2019:a49,deroga,D2078-2015,128,D2078-2015:a128,,1,inventario (artículo de vigencia)
+2019-11-13,D2195-2019:a49,deroga,D2078-2015,150,D2078-2015:a150,,1,inventario (artículo de vigencia)
+2019-11-13,D2195-2019:a49,deroga,D2078-2015,160,D2078-2015:a160,,1,inventario (artículo de vigencia)
+2019-11-13,D2195-2019:a49,deroga,D2078-2015,171,D2078-2015:a171,,1,inventario (artículo de vigencia)
+2019-11-13,D2195-2019:a49,deroga,D2078-2015,181,D2078-2015:a181,,1,inventario (artículo de vigencia)
+2019-11-13,D2195-2019:a49,deroga,D2078-2015,191,D2078-2015:a191,,1,inventario (artículo de vigencia)
+2019-11-13,D2195-2019:a49,deroga,D2078-2015,201,D2078-2015:a201,,1,inventario (artículo de vigencia)
+2019-11-13,D2195-2019:a49,deroga,D2078-2015,211,D2078-2015:a211,,1,inventario (artículo de vigencia)
+2019-11-13,D2195-2019:a49,deroga,D2078-2015,221,D2078-2015:a221,,1,inventario (artículo de vigencia)
+2019-11-13,D2195-2019:a49,deroga,D2078-2015,231,D2078-2015:a231,,1,inventario (artículo de vigencia)
+2019-11-13,D2229-2019:a10,modifica,D2148-2015,6A,D0522-2018:a6,,1,texto del acto
+2019-11-13,D2229-2019:a11,modifica,D2148-2015,7,D0522-2018:a7,,1,texto del acto
+2019-11-13,D2229-2019:a12,modifica,D2148-2015,8,D0522-2018:a8,,1,texto del acto
+2019-11-13,D2229-2019:a13,modifica,D2148-2015,9,D0522-2018:a9,,1,texto del acto
+2019-11-13,D2229-2019:a14,modifica_parcial,D2148-2015,14,D0522-2018:a12,"parágrafo 4, numeral 4",1,texto del acto
+2019-11-13,D2229-2019:a19,deroga_acto,D0327-1997,,D0327-1997,acto completo,28,inventario (artículo de vigencia)
+2019-11-13,D2229-2019:a19,deroga,D2148-2015,20,D0522-2018:a19,,1,inventario (artículo de vigencia)
+2019-11-13,D2229-2019:a19,deroga,D2148-2015,21,D0522-2018:a20,,1,inventario (artículo de vigencia)
+2019-11-13,D2229-2019:a19,deroga_subunidad,D2148-2015,27,D2148-2015:a27,numeral 8,1,inventario (artículo de vigencia)
+2019-12-26,D2480-2019:a4,modifica,D2077-2015,37,D2077-2015:a37,,1,texto del acto
+2019-12-26,D2480-2019:a5,modifica,D2077-2015,58,D2077-2015:a58,,1,texto del acto
+2019-12-26,D2480-2019:a6,modifica,D2077-2015,59,D2077-2015:a59,,1,texto del acto
+2019-12-26,D2480-2019:a7,modifica,D2077-2015,76,D2077-2015:a76,,1,texto del acto
+2019-12-26,D2480-2019:a8,modifica,D2077-2015,85,D2077-2015:a85,,1,texto del acto
+2019-12-26,D2480-2019:a9,modifica,D2077-2015,94,D2077-2015:a94,,1,texto del acto
+2019-12-26,D2480-2019:a10,modifica,D2077-2015,192,D2077-2015:a192,,1,texto del acto
+2019-12-26,D2480-2019:a11,modifica,D2077-2015,193,D2077-2015:a193,,1,texto del acto
+2019-12-26,D2480-2019:a12,modifica,D2077-2015,194,D2077-2015:a194,,1,texto del acto
+2019-12-26,D2480-2019:a13,adiciona,D2077-2015,194A,,,1,texto del acto
+2019-12-26,D2480-2019:a14,modifica,D2077-2015,195,D2077-2015:a195,,1,texto del acto
+2019-12-26,D2480-2019:a15,modifica,D2077-2015,196,D2077-2015:a196,,1,texto del acto
+2019-12-26,D2480-2019:a16,modifica,D2077-2015,197,D2077-2015:a197,,1,texto del acto
+2019-12-26,D2480-2019:a17,modifica,D2077-2015,198,D2077-2015:a198,,1,texto del acto
+2019-12-26,D2480-2019:a18,modifica,D2077-2015,199,D2077-2015:a199,,1,texto del acto
+2019-12-26,D2480-2019:a19,modifica,D2077-2015,200,D2077-2015:a200,,1,texto del acto
+2019-12-26,D2480-2019:a20,modifica,D2077-2015,201,D2077-2015:a201,,1,texto del acto
+2019-12-26,D2480-2019:a21,modifica,D2077-2015,203,D2077-2015:a203,,1,texto del acto
+2019-12-26,D2482-2019:a4,modifica,D2053-2015,177,D2053-2015:a177,,1,texto del acto
+2019-12-26,D2482-2019:a5,modifica,D2053-2015,178,D2053-2015:a178,,1,texto del acto
+2019-12-26,D2482-2019:a6,modifica,D2053-2015,179,D2053-2015:a179,,1,texto del acto
+2019-12-26,D2482-2019:a8,adiciona,D2053-2015,182A,,,1,texto del acto
+2019-12-26,D2482-2019:a9,adiciona,D2053-2015,182B,,,1,texto del acto
+2019-12-26,D2482-2019:a10,modifica,D2053-2015,183,D2053-2015:a183,,1,texto del acto
+2019-12-26,D2482-2019:a12,modifica,D2053-2015,188,D2053-2015:a188,,1,texto del acto
+2019-12-26,D2482-2019:a13,adiciona_subunidad,D2053-2015,189,D2053-2015:a189,parágrafos 1 y 2,1,texto del acto
+2019-12-26,D2482-2019:a14,modifica,D2053-2015,192,D2053-2015:a192,,1,texto del acto
+2019-12-26,D2482-2019:a15,modifica,D2053-2015,193,D2053-2015:a193,,1,texto del acto
+2019-12-26,D2482-2019:a16,modifica,D2053-2015,196,D2053-2015:a196,,1,texto del acto
+2019-12-26,D2482-2019:a17,modifica_parcial,D2053-2015,197,D2053-2015:a197,tabla,1,texto del acto
+2019-12-26,D2482-2019:a18,modifica,D2053-2015,198,D2053-2015:a198,,1,texto del acto
+2019-12-26,D2482-2019:a19,modifica,D2053-2015,199,D2053-2015:a199,,1,texto del acto
+2019-12-26,D2482-2019:a20,modifica,D2053-2015,217,D2053-2015:a217,,1,texto del acto
+2019-12-26,D2482-2019:a21,modifica,D2053-2015,218,D2053-2015:a218,,1,texto del acto
+2019-12-26,D2482-2019:a22,modifica,D2053-2015,220,D2053-2015:a220,,1,texto del acto
+2019-12-26,D2482-2019:a23,modifica,D2053-2015,221,D2053-2015:a221,,1,texto del acto
+2019-12-26,D2482-2019:a24,adiciona,D2053-2015,221A,,,1,texto del acto
+2019-12-26,D2482-2019:a25,adiciona,D2053-2015,221B,,,1,texto del acto
+2019-12-26,D2482-2019:a26,modifica,D2053-2015,222,D2053-2015:a222,,1,texto del acto
+2019-12-26,D2482-2019:a27,modifica,D2053-2015,223,D2053-2015:a223,,1,texto del acto
+2019-12-26,D2482-2019:a28,modifica,D2053-2015,224,D2053-2015:a224,,1,texto del acto
+2019-12-26,D2482-2019:a29,modifica,D2053-2015,226,D2053-2015:a226,,1,texto del acto
+2019-12-26,D2482-2019:a30,modifica,D2053-2015,227,D2053-2015:a227,,1,texto del acto
+2019-12-26,D2482-2019:a31,modifica,D2053-2015,228,D2053-2015:a228,,1,texto del acto
+2019-12-26,D2482-2019:a32,modifica,D2053-2015,232,D2053-2015:a232,,1,texto del acto
+2019-12-26,D2482-2019:a33,modifica,D2053-2015,233,D2053-2015:a233,,1,texto del acto
+2019-12-26,D2482-2019:a34,modifica,D2053-2015,234,D2053-2015:a234,,1,texto del acto
+2019-12-26,D2482-2019:a35,modifica,D2053-2015,235,D2053-2015:a235,,1,texto del acto
+2019-12-26,D2482-2019:a36,modifica,D2053-2015,236,D2053-2015:a236,,1,texto del acto
+2019-12-26,D2482-2019:a37,modifica,D2053-2015,237,D2053-2015:a237,,1,texto del acto
+2019-12-26,D2482-2019:a38,adiciona,D2053-2015,237A,,,1,texto del acto
+2019-12-26,D2482-2019:a40,modifica,D2053-2015,240,D2053-2015:a240,,1,texto del acto
+2019-12-26,D2482-2019:a41,modifica,D2053-2015,243,D2053-2015:a243,,1,texto del acto
+2019-12-26,D2482-2019:a42,adiciona,D2053-2015,243A,,,1,texto del acto
+2019-12-26,D2482-2019:a43,modifica,D2053-2015,244,D2053-2015:a244,,1,texto del acto
+2019-12-26,D2482-2019:a44,modifica,D2053-2015,247,D2053-2015:a247,,1,texto del acto
+2019-12-26,D2482-2019:a45,modifica,D2053-2015,248,D2053-2015:a248,,1,texto del acto
+2019-12-26,D2482-2019:a46,modifica,D2053-2015,249,D2053-2015:a249,,1,texto del acto
+2019-12-26,D2482-2019:a47,adiciona,D2053-2015,249A,,,1,texto del acto
+2019-12-26,D2482-2019:a48,modifica,D2053-2015,250,D2053-2015:a250,,1,texto del acto
+2019-12-26,D2482-2019:a49,modifica,D2053-2015,252,D2053-2015:a252,,1,texto del acto
+2019-12-26,D2482-2019:a50,modifica,D2053-2015,253,D2053-2015:a253,,1,texto del acto
+2019-12-26,D2482-2019:a51,modifica,D2053-2015,254,D2053-2015:a254,,1,texto del acto
+2019-12-26,D2482-2019:a53,adiciona,D2053-2015,254B,,,1,texto del acto
+2019-12-26,D2482-2019:a54,adiciona,D2053-2015,254C,,,1,texto del acto
+2019-12-26,D2482-2019:a56,modifica,D2053-2015,260,D2053-2015:a260,,1,texto del acto
+2019-12-26,D2482-2019:a57,modifica,D2053-2015,261,D2053-2015:a261,,1,texto del acto
+2019-12-26,D2482-2019:a58,modifica,D2053-2015,263,D2053-2015:a263,,1,texto del acto
+2019-12-26,D2482-2019:a59,modifica,D2053-2015,264,D2053-2015:a264,,1,texto del acto
+2019-12-26,D2482-2019:a60,modifica,D2053-2015,265,D2053-2015:a265,,1,texto del acto
+2019-12-26,D2482-2019:a61,modifica,D2053-2015,266,D2053-2015:a266,,1,texto del acto
+2019-12-26,D2482-2019:a62,modifica,D2053-2015,267,D2053-2015:a267,,1,texto del acto
+2019-12-26,D2482-2019:a63,modifica,D2053-2015,268,D2053-2015:a268,,1,texto del acto
+2019-12-26,D2482-2019:a64,adiciona,D2053-2015,268A,,,1,texto del acto
+2019-12-26,D2482-2019:a65,modifica,D2053-2015,270,D2053-2015:a270,,1,texto del acto
+2019-12-26,D2482-2019:a66,adiciona,D2053-2015,270A,,,1,texto del acto
+2019-12-26,D2482-2019:a67,modifica,D2053-2015,272,D2053-2015:a272,,1,texto del acto
+2019-12-26,D2482-2019:a68,modifica,D2053-2015,274,D2053-2015:a274,,1,texto del acto
+2019-12-26,D2482-2019:a69,modifica,D2053-2015,275,D2053-2015:a275,,1,texto del acto
+2019-12-26,D2482-2019:a70,modifica,D2053-2015,276,D2053-2015:a276,,1,texto del acto
+2019-12-26,D2482-2019:a71,modifica,D2053-2015,277,D2053-2015:a277,,1,texto del acto
+2019-12-26,D2482-2019:a72,modifica,D2053-2015,278,D2053-2015:a278,,1,texto del acto
+2019-12-26,D2482-2019:a73,modifica,D2053-2015,279,D2053-2015:a279,,1,texto del acto
+2019-12-26,D2482-2019:a74,adiciona,D2053-2015,279A,,,1,texto del acto
+2019-12-26,D2482-2019:a75,modifica,D2053-2015,281,D2053-2015:a281,,1,texto del acto
+2019-12-26,D2482-2019:a76,adiciona,D2053-2015,281A,,,1,texto del acto
+2019-12-26,D2482-2019:a77,modifica,D2053-2015,283,D2053-2015:a283,,1,texto del acto
+2019-12-26,D2482-2019:a78,modifica,D2053-2015,285,D2053-2015:a285,,1,texto del acto
+2019-12-26,D2482-2019:a79,modifica,D2053-2015,286,D2053-2015:a286,,1,texto del acto
+2019-12-26,D2482-2019:a80,modifica,D2053-2015,287,D2053-2015:a287,,1,texto del acto
+2019-12-26,D2482-2019:a81,modifica,D2053-2015,288,D2053-2015:a288,,1,texto del acto
+2019-12-26,D2482-2019:a82,modifica,D2053-2015,289,D2053-2015:a289,,1,texto del acto
+2019-12-26,D2482-2019:a84,adiciona,D2053-2015,290A,,,1,texto del acto
+2019-12-26,D2482-2019:a85,modifica,D2053-2015,292,D2053-2015:a292,,1,texto del acto
+2019-12-26,D2482-2019:a86,adiciona,D2053-2015,292A,,,1,texto del acto
+2019-12-26,D2482-2019:a87,modifica,D2053-2015,294,D2053-2015:a294,,1,texto del acto
+2019-12-26,D2482-2019:a88,deroga,D2053-2015,190,D2053-2015:a190,,1,inventario (artículo de vigencia)
+2019-12-26,D2482-2019:a88,deroga,D2053-2015,212,D2053-2015:a212,,1,inventario (artículo de vigencia)
+2019-12-26,D2482-2019:a88,deroga,D2053-2015,225,D2053-2015:a225,,1,inventario (artículo de vigencia)
+2019-12-26,D2482-2019:a88,deroga,D2053-2015,229,D2053-2015:a229,,1,inventario (artículo de vigencia)
+2019-12-26,D2482-2019:a88,deroga,D2053-2015,230,D2053-2015:a230,,1,inventario (artículo de vigencia)
+2019-12-26,D2482-2019:a88,deroga,D2053-2015,231,D2053-2015:a231,,1,inventario (artículo de vigencia)
+2019-12-26,D2482-2019:a88,deroga,D2053-2015,238,D2053-2015:a238,,1,inventario (artículo de vigencia)
+2019-12-26,D2482-2019:a88,deroga,D2053-2015,255,D2053-2015:a255,,1,inventario (artículo de vigencia)
+2019-12-26,D2482-2019:a88,deroga,D2053-2015,256,D2053-2015:a256,,1,inventario (artículo de vigencia)
+2019-12-26,D2482-2019:a88,deroga,D2053-2015,257,D2053-2015:a257,,1,inventario (artículo de vigencia)
+2019-12-26,D2482-2019:a88,deroga,D2053-2015,269,D2053-2015:a269,,1,inventario (artículo de vigencia)
+2019-12-26,D2482-2019:a88,deroga,D2053-2015,271,D2053-2015:a271,,1,inventario (artículo de vigencia)
+2019-12-26,D2482-2019:a88,deroga,D2053-2015,273,D2053-2015:a273,,1,inventario (artículo de vigencia)
+2019-12-26,D2482-2019:a88,deroga,D2053-2015,280,D2053-2015:a280,,1,inventario (artículo de vigencia)
+2019-12-26,D2482-2019:a88,deroga,D2053-2015,282,D2053-2015:a282,,1,inventario (artículo de vigencia)
+2019-12-26,D2482-2019:a88,deroga,D2053-2015,284,D2053-2015:a284,,1,inventario (artículo de vigencia)
+2019-12-26,D2482-2019:a88,deroga,D2053-2015,291,D2053-2015:a291,,1,inventario (artículo de vigencia)
+2019-12-26,D2482-2019:a88,deroga,D2053-2015,293,D2053-2015:a293,,1,inventario (artículo de vigencia)
+2019-12-26,D2482-2019:a88,deroga,D2053-2015,295,D2053-2015:a295,,1,inventario (artículo de vigencia)
+2019-12-27,D2502-2019:a73,deroga_acto,D0566-2011,,D0566-2011,acto completo,5,inventario (artículo de vigencia)
+2019-12-27,D2502-2019:a73,deroga_acto,D1152-2015,,D1152-2015,acto completo,17,inventario (artículo de vigencia)
+2021-07-01,D0242-2021:a1,modifica,D2502-2019,5,D2502-2019:a5,,1,texto del acto
+2021-07-01,D0242-2021:a2,modifica_parcial,D2502-2019,11,D2502-2019:a11,numeral 3,1,texto del acto
+2021-07-01,D0242-2021:a3,modifica_parcial,D2502-2019,11,D2502-2019:a11,inciso final,1,texto del acto
+2021-07-01,D0242-2021:a4,modifica,D2502-2019,17,D2502-2019:a17,,1,texto del acto
+2021-07-01,D0242-2021:a5,modifica_parcial,D2502-2019,18,D2502-2019:a18,parágrafo,1,texto del acto
+2021-07-01,D0242-2021:a6,modifica,D2502-2019,22,D2502-2019:a22,,1,texto del acto
+2021-07-01,D0242-2021:a7,modifica,D2502-2019,33,D2502-2019:a33,,1,texto del acto
+2021-07-01,D0242-2021:a8,modifica_parcial,D2502-2019,35,D2502-2019:a35,numeral 2,1,texto del acto
+2021-07-01,D0242-2021:a9,adiciona,D2502-2019,35A,,,1,texto del acto
+2021-07-01,D0242-2021:a10,modifica_parcial,D2502-2019,67,D2502-2019:a67,parágrafo 2,1,texto del acto
+2021-07-01,D0242-2021:a11,modifica_parcial,D2502-2019,69,D2502-2019:a69,numeral 1.1.,1,texto del acto
+2021-07-01,D0242-2021:a12,adiciona,D2502-2019,69A,,,1,texto del acto
+2021-07-01,D0242-2021:a13,adiciona,D2502-2019,69B,,,1,texto del acto
+2021-07-01,D0242-2021:a14,adiciona,D2502-2019,69C,,,1,texto del acto
+2021-07-01,D0242-2021:a15,adiciona,D2502-2019,72A,,,1,texto del acto
+2021-07-01,D0242-2021:a17,deroga_subunidad,D2502-2019,11,D2502-2019:a11,numerales 5 y 6,1,inventario (artículo de vigencia)
+2021-10-01,D0818-2021:a58,deroga_acto,D1091-2017,,D1091-2017,acto completo,31,inventario (artículo de vigencia)
+2022-04-07,D0265-2022:a65,deroga_acto,D1626-2015,,D1626-2015,acto completo,10,inventario (artículo de vigencia)
+2023-02-02,D1137-2022:a1,adiciona_subunidad,D0818-2021,34,D0818-2021:a34,dos parágrafos transitorios,1,texto del acto
+2023-10-09,D0838-2023:a1,adiciona_subunidad,D0818-2021,34,D0818-2021:a34,numeral,1,texto del acto
+2023-10-17,D0887-2023:a4,adiciona,D0473-2015,16A,,,1,texto del acto
+2023-10-17,D0887-2023:a5,adiciona,D0473-2015,16B,,,1,texto del acto
+2023-10-17,D0887-2023:a6,modifica_parcial,D0473-2015,1,D0473-2015:a1,parágrafo,1,texto del acto
+2023-12-21,D1143-2023:a15,deroga_acto,D0847-2014,,D0847-2014,acto completo,17,inventario (artículo de vigencia)
+2023-12-22,D1156-2023:a13,deroga_acto,D1569-2016,,D1569-2016,acto completo,12,inventario (artículo de vigencia)
+2023-12-22,D1156-2023:a13,deroga_acto,D0127-2017,,D0127-2017,acto completo,3,inventario (artículo de vigencia)
+2023-12-22,D1156-2023:a13,deroga_acto,D0621-2017,,D0621-2017,acto completo,5,inventario (artículo de vigencia)
+2023-12-27,D1098-2023:a277,deroga_acto,D2078-2015,,D2078-2015,acto completo,286,inventario (artículo de vigencia)
+2023-12-27,D1098-2023:a277,deroga_acto,D2195-2019,,D2195-2019,acto completo,6,inventario (artículo de vigencia)
+2023-12-27,D1113-2023:a254,deroga_acto,D2077-2015,,D2077-2015,acto completo,283,inventario (artículo de vigencia)
+2023-12-27,D1113-2023:a254,deroga_acto,D2480-2019,,D2480-2019,acto completo,6,inventario (artículo de vigencia)
+2023-12-29,D1166-2023:a349,deroga_acto,D2053-2015,,D2053-2015,acto completo,479,inventario (artículo de vigencia)
+2023-12-29,D1166-2023:a349,deroga_acto,D1006-2018,,D1006-2018,acto completo,7,inventario (artículo de vigencia)
+2023-12-29,D1166-2023:a349,deroga_acto,D2482-2019,,D2482-2019,acto completo,6,inventario (artículo de vigencia)
+2024-09-30,D0787-2024:a2,modifica,D2481-2019,9,D2481-2019:a9,,1,texto del acto
+2024-09-30,D0787-2024:a3,modifica,D2481-2019,11,D2481-2019:a11,,1,texto del acto
+2024-09-30,D0787-2024:a4,modifica,D2481-2019,12,D2481-2019:a12,,1,texto del acto
+2024-09-30,D0787-2024:a5,modifica,D2481-2019,25,D2481-2019:a25,,1,texto del acto
+2024-09-30,D0787-2024:a6,modifica,D2481-2019,56,D2481-2019:a56,,1,texto del acto
+2024-09-30,D0787-2024:a7,modifica,D2481-2019,60,D2481-2019:a60,,1,texto del acto
+2025-06-06,D0472-2025:a4,adiciona,D1098-2023,75A,,,1,texto del acto
+2025-06-06,D0472-2025:a5,modifica,D1098-2023,79,D1098-2023:a79,,1,texto del acto
+2025-06-06,D0472-2025:a6,modifica,D1098-2023,80,D1098-2023:a80,,1,texto del acto
+2025-06-06,D0472-2025:a7,modifica,D1098-2023,95,D1098-2023:a95,,1,texto del acto
+2025-06-06,D0472-2025:a8,modifica,D1098-2023,97,D1098-2023:a97,,1,texto del acto
+2025-06-06,D0472-2025:a9,modifica,D1098-2023,98,D1098-2023:a98,,1,texto del acto
+2025-06-06,D0472-2025:a10,modifica,D1098-2023,99,D1098-2023:a99,,1,texto del acto
+2025-06-06,D0472-2025:a11,modifica,D1098-2023,100,D1098-2023:a100,,1,texto del acto
+2025-06-06,D0472-2025:a12,modifica,D1098-2023,101,D1098-2023:a101,,1,texto del acto
+2025-06-06,D0472-2025:a13,modifica,D1098-2023,152,D1098-2023:a152,,1,texto del acto
+2025-06-06,D0472-2025:a14,modifica,D1098-2023,155,D1098-2023:a155,,1,texto del acto
+2025-06-06,D0472-2025:a15,modifica,D1098-2023,156,D1098-2023:a156,,1,texto del acto
+2025-06-06,D0472-2025:a16,modifica_parcial,D1098-2023,157,D1098-2023:a157,Parágrafo 3,1,texto del acto
+2025-06-06,D0472-2025:a17,modifica,D1098-2023,158,D1098-2023:a158,,1,texto del acto
+2025-06-06,D0472-2025:a18,modifica,D1098-2023,159,D1098-2023:a159,,1,texto del acto
+2025-06-06,D0472-2025:a19,modifica,D1098-2023,160,D1098-2023:a160,,1,texto del acto
+2025-06-06,D0472-2025:a20,modifica,D1098-2023,161,D1098-2023:a161,,1,texto del acto
+2025-06-06,D0472-2025:a21,modifica,D1098-2023,162,D1098-2023:a162,,1,texto del acto
+2025-06-06,D0472-2025:a22,modifica,D1098-2023,163,D1098-2023:a163,,1,texto del acto
+2025-06-06,D0472-2025:a23,modifica,D1098-2023,166,D1098-2023:a166,,1,texto del acto
+2025-06-06,D0472-2025:a24,modifica,D1098-2023,168,D1098-2023:a168,,1,texto del acto
+2025-06-06,D0472-2025:a25,modifica,D1098-2023,169,D1098-2023:a169,,1,texto del acto
+2025-06-06,D0472-2025:a26,modifica,D1098-2023,170,D1098-2023:a170,,1,texto del acto
+2025-06-06,D0472-2025:a27,modifica,D1098-2023,171,D1098-2023:a171,,1,texto del acto
+2025-06-06,D0472-2025:a28,modifica,D1098-2023,172,D1098-2023:a172,,1,texto del acto
+2025-06-06,D0472-2025:a30,adiciona,D1098-2023,231A,,,1,texto del acto
