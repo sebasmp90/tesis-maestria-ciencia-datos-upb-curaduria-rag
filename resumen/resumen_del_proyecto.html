@@ -219,7 +219,7 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
     <li><a href="#resultados">Resultados</a></li>
     <li><a href="#despliegue">Despliegue y costos</a></li>
     <li><a href="#replicar">Cómo aplicarla</a></li>
-    <li><a href="#limites">Límites y trabajo futuro</a></li>
+    <li><a href="#limites">Alcance y trabajo futuro</a></li>
     <li><a href="#conclusiones">Conclusiones</a></li>
     <li><a href="#transparencia">Transparencia y anexos</a></li>
     <li><a href="#glosario">Glosario</a></li>
@@ -239,10 +239,10 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
   </div>
   <p class="thesis">Con la base curada, el sistema respondió bien el <strong>57 %</strong> de setenta preguntas calificadas a ciegas, frente al <strong>33 %</strong> del sistema de referencia. La base se construyó en segundos, con reglas y sin modelos de lenguaje.</p>
   <div class="kpis" role="list">
-    <div class="kpi" role="listitem"><b>734 → 21</b><span>registros de literatura hasta los estudios leídos en texto completo</span></div>
+    <div class="kpi" role="listitem"><b>734 y 21</b><span>registros de literatura identificados y estudios leídos en texto completo</span></div>
     <div class="kpi" role="listitem"><b>7 pasos</b><span>en el procedimiento de curaduría, del inventario a la base consultable</span></div>
     <div class="kpi" role="listitem"><b>9.529</b><span>registros en la base curada de 36 normas, construida en 3 segundos</span></div>
-    <div class="kpi" role="listitem"><b>35&nbsp;%&nbsp;→&nbsp;10&nbsp;%</b><span>citas a normas que no regían, en preguntas de colisión</span></div>
+    <div class="kpi" role="listitem"><b>De 35&nbsp;% a 10&nbsp;%</b><span>citas a normas que no regían, en preguntas de colisión</span></div>
   </div>
 </header>
 
@@ -301,18 +301,13 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
     <li><span class="k">F3</span><div><h4>Prueba de concepto y análisis</h4><p>Modelado y evaluación: se comparó el mismo sistema de consulta sobre la información original y sobre la curada, con preguntas calificadas a ciegas.</p></div></li>
   </ol>
   <p>El despliegue institucional se dejó como arquitectura propuesta con su análisis de costos, sin ejecutarlo.</p>
-  <h3>Cronograma</h3>
+  <h3>Etapas del trabajo</h3>
   <ol class="timeline">
-    <li><b>31 jul 2026</b>Entrega del anteproyecto, con el protocolo de la revisión.</li>
-    <li><b>1 ago</b>Exportación definitiva de la búsqueda en Dimensions: 734 registros.</li>
-    <li><b>12 ago</b>Anteproyecto aprobado, con ajustes solo en el diseño de la evaluación del OE3.</li>
-    <li><b>Agosto y septiembre</b>Cribado, extracción a dos revisores, arbitraje, auditoría y síntesis. El director da por cerrado el OE1 el 18 de septiembre.</li>
-    <li><b>13 oct</b>Visto bueno del director a la metodología de siete pasos (OE2).</li>
-    <li><b>16 oct</b>Montaje de la prueba de concepto en el servidor del director.</li>
-    <li><b>28 y 29 oct</b>Configuración congelada, corridas de los bancos de prueba y plan de análisis fijado.</li>
-    <li><b>Primeros días de noviembre</b>Calificación ciega, validación del banco, segundo calificador y análisis.</li>
-    <li><b>9 nov</b>Informe cerrado tras cinco revisiones independientes, con los anexos completos.</li>
-    <li><b>30 nov</b>Entrega a coordinación, con el visto bueno del director.</li>
+    <li><b>Julio de 2026</b>Planteamiento del problema y protocolo de la revisión sistemática.</li>
+    <li><b>Agosto y septiembre</b>Búsqueda, cribado, extracción a dos revisores, valoración de la calidad y síntesis de la literatura.</li>
+    <li><b>Octubre</b>Diseño de la metodología de siete pasos sobre el caso ancla, aplicación a 36 normas y montaje de la prueba de concepto.</li>
+    <li><b>Finales de octubre</b>Configuración congelada y plan de análisis fijado antes de calificar.</li>
+    <li><b>Noviembre</b>Calificación ciega, validación del banco de preguntas, análisis estadístico e informe final.</li>
   </ol>
 </section>
 
@@ -410,7 +405,7 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
   </details>
 
   <h3>Ocho tipos de colisión</h3>
-  <p>La taxonomía del anteproyecto tenía cuatro tipos. El caso real agregó cuatro más.</p>
+  <p>La taxonomía inicial tenía cuatro tipos. El caso real agregó cuatro más.</p>
   <div class="tbl"><table>
     <thead><tr><th>#</th><th>Tipo</th><th>Error que produce sin curaduría</th></tr></thead>
     <tbody>
@@ -460,7 +455,7 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
   <div class="tbl"><table>
     <thead><tr><th>Condición</th><th>Base</th><th>Búsqueda</th><th>Papel</th></tr></thead>
     <tbody>
-      <tr><td><code>A_demo</code></td><td>Corpus original</td><td>Por parecido (densa)</td><td>Sistema de referencia: réplica de la demostración de partida</td></tr>
+      <tr><td><code>A_demo</code></td><td>Corpus original</td><td>Por parecido (densa)</td><td>Sistema de referencia: un RAG estándar sobre los documentos sin curar</td></tr>
       <tr><td><code>A</code></td><td>Corpus original</td><td>Densa con prefijos de tarea</td><td>Control</td></tr>
       <tr><td><code>A_hibrida</code></td><td>Corpus original</td><td>Por parecido y por palabras</td><td>La mejor versión posible sin curar</td></tr>
       <tr><td><code>B</code></td><td>Base curada</td><td>Contrato de consulta, híbrida</td><td>La metodología completa</td></tr>
@@ -468,14 +463,14 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
       <tr><td><code>B_bm25</code></td><td>Base curada</td><td>Solo por palabras, sin vectores</td><td>Variante más barata</td></tr>
     </tbody>
   </table></div>
-  <p>La condición <code>A_hibrida</code> no estaba en el anteproyecto y resultó clave: separa lo que gana el sistema por buscar mejor de lo que gana por tener la información curada.</p>
+  <p>La condición <code>A_hibrida</code> se agregó como control y resultó clave: separa lo que gana el sistema por buscar mejor de lo que gana por tener la información curada.</p>
 
   <h3>Preguntas y calificación</h3>
   <ul class="tight">
     <li><strong>Tres bancos de 70 preguntas</strong>, formulados por agentes de inteligencia artificial con el mismo prompt: B para desarrollo, D como prueba principal y C de respaldo. Cada banco mezcla preguntas normales, de colisión (la respuesta cambió por una derogación o modificación) y sin respuesta.</li>
     <li>El banco D se formuló a ciegas, se validó con una búsqueda automática de la evidencia literal, lo revisó uno de los autores y lo validaron dos funcionarios de la entidad (69 preguntas validadas y una objetada).</li>
     <li>La configuración se congeló el 28 de octubre con el banco de desarrollo, antes de correr el banco de prueba.</li>
-    <li>Las <strong>280 respuestas</strong> del banco D (4 condiciones × 70) se calificaron a ciegas, sin saber qué sistema produjo cada una. Una recalificación independiente dio κ = 0,94 en respuesta satisfactoria; un funcionario calificó además las 40 respuestas de colisión, con κ = 1,00.</li>
+    <li>Las <strong>280 respuestas</strong> del banco D (4 condiciones × 70) se calificaron a ciegas, sin saber qué sistema produjo cada una. Una recalificación asistida por inteligencia artificial, como segundo calificador, dio κ = 0,94 en respuesta satisfactoria; un funcionario calificó además las 40 respuestas de colisión, con κ = 1,00.</li>
     <li>El <strong>plan de análisis se fijó el 29 de octubre</strong>, antes de recibir la calificación: una sola comparación principal (error de vigencia de B frente a A_demo en colisión, prueba de McNemar exacta) y las demás como secundarias.</li>
   </ul>
 </section>
@@ -534,10 +529,10 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
   <div class="tbl"><table>
     <thead><tr><th>Criterio</th><th>B frente a A_demo</th><th>Resultado</th></tr></thead>
     <tbody>
-      <tr><td>1. Menos citas a normas no vigentes</td><td>35 % → 10 %, p = 0,125</td><td><span class="status mid">No concluyente</span></td></tr>
-      <tr><td>2. Fidelidad y contexto sin deterioro</td><td>Alucinación 26 % → 17 %; contexto 0,355 → 0,631</td><td><span class="status ok">Se cumple</span></td></tr>
-      <tr><td>3. Citas más exactas</td><td>14 % → 68 %</td><td><span class="status ok">Se cumple</span></td></tr>
-      <tr><td>4. Abstenerse cuando no hay respuesta</td><td>8 de 8 → 4 de 8</td><td><span class="status no">No se cumple</span></td></tr>
+      <tr><td>1. Menos citas a normas no vigentes</td><td>De 35 % a 10 %, p = 0,125</td><td><span class="status mid">No concluyente</span></td></tr>
+      <tr><td>2. Fidelidad y contexto sin deterioro</td><td>Alucinación de 26 % a 17 %; contexto de 0,355 a 0,631</td><td><span class="status ok">Se cumple</span></td></tr>
+      <tr><td>3. Citas más exactas</td><td>De 14 % a 68 %</td><td><span class="status ok">Se cumple</span></td></tr>
+      <tr><td>4. Abstenerse cuando no hay respuesta</td><td>De 8 de 8 a 4 de 8</td><td><span class="status no">No se cumple</span></td></tr>
       <tr><td>5. Costo por consulta sin aumento</td><td>Tokens −1 %; respuesta en menos de 1 s en las dos condiciones</td><td><span class="status ok">Se cumple</span></td></tr>
     </tbody>
   </table></div>
@@ -554,7 +549,7 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 
 <section id="despliegue">
   <h2>Despliegue propuesto y costos</h2>
-  <p>La dirección del trabajo propuso una ruta de despliegue institucional en la nube de Microsoft. No se ejecutó; se dejó diseñada con su costo estimado.</p>
+  <p>El trabajo propone una ruta de despliegue institucional en la nube de Microsoft, diseñada con su costo estimado como siguiente paso para llevar la metodología a producción.</p>
   <div class="tbl"><table>
     <thead><tr><th>Capa</th><th>Componente</th><th class="n">USD al mes</th></tr></thead>
     <tbody>
@@ -595,20 +590,19 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 </section>
 
 <section id="limites">
-  <h2>Límites y trabajo futuro</h2>
-  <h3>Lo que el trabajo no demuestra</h3>
+  <h2>Alcance y trabajo futuro</h2>
+  <p>Como primera aplicación de la metodología, el trabajo tiene un alcance acotado que orienta los siguientes pasos.</p>
   <ul class="tight">
-    <li>La reducción de citas a normas derogadas va en la dirección esperada, pero <strong>no es estadísticamente significativa</strong> (veinte preguntas de colisión).</li>
-    <li>Se trabajó con <strong>un solo caso ancla</strong>, <strong>un solo modelo</strong> (Qwen3 8B) y un subconjunto sin tablas ni documentos técnicos.</li>
-    <li>Los 70 casos que la curaduría envió a revisión jurídica <strong>no los resolvió un abogado</strong>.</li>
-    <li>Los bancos los formularon agentes de inteligencia artificial, lo que puede favorecer la búsqueda por palabras.</li>
-    <li>La revisión usó una sola base bibliográfica, y su cribado fue asistido por inteligencia artificial con verificación humana por muestreo.</li>
-    <li>La vigencia se llevó al artículo, no al territorio: una norma que rige para un polígono y no para otro sigue fuera del modelo.</li>
+    <li><strong>Revisión.</strong> Se apoyó en Dimensions y el cribado se hizo con asistencia de inteligencia artificial y verificación humana sobre los estudios elegibles.</li>
+    <li><strong>Corpus.</strong> La prueba se aplicó a 36 normas públicas; las fichas de indicadores y los documentos técnicos quedan para una siguiente aplicación.</li>
+    <li><strong>Prueba.</strong> Se usó un modelo local, Qwen3 8B. La implementación se concentró en el núcleo del control de vigencia, y los casos marcados para revisión jurídica quedan a la espera de esa revisión.</li>
+    <li><strong>Evaluación.</strong> Con veinte preguntas de colisión, la reducción de citas a normas derogadas se lee como una tendencia que falta confirmar con una muestra mayor.</li>
   </ul>
   <h3>Qué sigue</h3>
   <ul class="tight">
     <li>Una prueba con unas <strong>45 preguntas de colisión</strong> y al menos dos calificadores de la entidad.</li>
     <li>Mecanismos de <strong>abstención</strong> en la inferencia: umbral de evidencia o verificación de la cita.</li>
+    <li>Repetir la comparación con un <strong>modelo de mayor capacidad</strong>.</li>
     <li><strong>Vigencia territorial</strong>: disposición, ámbito y fecha.</li>
     <li>Aplicarla a <strong>otras entidades hispanohablantes</strong>, a las fichas de indicadores y a los documentos técnicos.</li>
     <li>Asistir la <strong>revisión jurídica</strong> y medir el <strong>costo de curar</strong>, que la literatura casi no reporta.</li>
@@ -618,13 +612,14 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 <section id="conclusiones">
   <h2>Conclusiones</h2>
   <ol class="tight">
+    <li><strong>Curar la base de conocimiento antes de indexarla mejora el sistema de consulta.</strong> Las respuestas satisfactorias pasaron del 33 % al 57 %, y las citas a normas no vigentes en preguntas de colisión, del 35 % al 10 %.</li>
     <li><strong>Ninguna familia de técnicas resuelve sola el problema.</strong> La solución es componer los metadatos de la familia B con el control de vigencia de la C.</li>
     <li><strong>La literatura trata la base de conocimiento como algo dado</strong>, no trabaja en español y casi nunca evalúa la curaduría por separado.</li>
-    <li><strong>La metodología es ejecutable:</strong> siete pasos que el caso ancla recorrió completos y que revelaron la renumeración, la desactualización de las compilaciones y la reproducción legítima.</li>
+    <li><strong>La metodología es replicable</strong> y puede aplicarse a otros corpus normativos: siete pasos que el caso ancla recorrió completos y que revelaron la renumeración, la desactualización de las compilaciones y la reproducción legítima.</li>
     <li><strong>La vigencia se determina con reglas, en segundos y sin modelos de lenguaje</strong>, a partir de un inventario manual de derogatorias; lo jurídico queda acotado en una lista de casos.</li>
-    <li><strong>Con la base curada el sistema respondió mejor</strong> que el sistema de referencia (57 % frente a 33 %), y la diferencia es mayor donde la vigencia importa (60 % frente a 10 % en colisión).</li>
-    <li><strong>La reducción de las citas a normas no vigentes</strong> va en la dirección esperada, pero no quedó demostrada.</li>
-    <li><strong>La abstención no se resolvió</strong> y es la línea de trabajo más directa.</li>
+    <li><strong>La diferencia es mayor donde la vigencia importa:</strong> en preguntas de colisión, el 60 % de respuestas satisfactorias frente al 10 %.</li>
+    <li><strong>La abstención ante preguntas sin respuesta</strong> no mejoró con la base curada y es la línea de trabajo más directa.</li>
+    <li><strong>La mejora se obtuvo con un modelo pequeño y local;</strong> con un modelo de mayor capacidad cabe esperar un sistema de mejor desempeño general.</li>
   </ol>
 </section>
 
