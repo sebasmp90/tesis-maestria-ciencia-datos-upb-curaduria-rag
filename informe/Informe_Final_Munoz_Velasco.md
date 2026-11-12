@@ -42,7 +42,7 @@ Escuela de Ingenierías
 
 Facultad de Ingeniería en TIC
 
-Medellín, 2026.11.20
+Medellín, 2026.11.12
 
 <!-- salto de página -->
 
@@ -76,7 +76,7 @@ Finalmente, a todas las personas que de una u otra forma acompañaron este camin
 
 Agradezco a mis padres, por su amor, su apoyo incondicional y por enseñarme con su ejemplo el valor del trabajo constante. Gracias por su paciencia durante estos años de estudio y por acompañarme en cada etapa de mi formación. A mi hermana, mi mayor ejemplo de esfuerzo.
 
-A Sebastián Camilo Muñoz, compañero de la especialización y de la maestría, amigo y socio. Fue él quien me animó a emprender la especialización, y desde entonces hemos asumido juntos cada nuevo reto: aulas, proyectos, una empresa y ahora este trabajo, que es tan suyo como mío. Su visión y criterio técnico fue clave para llevarlo a buen término. Gracias por la confianza y por recorrer juntos este camino.
+A Sebastián Camilo Muñoz, compañero de la especialización y de la maestría, amigo y socio. Fue él quien me animó a emprender la especialización, y desde entonces hemos asumido juntos cada nuevo reto: aulas, proyectos, una empresa y ahora este trabajo, que es tan suyo como mío. Su visión y criterio técnico fueron clave para llevarlo a buen término. Gracias por la confianza y por recorrer juntos este camino.
 
 A Sebastián Velasco y a Ana Sofía, amigos y compañeros en SIS Analytics, cuyo impulso fue decisivo para tomar la decisión de cursar esta maestría.
 
