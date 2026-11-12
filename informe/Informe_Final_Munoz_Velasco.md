@@ -74,15 +74,13 @@ Finalmente, a todas las personas que de una u otra forma acompañaron este camin
 
 **Iván Andrés Velasco Arias**
 
-Agradezco a mis padres y a mi hermana, mi mayor ejemplo de esfuerzo, por su amor y su apoyo incondicional en cada etapa de mi formación.
+Agradezco a mis padres, por su amor, su apoyo incondicional y por enseñarme con su ejemplo el valor del trabajo constante. Gracias por su paciencia durante estos años de estudio y por acompañarme en cada etapa de mi formación. A mi hermana, mi mayor ejemplo de esfuerzo.
 
-A la Alcaldía de Medellín, que me abrió las puertas al mundo laboral y facilitó la continuidad de mis estudios.
+A Sebastián Camilo Muñoz, compañero de la especialización y de la maestría, amigo y socio. Fue él quien me animó a emprender la especialización, y desde entonces hemos asumido juntos cada nuevo reto: aulas, proyectos, una empresa y ahora este trabajo, que es tan suyo como mío. Su visión y criterio técnico fue clave para llevarlo a buen término. Gracias por la confianza y por recorrer juntos este camino.
 
-De manera muy especial, a Sebastián Camilo Muñoz, quien me motivó a emprender la especialización, decisión que nos llevó a asumir juntos nuevos retos.
+A Sebastián Velasco y a Ana Sofía, amigos y compañeros en SIS Analytics, cuyo impulso fue decisivo para tomar la decisión de cursar esta maestría.
 
-A Sebastián Velasco y Ana Sofía, amigos y compañeros en SIS Analytics, cuya motivación fue importante para decidir cursar esta maestría.
-
-Finalmente, a todas las personas que han formado parte de este camino.
+Finalmente, a todas las personas que me acompañaron a lo largo de este proceso.
 
 ## Lista de figuras
 
@@ -706,7 +704,7 @@ Los criterios de elegibilidad fueron los de la Tabla 8.
 
 *Tabla 8. Criterios de elegibilidad de la revisión sistemática.*
 
-| | Criterio |
+| Tipo | Criterio |
 |---|---|
 | **Inclusión** | Estudios que describan, propongan o evalúen una intervención sobre el corpus, el índice o los metadatos de un sistema RAG; o que aporten instrumentos de evaluación de esa intervención. Tipos documentales: artículo de revista, ponencia y preprint. |
 | **Exclusión** | Aplicación de RAG sin discusión de la construcción o curaduría de la base de conocimiento. Capítulos de libro y monografías. Estudios sin acceso a texto completo en las rutas institucionales disponibles (tratados como *no recuperados*, no como excluidos). |
@@ -777,7 +775,7 @@ Los 21 estudios se repartieron entre los dos investigadores alternando dentro de
 
 *Tabla 10. Reglas de decisión para la resolución de desacuerdos entre revisores.*
 
-| | Regla |
+| Código | Regla |
 |---|---|
 | **A** | Etapa del pipeline. Se clasifica por el objeto declarado del estudio, no por el título ni por la etapa donde se evaluó. Si el estudio solo aporta una medición, se asigna a la etapa de evaluación, salvo que la medición recaiga sobre una etapa concreta. Si la etiqueta de la técnica contradice la etapa asignada, la etapa está mal. |
 | **B** | Nombre de la técnica. Etiqueta genérica y reutilizable entre estudios que hacen lo mismo. Se prohíben los nombres propios de sistema: un nombre propio no puede ser nodo de una taxonomía. |
@@ -796,7 +794,7 @@ Se aplicó un instrumento de ocho criterios derivado de Kitchenham y Charters (2
 
 *Tabla 11. Instrumento de valoración de la calidad de los estudios.*
 
-| | Criterio | 0 | 1 | 2 |
+| Código | Criterio | 0 | 1 | 2 |
 |---|---|---|---|---|
 | C1 | Objetivo explícito | No se enuncia | Implícito | Enunciado con precisión |
 | C2 | Técnica reproducible | Descripción vaga | Sin parámetros | Parámetros, versiones o código |
@@ -818,6 +816,7 @@ El núcleo obtuvo un puntaje promedio de 12,14 sobre 16, con la distribución qu
 | Alta (≥ 12) | 12 | 57,1 % |
 | Media (8–11) | 8 | 38,1 % |
 | Baja (< 8) | 1 | 4,8 % |
+| **Total** | **21** | **100 %** |
 
 Doce de los veintiún estudios (57,1 %) son preprints sin arbitraje editorial, lo que refleja la juventud del campo y obliga a una cautela particular en la síntesis. Se adoptó como regla que ninguna afirmación de la taxonomía se sostenga únicamente en estudios sin arbitraje.
 
@@ -1554,6 +1553,8 @@ Las limitaciones de este trabajo son propias de una primera aplicación de la me
 
 Akarajaradwong, P., Pothavorn, P., Chaksangchaichot, C., Tasawong, P., Nopparatbundit, T., Pratai, K., y Nutanong, S. (2025). *NitiBench: A comprehensive study of LLM framework capabilities for Thai legal question answering* (arXiv:2502.10868). arXiv. https://doi.org/10.48550/arXiv.2502.10868
 
+Al Mouatamid, Y., Bonnin, M., y Zahir, J. (2026). *From norms to indicators (N2I-RAG): An agentic retrieval-augmented generation framework for legal indicator computation* (arXiv:2605.26926). arXiv. https://doi.org/10.48550/arXiv.2605.26926
+
 Alcaldía de Medellín. (s. f.-a). *Expediente Distrital: Plan de Ordenamiento Territorial de Medellín*. Departamento Administrativo de Planeación. https://www.medellin.gov.co/es/transparencia/plan-de-ordenamiento-territorial-de-medellin/
 
 Alcaldía de Medellín. (s. f.-b). *Geomedellín y MeData: plataformas de información geográfica y datos abiertos del Distrito de Medellín*. https://www.medellin.gov.co/geomedellin
@@ -1587,8 +1588,6 @@ Alcaldía de Medellín. (2019). *Decreto 2229 de 2019: Por medio del cual se ado
 Alcaldía de Medellín. (2022). *Decreto 541 de 2022: Por medio del cual se modifica el Decreto Municipal 2078 de 2015*.
 
 Alcaldía de Medellín. (2023). *Decreto 1143 de 2023: Por medio del cual se reglamenta el Consejo Consultivo de Ordenamiento, se deroga el Decreto 0847 de 2014 y se asignan funciones al Director del Departamento Administrativo de Planeación del Distrito Especial de Ciencia, Tecnología e Innovación de Medellín*.
-
-Al Mouatamid, Y., Bonnin, M., y Zahir, J. (2026). *From norms to indicators (N2I-RAG): An agentic retrieval-augmented generation framework for legal indicator computation* (arXiv:2605.26926). arXiv. https://doi.org/10.48550/arXiv.2605.26926
 
 Allu, U., Kedia, S., Odapally, T., y Ahmed, B. (2026). *Web retrieval-aware chunking (W-RAC) for efficient and cost-effective retrieval-augmented generation systems* (arXiv:2604.04936). arXiv. https://doi.org/10.48550/arXiv.2604.04936
 
